@@ -35,7 +35,7 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     Vector2 scroll;
 
-    public static string exportPath = "NPCExports";
+    public static string exportPath = "NPCSpritesheetImporter/NPCExports";
 
 
     public static string Base_Char_Animator_Path() {
@@ -171,7 +171,9 @@ public class NPCSpritesheetImporter : EditorWindow {
             editorPath = targetFolder + "/" + selectedTexture.name + ".zip";
             ZipUtility.CreateZip(editorPath, createdFiles.ToArray());
 
-
+            foreach (string s in createdFiles) {
+                File.Delete(s);
+            }
 
 
         }
