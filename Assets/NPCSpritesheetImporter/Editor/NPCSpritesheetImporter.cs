@@ -47,16 +47,21 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     static AnimatorController baseAnimator;
 
+    public static void LoadBaseAnimator() {
+        baseAnimator = AssetDatabase.LoadAssetAtPath<AnimatorController>(Base_Char_Animator_Path());
+        if (baseAnimator == null) {
+            EditorUtility.DisplayDialog("Base Animation error!", "Default Base animator not found. take a look at this Base_Char_Animator_Path() and verify the url there. Otherwhise you'll have to manually add the animator to this window every time.", "OK");
+        }
+    }
+
+
 
     [MenuItem("Tools/NPCImporter")]
     public static void ShowWindow() {
         EditorWindow.GetWindow<NPCSpritesheetImporter>(false, "Chars Importer");
-
+        LoadBaseAnimator();
        
-            baseAnimator = AssetDatabase.LoadAssetAtPath<AnimatorController>(Base_Char_Animator_Path());
-        if (baseAnimator == null) {
-            EditorUtility.DisplayDialog("Base Animation error!", "Default Base animator not found. take a look at this Base_Char_Animator_Path() and verify the url there. Otherwhise you'll have to manually add the animator to this window every time.", "OK");
-        }
+         
     }
 
     void OnGUI() {
@@ -262,6 +267,8 @@ public class NPCSpritesheetImporter : EditorWindow {
         EditorGUI.BeginDisabledGroup(CreateAnimationCondition());
 
         if (GUILayout.Button(CreateAnimationsGuiContent)) {
+
+            LoadBaseAnimator();
 
             string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name;
 

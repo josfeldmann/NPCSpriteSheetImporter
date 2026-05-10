@@ -1,0 +1,5394 @@
+fileFormatVersion: 2
+guid: b65f94d0fb5b40445b040d5fe272f90e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinersConstruction_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6dda601d4749643859e91676733bbf
+      internalID: 579709876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d82688aa1055c46844fa8fe9f4c3ff
+      internalID: 1228927227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223eaa04e153a7e41841b27294593b2e
+      internalID: -267780328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7bde07af87db4dbae52a009235222
+      internalID: -178039718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63a509edb052347896c44e92e7ac0e
+      internalID: 297355614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae61ce368bc5840a618e7a2accceb9
+      internalID: -1117529773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03151b239090c45ad9637ab1b36a0c
+      internalID: 483038563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6b2cabeafeb54da1433d46ca2df52
+      internalID: -136019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213d805b55897b49bd111e76c7dec58
+      internalID: 558580592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f70dcafd4fd80429dc9e0ca450f0a5
+      internalID: -1491731432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d851595b2695546a2afad970525a88
+      internalID: 653182752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45897c0689a40c48b090706724a9c28
+      internalID: -184929969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_0_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20630c186646b4f902105f007eca7d
+      internalID: -521130474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad35fa955125647bf75900732a8117
+      internalID: 2119377256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca19d678933b946ac6476edb3b83ec
+      internalID: 118875918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69628fcd624664788a8557af05bea2
+      internalID: 1435990750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567b22c1c9573e4a853ee0a0817aad3
+      internalID: 435296742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371b0cd50dbe7c4d88a4ec6ab8b5a11
+      internalID: 1623158829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d477b8ec8c8801d4aabcbc2d5cfc37b1
+      internalID: 1408808222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1423cbcef1384fa1dea0982cb8382
+      internalID: 260041465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571afb7da4305d4daf4ce2d940117fa
+      internalID: 1201208785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e9571b84e560742a22ce616118c8d8
+      internalID: 970128536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff1a43047448547a15fb88c71d8f45
+      internalID: 1235506496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdc55bc18f92f458133930ba88177b
+      internalID: 106843982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d4a03b2bd855418727e9939377131
+      internalID: -1200698334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_1_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f937ac9e2c30ff42bbb353bb21142b6
+      internalID: 1512265756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c54ad347122a47ab6ab7abe81bbd6
+      internalID: 1316587224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1f4667f14c464ca0278dd4040af77
+      internalID: 1227234924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a6171c1ea81342a2b7f43a8fdd4d8
+      internalID: -2047096456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e67ef8d4843144b7b50018b09f8da
+      internalID: -2052829088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbd60376c073a438fabbd032a14823
+      internalID: -1881016312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807373a11233674faf66d79d3343dac
+      internalID: -1691839946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba6732a958ae24b8ac20ab9f7e521c
+      internalID: 1815463496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c7b618b3da3e4a8ab037cf5beb415
+      internalID: -1676067820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c326ec27309f447811066a674cc5f6
+      internalID: -624705149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e493b1721e2741bb5562cd969bbc3
+      internalID: 740618374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf809e360252d4b883fae11483bd37
+      internalID: 1011532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47581e6bfaae4b9428a2ee4a83cee445
+      internalID: -862445103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_2_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7c5712638c3b458972198725b21e0
+      internalID: -1246690491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc9d064ba2c8594ba42108bcb3fb294
+      internalID: -1058148591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96066d0111bf9b4fb7c14303789fc27
+      internalID: 737191238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2caa0009840542bfc21ad05f8d46b
+      internalID: 364066136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c2e22123e09d4bb0c1cdaf3dab345
+      internalID: 402036737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5167451a66189f349b32793cee8d6143
+      internalID: -2120693276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42521f94bd675034ab38e44d2c6be434
+      internalID: -1441534233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac17d6b185bdf2449d0b9b7f00a7e70
+      internalID: 1154473016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c82b9dcfee494a8d0f97c9275407a
+      internalID: 90672606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc13219b6d990c43b11602026d1d9a5
+      internalID: 542777237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8214bede1bb7c340a56e009e233a283
+      internalID: 1951301623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c867d717d72838949bbccf10d3b96e34
+      internalID: -570318855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095667c42349384889d46aa413df490
+      internalID: -674412156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_3_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764119ff61ccb414097aa43a4dffdfc5
+      internalID: 1940113233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4a0e007d3d8a4eb91c7316657d984
+      internalID: 2105179059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01883ac76165d1a478388d7fc1427909
+      internalID: -1961452951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902780d97687df34da718fc007514fcf
+      internalID: 1908493291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a167c1ec66b7423419338e40132d52e6
+      internalID: -161344000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfe2777df492a43ae053f51d7512b7
+      internalID: 412735583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78151f4d6160f3c47a121bf22bf61ee9
+      internalID: -706008380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183740163ed25e346b0c215bc675240c
+      internalID: 197926988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff2cc7cf1b2ab4293a95ca81010856
+      internalID: -561823924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf2bfff8aa62d4f8b2f9e98f9a7545
+      internalID: 1240783375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b288f53fdbdee4c9815dd6fcbb98d2
+      internalID: 466606972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e00cf2a932c3848ac9410e759bd608
+      internalID: 1959291057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b27b8e9ea3eb2408d6bde658b35f56
+      internalID: -361760520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_4_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4270c09d10b234eb8555fe94e58b75
+      internalID: 1696427758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036fc1ef171bfb8469e363c52ae9b112
+      internalID: -1663729795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955091fc47b89694d88a999ed3b79584
+      internalID: 1831456973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5add7f2bb8bcea4cb4f0abcc5659e72
+      internalID: -59798606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b82eaa1b6c45d4ea36f4aa5b4b4d4b
+      internalID: -1034193078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b417e7aa3034cc45b4558744dd175de
+      internalID: -208901608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f3e18466ebe14b9ffbb7ebecaaeaa
+      internalID: -1235457831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e086382680ee40a0cdfce25af09e2
+      internalID: -610797453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063f0be93ccfcc46afe3a67567aa15c
+      internalID: 1195149641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2d39d82cacc0346adf82403595d2f1
+      internalID: -494589867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c4d4f3dc359b64d936323b206f2e7d
+      internalID: -1075876390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ddc6e51adb59a46969847014033ebf
+      internalID: -792858055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14423224170f1454c895271628392201
+      internalID: 1876720002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_5_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5637d5e648c5704aa11bc4ce445da88
+      internalID: 786787121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad0b9463b17934db3f409f4cc38512
+      internalID: 1015248046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9b45a6b446244fbd536fc312709eb
+      internalID: 1899870578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b27651de4b9f54fac9ba9e08a3abc3
+      internalID: 1123696003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9b39ecc5c9b74b888ea6ea84ece40
+      internalID: -724186217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21674224523cc754a8ec7b575300e265
+      internalID: 644304192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48baf6ee40eb742af52b0266c6a556
+      internalID: -1493556097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce8eb34ff69c346aae8e32a7fd4368
+      internalID: -464978010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08186919a7a249438b949bcea618f96
+      internalID: -1277190873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2faf7b3fddb784483fbe6a4a26a7b1
+      internalID: 1339986827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5fb5b929e3c64c896a35276bfedb8
+      internalID: -1038196158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a0d608e000ac4ea770cf2f4c8bee2
+      internalID: -1275620239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e039fb546234b4408093e1afc53db15
+      internalID: -293002261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_6_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4adcdb10a22fe40bf100bd683b24d2
+      internalID: 1744049314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04645707a476054b835a22bf5568016
+      internalID: -1593562120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76bc69b876a2b45af604496ab1ceb0
+      internalID: 2047316208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e1b3219372834387b8b3987674088
+      internalID: -1494308612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383a6be7692ce941b7dc7d339e4e4f4
+      internalID: 1464174925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a97d26a7c75d4d899e4ab7412d933
+      internalID: -262120163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168b9370468264408e757d10d8d2564
+      internalID: 204625728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c1063273285649adeecc19d86bcaf
+      internalID: -686086518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75441f1b8be24c4d964e7f624c2f40d
+      internalID: -1066987706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bfe591d1119064d8a317704fc9d5ea
+      internalID: -1401317313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9b4f2acc98d1499efa2363061a6a4
+      internalID: 988770122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7b1b040b02ac4e897d10fba2db1cd
+      internalID: 707956368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4ace7a272f4f4395c84add3f5028c
+      internalID: 527115176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_7_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e5e0379a320445a566e701be0d49a
+      internalID: -442063699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b399944627ad4a82d561febe5be1d
+      internalID: -2079236457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecab7550261764408946a73e1be0970
+      internalID: -1568121437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37729a5167543848ac00f61809e526b
+      internalID: 64912031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fec2b65c76a364a81004ac5581a784
+      internalID: -1681024396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded9ba767919954f8fb257f778789b9
+      internalID: -2113328851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb27f0f700e7348a328456c2027cf7
+      internalID: 1519833382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172af5099287f6048957fdc1c52aa635
+      internalID: -1726626640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff99834055cfc5469acb904dab72dc6
+      internalID: -476238672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c1f791ab7b644bad3e380d68caa0a
+      internalID: -686239481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b0c5db4b7afd4ea30d2099bd5aa08
+      internalID: -128586156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114697662bc50f459aec67665889095
+      internalID: 718625081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3ab2471147104fa6772f477cf08cc
+      internalID: 1857992141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_8_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d32c5efadc5d43bc53091344f87d1
+      internalID: -49804136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e9d1ae13a20640ac882f7b59bfb51
+      internalID: -1523109276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7ee95d31afb341a334765ed94a3db
+      internalID: -875465200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d4e03a0681804b86712b32213c9c0
+      internalID: 2017799291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8039cdd1a91445bfd32ab0d4df4ac
+      internalID: -1761769891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e22e6a3d19dc458af91b9cfbb6306
+      internalID: 1372287319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90250d10cade042960260aa2cc9300
+      internalID: -834666937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b7f5617e236b4190139de7cbd7984
+      internalID: 1783454230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0d4cf7c5440a49834a98b66ae31f4
+      internalID: 926963008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b8b5bea5e84584e9af808f9dff86f5
+      internalID: -1500033200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42f628a18634ab4a8de0fb3138f51e1
+      internalID: 39339708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d7761087b97845a8dfa33dfcb5f7a
+      internalID: 1094441302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ba0af36cee044993cee3c3a5790a5
+      internalID: 1043176612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_9_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c470bee640e214a912d2e71e40da40
+      internalID: 590741939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa896ee4ba5043f49932109f1898eaa7
+      internalID: -1808475395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c47566d1b54f4fb2a339103073061
+      internalID: -172469100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34ea4f7c65659449a5223c736b473b1
+      internalID: -1493177344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c44fa7d5c8467740865dd389207d746
+      internalID: -1429090832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a193cb60af844c43a1e8060c0be8035
+      internalID: -879131520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1767877987c3374e826ead347b780bd
+      internalID: -979688937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5fc791ca851f4992924c34710c17a
+      internalID: -1262799507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4047e70405979f64684584607d74d6ea
+      internalID: -1381845059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65edfcf6cd1cec2448bb145780d4a85c
+      internalID: -2065820786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c15d09c0ef904fbbcc4e1d03ad962
+      internalID: 501662523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc8e2d5f86e8ac489ec5219220af94e
+      internalID: -1865032733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc47fe233e84b449dc75d6aba142d3
+      internalID: 577138659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_10_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c397ddb7fdfd54da585e7906f1099f
+      internalID: 52739923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435160251b655249866737c503a2849
+      internalID: -2118568313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc84fc123dcc68449431faa131e9b77
+      internalID: -604982391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c124815fe91f448cef304962718bd
+      internalID: 1786447707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab161edb4c9e6f428a9acd85956d642
+      internalID: 1170078633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085a21e79351bc429860b6c236f7ff8
+      internalID: 1894395723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da57e32b5e9b22459bd30bcfff1aa5a
+      internalID: 399294779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260eb89cf22343408027df3ab098b32
+      internalID: -407383884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62807fc6603f6304daab2df153439c30
+      internalID: -1908115820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81466b79059a6f946a3530be651e0a38
+      internalID: 1642678848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33772518cec25fa4994555a6beaab75d
+      internalID: 520177285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8e01dedb0b3941b3770e3461ddc0b
+      internalID: 593782779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99727686a488fcc4dba595c6d4a775ec
+      internalID: 787294379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_11_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b273caedfd044788ccad4d9d98a97
+      internalID: -770477352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f5bb81637c8342a442918ff7a17a7
+      internalID: -1877663855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06322f7832d5084cb37389294ae7d98
+      internalID: 2107489409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6272eec6d2d0449affb56c38d514ef
+      internalID: 2126729521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0117cacdee24b0846b50d3c71ffe2912
+      internalID: -1645643103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc84b7836dee249a5a13a3207a78f7
+      internalID: -317721477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c40421bd7171443afb3a22fa7c35d6
+      internalID: 321076598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b227a3a8568cf41ae362a088a671db
+      internalID: -55831375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490b4e3561f9ef4e8c93f84559e9214
+      internalID: -191062701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf9e85de3925ea43b2ce01e9a8b0b3c
+      internalID: 1868598950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e92aab212a454f86a3d16e15d4e63
+      internalID: -668849446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c96c21df4c2249b2a6c76091b3898
+      internalID: -849312708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ca1e325d227e4f935126bfb8f0ef2
+      internalID: 853332070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_12_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7f92d19b98df4d8ab8ab5f5f9edc9
+      internalID: -1655263615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85879777cf34a78469533df7082fa00b
+      internalID: -2025582534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d897fd6ce888ed4ea57d501642b8c38
+      internalID: 404316988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ff94f4bf86f54e9317cfbf5697a94
+      internalID: 1387793700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eef6ca265be7d4899eab200d0034c4
+      internalID: 1753178100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1188a787c33d445a94725cf57e427d
+      internalID: -1060732965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4faeb8384aca4e953276ba03e2591
+      internalID: 411049439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d28f0d232f20b47a49a8697dd4d145
+      internalID: 1703145603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2627c1769691145a4536bd7db97a88
+      internalID: -1411854594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf84aae8c77d4409c8fac53940ee4d
+      internalID: -55548105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d664aa8a28f57f4eb5302b1041b5387
+      internalID: 226018481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372e608a46ec9244b7eca135ebbde56
+      internalID: 2014271605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e402aeed9dcb488cd782387e263f0
+      internalID: 354847463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_13_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0386d51c1bc4f3f488a11c0cf533234b
+      internalID: 1821643742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964d51b9ae6d084086e8042d6140197
+      internalID: -1039835296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ae106d7340c44688c9b0cde0dbcb7
+      internalID: 372052389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f9aaa9f514de4e837a83be529741b
+      internalID: -1021842355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d03bb835f060c46a0fb7c9a640a3ad
+      internalID: 2047266816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa507a515b7d4e64da05e4dc3042f88d
+      internalID: 522425428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39851bcfde3a2f469dd236169603b4c
+      internalID: 1831432820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ade012d4dd244499ba52fea5b8e1a1
+      internalID: -572330890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62737855e0a1ed48ab5281cdce91575
+      internalID: 1742916286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394bf5986cc38dd41a03dba7eaf26ba0
+      internalID: 1504800514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce8540760237e4eaf5ac9357389bf2
+      internalID: -740472679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280a5fae6dc320438af466033152cbc
+      internalID: 2032668633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b17a81080d135b42925391681f5b556
+      internalID: -1525393889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_14_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49250b8e774ae4e47b35815fbe23f81c
+      internalID: 621660683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60f9f27dd97d34596d05fd35cfc7f4
+      internalID: -1079926451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a9739f526b964a850cb62bc56cdfb
+      internalID: -1877608211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34299b2ed31004ca04d06c47a221fa
+      internalID: -2075995412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836dbb81c40355f4b992ac19c97ae3f8
+      internalID: -1168439409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae9d7f888f772449eff0ab5480cb2d
+      internalID: -353484969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1de39291f7fd429a3ff829885ee3f
+      internalID: 1243041034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b6b228e9af6f498a5b548d96ea4ea
+      internalID: 667568027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fafa6397a5f3fc40a0ab5fd2eb0e987
+      internalID: 1072557933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b5038fe6b2b4429c45407dc52b8cd
+      internalID: -290498528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8be7108be0aa4ab57c8236e2ca1f2
+      internalID: -2093165912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44426baad50e54ca457c1e63cf4d9b
+      internalID: -645659002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7c90eea39a944891c56b1f421ac1c
+      internalID: 1996600136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_15_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271dc92b7a91c0a4b8a65148bfb2e4a4
+      internalID: -435843231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4580fba643c2d764ab422996ed9ef566
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Example_NPC_0_0: 2286331526024065500
+      Example_NPC_0_1: -3135615896457554676
+      Example_NPC_0_10: -6489867727592471270
+      Example_NPC_0_11: 2444567442875127936
+      Example_NPC_0_12: -472098054817115938
+      Example_NPC_0_13: 1965699899
+      Example_NPC_0_14: 1767311258
+      Example_NPC_0_15: 1614123039
+      Example_NPC_0_16: -1469251975
+      Example_NPC_0_2: -2328956286918083280
+      Example_NPC_0_3: -5527134759211012608
+      Example_NPC_0_4: -5408077006699221872
+      Example_NPC_0_5: 2918312368669450727
+      Example_NPC_0_6: 422729277383384882
+      Example_NPC_0_7: -2395922968699533754
+      Example_NPC_0_8: -1255407715853005937
+      Example_NPC_0_9: 7841801410931637819
+      Example_NPC_10_0: 1056328200727449780
+      Example_NPC_10_1: 4259475104863495602
+      Example_NPC_10_10: 5859925312398136062
+      Example_NPC_10_11: -7453638616141784153
+      Example_NPC_10_12: -3360368427941803741
+      Example_NPC_10_13: -1517559629
+      Example_NPC_10_14: -2117700925
+      Example_NPC_10_15: 2093294807
+      Example_NPC_10_16: 323336972
+      Example_NPC_10_2: 472793841563743553
+      Example_NPC_10_3: -7774271897925376693
+      Example_NPC_10_4: -8996012131184675331
+      Example_NPC_10_5: -779899127672152391
+      Example_NPC_10_6: 8777166236104849982
+      Example_NPC_10_7: 8583736636892239256
+      Example_NPC_10_8: -4052599901290361935
+      Example_NPC_10_9: -4091181498769687009
+      Example_NPC_11_0: -8381175248650958644
+      Example_NPC_11_1: 1385185814836828328
+      Example_NPC_11_10: -2301298607787240546
+      Example_NPC_11_11: 7701707862004260766
+      Example_NPC_11_12: 5862345493246795315
+      Example_NPC_11_13: 865634868
+      Example_NPC_11_14: 1187099547
+      Example_NPC_11_15: -1918854126
+      Example_NPC_11_16: -1663512987
+      Example_NPC_11_2: -7573796205970745919
+      Example_NPC_11_3: -8058951907690494051
+      Example_NPC_11_4: 2814640009137492331
+      Example_NPC_11_5: 504165993210942591
+      Example_NPC_11_6: 8984924317009504291
+      Example_NPC_11_7: 3422490497674362257
+      Example_NPC_11_8: -3578222215780896379
+      Example_NPC_11_9: 5425445212093648838
+      Example_NPC_12_0: -3417814613485469871
+      Example_NPC_12_1: -8418455561069443396
+      Example_NPC_12_10: -6064127086984902386
+      Example_NPC_12_11: -2476861326815613023
+      Example_NPC_12_12: -5791711181797586539
+      Example_NPC_12_13: -1775375296
+      Example_NPC_12_14: -1998838671
+      Example_NPC_12_15: 775518813
+      Example_NPC_12_16: 193854227
+      Example_NPC_12_2: 1878595699144534595
+      Example_NPC_12_3: -3575168442402216676
+      Example_NPC_12_4: -4435219317285857388
+      Example_NPC_12_5: 6064296759506769953
+      Example_NPC_12_6: -3069266328496108588
+      Example_NPC_12_7: 7072537107068706460
+      Example_NPC_12_8: -4136334259941737398
+      Example_NPC_12_9: 8768606820598407561
+      Example_NPC_13_0: 6460914666724172379
+      Example_NPC_13_1: -2894904373474393020
+      Example_NPC_13_10: 6606844909119954224
+      Example_NPC_13_11: -3673098984159958829
+      Example_NPC_13_12: 7936221262985756561
+      Example_NPC_13_13: -1189466225
+      Example_NPC_13_14: -384506977
+      Example_NPC_13_15: 915324099
+      Example_NPC_13_16: 2117163109
+      Example_NPC_13_2: -6101884767827250272
+      Example_NPC_13_3: 7525577845596616385
+      Example_NPC_13_4: -7620401860318940631
+      Example_NPC_13_5: 9154923367763514251
+      Example_NPC_13_6: -3292493563613098862
+      Example_NPC_13_7: 7136546118927611534
+      Example_NPC_13_8: -6587039836069897605
+      Example_NPC_13_9: 4154384939518407501
+      Example_NPC_14_0: -6864945474711445435
+      Example_NPC_14_1: -1125931962365770331
+      Example_NPC_14_10: 2426193038660496587
+      Example_NPC_14_11: 5179806454607814085
+      Example_NPC_14_12: 3272108164045674152
+      Example_NPC_14_13: 56358459
+      Example_NPC_14_14: 810207901
+      Example_NPC_14_15: -1802999560
+      Example_NPC_14_16: -285265330
+      Example_NPC_14_2: 778361582551264075
+      Example_NPC_14_3: -3324212839547198256
+      Example_NPC_14_4: 9079388260545159994
+      Example_NPC_14_5: 229453512374789854
+      Example_NPC_14_6: -5311725605621276252
+      Example_NPC_14_7: -8177992688956913697
+      Example_NPC_14_8: 8093399216896307594
+      Example_NPC_14_9: -1937763175343805426
+      Example_NPC_15_0: 6443595828721350030
+      Example_NPC_15_1: 1342946298528129035
+      Example_NPC_15_10: -1793722777891307152
+      Example_NPC_15_11: -3077985593060922861
+      Example_NPC_15_12: 7674469992857934332
+      Example_NPC_15_13: 1440447623
+      Example_NPC_15_14: -1801358789
+      Example_NPC_15_15: 27524781
+      Example_NPC_15_16: 311159696
+      Example_NPC_15_2: 2140176596445674269
+      Example_NPC_15_3: -408948770501697716
+      Example_NPC_15_4: 5527456098026031700
+      Example_NPC_15_5: 8927436157494190632
+      Example_NPC_15_6: -4469708804777371906
+      Example_NPC_15_7: -6428505733732837650
+      Example_NPC_15_8: 8905762372419809100
+      Example_NPC_15_9: 34237344274874601
+      Example_NPC_1_0: 8632395620621908690
+      Example_NPC_1_1: 1116320737022610481
+      Example_NPC_1_10: 7146971097332472858
+      Example_NPC_1_11: 8514255962098317019
+      Example_NPC_1_12: -8819462670737498293
+      Example_NPC_1_13: 1328368740
+      Example_NPC_1_14: -925632286
+      Example_NPC_1_15: 552869482
+      Example_NPC_1_16: -1667803475
+      Example_NPC_1_2: 7323048885004206903
+      Example_NPC_1_3: 5634655426512199983
+      Example_NPC_1_4: -7195835962643604231
+      Example_NPC_1_5: 3690273178959563988
+      Example_NPC_1_6: -2076105708892877724
+      Example_NPC_1_7: 3227518680299230507
+      Example_NPC_1_8: 1471560874236443187
+      Example_NPC_1_9: -5116843931544143888
+      Example_NPC_2_0: 4647221076728817279
+      Example_NPC_2_1: -7372230112414266560
+      Example_NPC_2_10: -2658602485960626815
+      Example_NPC_2_11: 9037971157089319643
+      Example_NPC_2_12: -6603553264913555941
+      Example_NPC_2_13: -1112910303
+      Example_NPC_2_14: -1932390216
+      Example_NPC_2_15: 999132395
+      Example_NPC_2_16: 2119958609
+      Example_NPC_2_2: 854513775640928558
+      Example_NPC_2_3: 4433346733844455210
+      Example_NPC_2_4: 3208210904697040474
+      Example_NPC_2_5: 5188666366027271437
+      Example_NPC_2_6: -5745117845716069314
+      Example_NPC_2_7: -3470758245197592677
+      Example_NPC_2_8: 1351554230043187864
+      Example_NPC_2_9: -5690230790664739780
+      Example_NPC_3_0: 3840966322792451908
+      Example_NPC_3_1: -7263134134015075848
+      Example_NPC_3_10: 4718978433564721572
+      Example_NPC_3_11: 6272258173434253037
+      Example_NPC_3_12: -1440766243141701440
+      Example_NPC_3_13: 1463692159
+      Example_NPC_3_14: -506316766
+      Example_NPC_3_15: -1211469562
+      Example_NPC_3_16: -1566047057
+      Example_NPC_3_2: -8184680396148312526
+      Example_NPC_3_3: -1108032881700819163
+      Example_NPC_3_4: -3015701179570523185
+      Example_NPC_3_5: -6781242382900644862
+      Example_NPC_3_6: -7673885713579432653
+      Example_NPC_3_7: -1079682030086170070
+      Example_NPC_3_8: -5871543168568195195
+      Example_NPC_3_9: 2941024993062224112
+      Example_NPC_4_0: 4639510752152361551
+      Example_NPC_4_1: 1188924091975563487
+      Example_NPC_4_10: 3659577482909960247
+      Example_NPC_4_11: -1210617424385200712
+      Example_NPC_4_12: 3233009432351180413
+      Example_NPC_4_13: -234927487
+      Example_NPC_4_14: 650837565
+      Example_NPC_4_15: 1640958627
+      Example_NPC_4_16: -1834999826
+      Example_NPC_4_2: 137425992806558203
+      Example_NPC_4_3: -145593731677611799
+      Example_NPC_4_4: 3876085310136768509
+      Example_NPC_4_5: 3484348551395032474
+      Example_NPC_4_6: 487799787903384300
+      Example_NPC_4_7: 2421232336022138687
+      Example_NPC_4_8: -2749653322548097798
+      Example_NPC_4_9: -2808445049140973383
+      Example_NPC_5_0: -652104597831621577
+      Example_NPC_5_1: -4328251065671863826
+      Example_NPC_5_10: 6951198062638174189
+      Example_NPC_5_11: 1840526309341237431
+      Example_NPC_5_12: 7672984719792795413
+      Example_NPC_5_13: -1884442709
+      Example_NPC_5_14: 916181201
+      Example_NPC_5_15: -1185042195
+      Example_NPC_5_16: -797346311
+      Example_NPC_5_2: -8265581609028495741
+      Example_NPC_5_3: -5627790406328750029
+      Example_NPC_5_4: 9053930181110725407
+      Example_NPC_5_5: 8261904164047407424
+      Example_NPC_5_6: 1439574711933101566
+      Example_NPC_5_7: 5959991640877147206
+      Example_NPC_5_8: -6072016980262741455
+      Example_NPC_5_9: -7964321233663048784
+      Example_NPC_6_0: -3716785866892588397
+      Example_NPC_6_1: -7983338039684178048
+      Example_NPC_6_10: 3310990021345969943
+      Example_NPC_6_11: -9186250145023197671
+      Example_NPC_6_12: 148919244439185809
+      Example_NPC_6_13: -50846564
+      Example_NPC_6_14: 1270564321
+      Example_NPC_6_15: -1672487546
+      Example_NPC_6_16: -1047074612
+      Example_NPC_6_2: -7691107990716632951
+      Example_NPC_6_3: 2109780997362098976
+      Example_NPC_6_4: -2111592274184566829
+      Example_NPC_6_5: -2613878386292977530
+      Example_NPC_6_6: 483515119043608470
+      Example_NPC_6_7: -7582838177184566582
+      Example_NPC_6_8: -2645638305695433844
+      Example_NPC_6_9: -227619537371828594
+      Example_NPC_7_0: -8051452841979193913
+      Example_NPC_7_1: 8960729605406528797
+      Example_NPC_7_10: -4912439916356439761
+      Example_NPC_7_11: -5338635981975509882
+      Example_NPC_7_12: 8735530946219556157
+      Example_NPC_7_13: -2092877087
+      Example_NPC_7_14: 214705221
+      Example_NPC_7_15: 1133184523
+      Example_NPC_7_16: -259915353
+      Example_NPC_7_2: -2816976947411648771
+      Example_NPC_7_3: 379868926649934149
+      Example_NPC_7_4: 230585566402753175
+      Example_NPC_7_5: 7054451683867854334
+      Example_NPC_7_6: 6062474384243381386
+      Example_NPC_7_7: 3157914836561415770
+      Example_NPC_7_8: -479598958395037326
+      Example_NPC_7_9: -249517829386059123
+      Example_NPC_8_0: -6747393251302508739
+      Example_NPC_8_1: 8252266264727142134
+      Example_NPC_8_10: -789378030535618819
+      Example_NPC_8_11: 7450075367685220603
+      Example_NPC_8_12: -7810003238985007145
+      Example_NPC_8_13: -800773392
+      Example_NPC_8_14: 266153636
+      Example_NPC_8_15: 546606622
+      Example_NPC_8_16: -943599976
+      Example_NPC_8_2: -915418460414736789
+      Example_NPC_8_3: -4199442178239935032
+      Example_NPC_8_4: -172763894512939477
+      Example_NPC_8_5: -4839864218886632844
+      Example_NPC_8_6: -4371458275812842417
+      Example_NPC_8_7: -6774342775927864962
+      Example_NPC_8_8: -109480655944449303
+      Example_NPC_8_9: -82484434989976202
+      Example_NPC_9_0: -8318917073023704282
+      Example_NPC_9_1: 1499818848528152721
+      Example_NPC_9_10: 6675790749222908413
+      Example_NPC_9_11: -5196800784995434460
+      Example_NPC_9_12: -8175015684244536508
+      Example_NPC_9_13: 1535624887
+      Example_NPC_9_14: -348495656
+      Example_NPC_9_15: -1010928988
+      Example_NPC_9_16: -2065684045
+      Example_NPC_9_2: 5689869582975165561
+      Example_NPC_9_3: -5247187852689863934
+      Example_NPC_9_4: 6254934441612361375
+      Example_NPC_9_5: 5682689528646796868
+      Example_NPC_9_6: 8684035071357414339
+      Example_NPC_9_7: -5238176241037802850
+      Example_NPC_9_8: -1529074501513657967
+      Example_NPC_9_9: 2147972425549718670
+      MinersConstruction_0_0: 579709876
+      MinersConstruction_0_1: 1228927227
+      MinersConstruction_0_10: 653182752
+      MinersConstruction_0_11: -184929969
+      MinersConstruction_0_12: -521130474
+      MinersConstruction_0_2: -267780328
+      MinersConstruction_0_3: -178039718
+      MinersConstruction_0_4: 297355614
+      MinersConstruction_0_5: -1117529773
+      MinersConstruction_0_6: 483038563
+      MinersConstruction_0_7: -136019032
+      MinersConstruction_0_8: 558580592
+      MinersConstruction_0_9: -1491731432
+      MinersConstruction_10_0: -1808475395
+      MinersConstruction_10_1: -172469100
+      MinersConstruction_10_10: -1865032733
+      MinersConstruction_10_11: 577138659
+      MinersConstruction_10_12: 52739923
+      MinersConstruction_10_2: -1493177344
+      MinersConstruction_10_3: -1429090832
+      MinersConstruction_10_4: -879131520
+      MinersConstruction_10_5: -979688937
+      MinersConstruction_10_6: -1262799507
+      MinersConstruction_10_7: -1381845059
+      MinersConstruction_10_8: -2065820786
+      MinersConstruction_10_9: 501662523
+      MinersConstruction_11_0: -2118568313
+      MinersConstruction_11_1: -604982391
+      MinersConstruction_11_10: 593782779
+      MinersConstruction_11_11: 787294379
+      MinersConstruction_11_12: -770477352
+      MinersConstruction_11_2: 1786447707
+      MinersConstruction_11_3: 1170078633
+      MinersConstruction_11_4: 1894395723
+      MinersConstruction_11_5: 399294779
+      MinersConstruction_11_6: -407383884
+      MinersConstruction_11_7: -1908115820
+      MinersConstruction_11_8: 1642678848
+      MinersConstruction_11_9: 520177285
+      MinersConstruction_12_0: -1877663855
+      MinersConstruction_12_1: 2107489409
+      MinersConstruction_12_10: -849312708
+      MinersConstruction_12_11: 853332070
+      MinersConstruction_12_12: -1655263615
+      MinersConstruction_12_2: 2126729521
+      MinersConstruction_12_3: -1645643103
+      MinersConstruction_12_4: -317721477
+      MinersConstruction_12_5: 321076598
+      MinersConstruction_12_6: -55831375
+      MinersConstruction_12_7: -191062701
+      MinersConstruction_12_8: 1868598950
+      MinersConstruction_12_9: -668849446
+      MinersConstruction_13_0: -2025582534
+      MinersConstruction_13_1: 404316988
+      MinersConstruction_13_10: 2014271605
+      MinersConstruction_13_11: 354847463
+      MinersConstruction_13_12: 1821643742
+      MinersConstruction_13_2: 1387793700
+      MinersConstruction_13_3: 1753178100
+      MinersConstruction_13_4: -1060732965
+      MinersConstruction_13_5: 411049439
+      MinersConstruction_13_6: 1703145603
+      MinersConstruction_13_7: -1411854594
+      MinersConstruction_13_8: -55548105
+      MinersConstruction_13_9: 226018481
+      MinersConstruction_14_0: -1039835296
+      MinersConstruction_14_1: 372052389
+      MinersConstruction_14_10: 2032668633
+      MinersConstruction_14_11: -1525393889
+      MinersConstruction_14_12: 621660683
+      MinersConstruction_14_2: -1021842355
+      MinersConstruction_14_3: 2047266816
+      MinersConstruction_14_4: 522425428
+      MinersConstruction_14_5: 1831432820
+      MinersConstruction_14_6: -572330890
+      MinersConstruction_14_7: 1742916286
+      MinersConstruction_14_8: 1504800514
+      MinersConstruction_14_9: -740472679
+      MinersConstruction_15_0: -1079926451
+      MinersConstruction_15_1: -1877608211
+      MinersConstruction_15_10: -645659002
+      MinersConstruction_15_11: 1996600136
+      MinersConstruction_15_12: -435843231
+      MinersConstruction_15_2: -2075995412
+      MinersConstruction_15_3: -1168439409
+      MinersConstruction_15_4: -353484969
+      MinersConstruction_15_5: 1243041034
+      MinersConstruction_15_6: 667568027
+      MinersConstruction_15_7: 1072557933
+      MinersConstruction_15_8: -290498528
+      MinersConstruction_15_9: -2093165912
+      MinersConstruction_1_0: 2119377256
+      MinersConstruction_1_1: 118875918
+      MinersConstruction_1_10: 106843982
+      MinersConstruction_1_11: -1200698334
+      MinersConstruction_1_12: 1512265756
+      MinersConstruction_1_2: 1435990750
+      MinersConstruction_1_3: 435296742
+      MinersConstruction_1_4: 1623158829
+      MinersConstruction_1_5: 1408808222
+      MinersConstruction_1_6: 260041465
+      MinersConstruction_1_7: 1201208785
+      MinersConstruction_1_8: 970128536
+      MinersConstruction_1_9: 1235506496
+      MinersConstruction_2_0: 1316587224
+      MinersConstruction_2_1: 1227234924
+      MinersConstruction_2_10: 1011532185
+      MinersConstruction_2_11: -862445103
+      MinersConstruction_2_12: -1246690491
+      MinersConstruction_2_2: -2047096456
+      MinersConstruction_2_3: -2052829088
+      MinersConstruction_2_4: -1881016312
+      MinersConstruction_2_5: -1691839946
+      MinersConstruction_2_6: 1815463496
+      MinersConstruction_2_7: -1676067820
+      MinersConstruction_2_8: -624705149
+      MinersConstruction_2_9: 740618374
+      MinersConstruction_3_0: -1058148591
+      MinersConstruction_3_1: 737191238
+      MinersConstruction_3_10: -570318855
+      MinersConstruction_3_11: -674412156
+      MinersConstruction_3_12: 1940113233
+      MinersConstruction_3_2: 364066136
+      MinersConstruction_3_3: 402036737
+      MinersConstruction_3_4: -2120693276
+      MinersConstruction_3_5: -1441534233
+      MinersConstruction_3_6: 1154473016
+      MinersConstruction_3_7: 90672606
+      MinersConstruction_3_8: 542777237
+      MinersConstruction_3_9: 1951301623
+      MinersConstruction_4_0: 2105179059
+      MinersConstruction_4_1: -1961452951
+      MinersConstruction_4_10: 1959291057
+      MinersConstruction_4_11: -361760520
+      MinersConstruction_4_12: 1696427758
+      MinersConstruction_4_2: 1908493291
+      MinersConstruction_4_3: -161344000
+      MinersConstruction_4_4: 412735583
+      MinersConstruction_4_5: -706008380
+      MinersConstruction_4_6: 197926988
+      MinersConstruction_4_7: -561823924
+      MinersConstruction_4_8: 1240783375
+      MinersConstruction_4_9: 466606972
+      MinersConstruction_5_0: -1663729795
+      MinersConstruction_5_1: 1831456973
+      MinersConstruction_5_10: -792858055
+      MinersConstruction_5_11: 1876720002
+      MinersConstruction_5_12: 786787121
+      MinersConstruction_5_2: -59798606
+      MinersConstruction_5_3: -1034193078
+      MinersConstruction_5_4: -208901608
+      MinersConstruction_5_5: -1235457831
+      MinersConstruction_5_6: -610797453
+      MinersConstruction_5_7: 1195149641
+      MinersConstruction_5_8: -494589867
+      MinersConstruction_5_9: -1075876390
+      MinersConstruction_6_0: 1015248046
+      MinersConstruction_6_1: 1899870578
+      MinersConstruction_6_10: -1275620239
+      MinersConstruction_6_11: -293002261
+      MinersConstruction_6_12: 1744049314
+      MinersConstruction_6_2: 1123696003
+      MinersConstruction_6_3: -724186217
+      MinersConstruction_6_4: 644304192
+      MinersConstruction_6_5: -1493556097
+      MinersConstruction_6_6: -464978010
+      MinersConstruction_6_7: -1277190873
+      MinersConstruction_6_8: 1339986827
+      MinersConstruction_6_9: -1038196158
+      MinersConstruction_7_0: -1593562120
+      MinersConstruction_7_1: 2047316208
+      MinersConstruction_7_10: 707956368
+      MinersConstruction_7_11: 527115176
+      MinersConstruction_7_12: -442063699
+      MinersConstruction_7_2: -1494308612
+      MinersConstruction_7_3: 1464174925
+      MinersConstruction_7_4: -262120163
+      MinersConstruction_7_5: 204625728
+      MinersConstruction_7_6: -686086518
+      MinersConstruction_7_7: -1066987706
+      MinersConstruction_7_8: -1401317313
+      MinersConstruction_7_9: 988770122
+      MinersConstruction_8_0: -2079236457
+      MinersConstruction_8_1: -1568121437
+      MinersConstruction_8_10: 718625081
+      MinersConstruction_8_11: 1857992141
+      MinersConstruction_8_12: -49804136
+      MinersConstruction_8_2: 64912031
+      MinersConstruction_8_3: -1681024396
+      MinersConstruction_8_4: -2113328851
+      MinersConstruction_8_5: 1519833382
+      MinersConstruction_8_6: -1726626640
+      MinersConstruction_8_7: -476238672
+      MinersConstruction_8_8: -686239481
+      MinersConstruction_8_9: -128586156
+      MinersConstruction_9_0: -1523109276
+      MinersConstruction_9_1: -875465200
+      MinersConstruction_9_10: 1094441302
+      MinersConstruction_9_11: 1043176612
+      MinersConstruction_9_12: 590741939
+      MinersConstruction_9_2: 2017799291
+      MinersConstruction_9_3: -1761769891
+      MinersConstruction_9_4: 1372287319
+      MinersConstruction_9_5: -834666937
+      MinersConstruction_9_6: 1783454230
+      MinersConstruction_9_7: 926963008
+      MinersConstruction_9_8: -1500033200
+      MinersConstruction_9_9: 39339708
+      Townspeople_0_0: -1632794512
+      Townspeople_0_1: -1546337114
+      Townspeople_0_10: 1307870676
+      Townspeople_0_11: 1580943409
+      Townspeople_0_12: -1540179218
+      Townspeople_0_2: 1203620595
+      Townspeople_0_3: -1916717250
+      Townspeople_0_4: -107575448
+      Townspeople_0_5: -1140911914
+      Townspeople_0_6: -907296561
+      Townspeople_0_7: 1150108895
+      Townspeople_0_8: 753523746
+      Townspeople_0_9: 2056104090
+      Townspeople_10_0: 483953942
+      Townspeople_10_1: 1776010472
+      Townspeople_10_10: 1856412493
+      Townspeople_10_11: 713013349
+      Townspeople_10_12: -1277385728
+      Townspeople_10_2: -1680233022
+      Townspeople_10_3: 386733981
+      Townspeople_10_4: 1396886941
+      Townspeople_10_5: 964090193
+      Townspeople_10_6: 2129392862
+      Townspeople_10_7: -662708638
+      Townspeople_10_8: -154462674
+      Townspeople_10_9: -1820403667
+      Townspeople_11_0: -1399388767
+      Townspeople_11_1: 279186670
+      Townspeople_11_10: 2118823479
+      Townspeople_11_11: -653881438
+      Townspeople_11_12: 995200970
+      Townspeople_11_2: -875867603
+      Townspeople_11_3: -1051821494
+      Townspeople_11_4: -445578880
+      Townspeople_11_5: 96586611
+      Townspeople_11_6: -434419554
+      Townspeople_11_7: 546235755
+      Townspeople_11_8: -1059150416
+      Townspeople_11_9: 672600222
+      Townspeople_12_0: -1961131364
+      Townspeople_12_1: -2107789118
+      Townspeople_12_10: -1037699775
+      Townspeople_12_11: -859431489
+      Townspeople_12_12: 1249046551
+      Townspeople_12_2: 375435990
+      Townspeople_12_3: 1552784428
+      Townspeople_12_4: 1109329963
+      Townspeople_12_5: -56060497
+      Townspeople_12_6: -1246212608
+      Townspeople_12_7: -958845261
+      Townspeople_12_8: -1675288239
+      Townspeople_12_9: -2079059280
+      Townspeople_13_0: -1490103288
+      Townspeople_13_1: -1585976142
+      Townspeople_13_10: 1658172828
+      Townspeople_13_11: 1034213195
+      Townspeople_13_12: -533999007
+      Townspeople_13_2: 1396551764
+      Townspeople_13_3: -617356104
+      Townspeople_13_4: -1219398225
+      Townspeople_13_5: -1793816444
+      Townspeople_13_6: 2124139584
+      Townspeople_13_7: -780051281
+      Townspeople_13_8: -252020206
+      Townspeople_13_9: 1393099244
+      Townspeople_14_0: -1113984388
+      Townspeople_14_1: 1960825320
+      Townspeople_14_10: 1464942803
+      Townspeople_14_11: -1359678116
+      Townspeople_14_12: 33360545
+      Townspeople_14_2: 1476189088
+      Townspeople_14_3: -1363667751
+      Townspeople_14_4: 140329488
+      Townspeople_14_5: 409198134
+      Townspeople_14_6: 1984099145
+      Townspeople_14_7: 387795905
+      Townspeople_14_8: -1936392320
+      Townspeople_14_9: -27075859
+      Townspeople_15_0: 1574874808
+      Townspeople_15_1: -513413614
+      Townspeople_15_10: -1151631933
+      Townspeople_15_11: -314381859
+      Townspeople_15_12: 1898076655
+      Townspeople_15_2: -924768426
+      Townspeople_15_3: 1063270934
+      Townspeople_15_4: -43254404
+      Townspeople_15_5: -469879282
+      Townspeople_15_6: -1606269401
+      Townspeople_15_7: -1606332675
+      Townspeople_15_8: -109756216
+      Townspeople_15_9: -197129729
+      Townspeople_1_0: -1469824081
+      Townspeople_1_1: 1023732196
+      Townspeople_1_10: 717448858
+      Townspeople_1_11: -1897461669
+      Townspeople_1_12: 721867763
+      Townspeople_1_2: -1448703124
+      Townspeople_1_3: 128756209
+      Townspeople_1_4: -2099470848
+      Townspeople_1_5: -1419100066
+      Townspeople_1_6: -1666752396
+      Townspeople_1_7: -1931091110
+      Townspeople_1_8: -544516467
+      Townspeople_1_9: 896467605
+      Townspeople_2_0: 112030256
+      Townspeople_2_1: 474391265
+      Townspeople_2_10: 1779894878
+      Townspeople_2_11: -879000797
+      Townspeople_2_12: 1359140369
+      Townspeople_2_2: -1951853600
+      Townspeople_2_3: -2135472344
+      Townspeople_2_4: -1204387045
+      Townspeople_2_5: -658877257
+      Townspeople_2_6: 245687074
+      Townspeople_2_7: -1755305086
+      Townspeople_2_8: 1636084374
+      Townspeople_2_9: -370390010
+      Townspeople_3_0: -1954259417
+      Townspeople_3_1: -2047934918
+      Townspeople_3_10: 1735472734
+      Townspeople_3_11: -1980624680
+      Townspeople_3_12: -437132804
+      Townspeople_3_2: -1983318814
+      Townspeople_3_3: -1377044575
+      Townspeople_3_4: -1272967477
+      Townspeople_3_5: -1955693387
+      Townspeople_3_6: 1327709347
+      Townspeople_3_7: -141536698
+      Townspeople_3_8: 801206643
+      Townspeople_3_9: -761690069
+      Townspeople_4_0: 698948635
+      Townspeople_4_1: 1624994784
+      Townspeople_4_10: -53527876
+      Townspeople_4_11: -1098317219
+      Townspeople_4_12: 1823607111
+      Townspeople_4_2: -1296236905
+      Townspeople_4_3: -1301099096
+      Townspeople_4_4: -1037926354
+      Townspeople_4_5: 352743086
+      Townspeople_4_6: 1722894942
+      Townspeople_4_7: 1040407690
+      Townspeople_4_8: 1647011044
+      Townspeople_4_9: 667465068
+      Townspeople_5_0: -1753923071
+      Townspeople_5_1: 122127175
+      Townspeople_5_10: -798329409
+      Townspeople_5_11: -1056861873
+      Townspeople_5_12: -689081863
+      Townspeople_5_2: 87881809
+      Townspeople_5_3: -819804474
+      Townspeople_5_4: -429021255
+      Townspeople_5_5: 1816109733
+      Townspeople_5_6: -1681864193
+      Townspeople_5_7: -440348181
+      Townspeople_5_8: -2004634438
+      Townspeople_5_9: -847512921
+      Townspeople_6_0: -1783771693
+      Townspeople_6_1: 1452339829
+      Townspeople_6_10: 770542204
+      Townspeople_6_11: -1729387267
+      Townspeople_6_12: -385165640
+      Townspeople_6_2: -249198348
+      Townspeople_6_3: 1751547840
+      Townspeople_6_4: -97681587
+      Townspeople_6_5: -1961701243
+      Townspeople_6_6: -1046891196
+      Townspeople_6_7: -1092149053
+      Townspeople_6_8: 1297139251
+      Townspeople_6_9: -16742781
+      Townspeople_7_0: 1075854237
+      Townspeople_7_1: 1359840045
+      Townspeople_7_10: -264138470
+      Townspeople_7_11: 2063399396
+      Townspeople_7_12: -344141305
+      Townspeople_7_2: -2094741891
+      Townspeople_7_3: 1829657427
+      Townspeople_7_4: -1368384674
+      Townspeople_7_5: -333035042
+      Townspeople_7_6: 2078560446
+      Townspeople_7_7: 719078878
+      Townspeople_7_8: 1640442731
+      Townspeople_7_9: 1782402105
+      Townspeople_8_0: -2097618153
+      Townspeople_8_1: -929841692
+      Townspeople_8_10: 1043783026
+      Townspeople_8_11: -2014455001
+      Townspeople_8_12: -1265150835
+      Townspeople_8_2: -332276051
+      Townspeople_8_3: 608710386
+      Townspeople_8_4: 1540034464
+      Townspeople_8_5: -1864906328
+      Townspeople_8_6: -1195989354
+      Townspeople_8_7: 1751635480
+      Townspeople_8_8: -1147500529
+      Townspeople_8_9: -1334060540
+      Townspeople_9_0: 1421430641
+      Townspeople_9_1: -1298902711
+      Townspeople_9_10: -315941869
+      Townspeople_9_11: 1008565845
+      Townspeople_9_12: 585621807
+      Townspeople_9_2: -1667013500
+      Townspeople_9_3: 469091950
+      Townspeople_9_4: 2124889403
+      Townspeople_9_5: 196186061
+      Townspeople_9_6: -472682324
+      Townspeople_9_7: -1028081681
+      Townspeople_9_8: -98519242
+      Townspeople_9_9: -292028054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

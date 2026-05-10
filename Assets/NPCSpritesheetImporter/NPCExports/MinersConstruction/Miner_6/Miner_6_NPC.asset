@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64298f9c0a602c848a85b3f17575fe9c, type: 3}
+  m_Name: Miner_6_NPC
+  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainerVisual
+  key: Miner_6
+  npc_name: Miner_6
+  trainerSprite: {fileID: -1655263615, guid: b65f94d0fb5b40445b040d5fe272f90e, type: 3}
+  overworldTrainerSprite: {fileID: 2107489409, guid: b65f94d0fb5b40445b040d5fe272f90e, type: 3}
+  animator: {fileID: 22100000, guid: e299bffbec9688247aad6395b1f17132, type: 2}
+  usesDialogueColor: 1
+  dialogueFrameColor: {r: 0.49803922, g: 0.39607844, b: 0.34509805, a: 1}
