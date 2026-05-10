@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64298f9c0a602c848a85b3f17575fe9c, type: 3}
+  m_Name: Townspeople_15_NPC
+  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainerVisual
+  key: Townspeople_15
+  npc_name: Townspeople_15
+  trainerSprite: {fileID: 1898076655, guid: c357230de1fdcb44c9914733d475cfbd, type: 3}
+  overworldTrainerSprite: {fileID: -513413614, guid: c357230de1fdcb44c9914733d475cfbd, type: 3}
+  animator: {fileID: 22100000, guid: d51028965ad07b64fa6b5aca991a7fcb, type: 2}
+  usesDialogueColor: 1
+  dialogueFrameColor: {r: 0.6117647, g: 0.44313726, b: 0.69803923, a: 1}
