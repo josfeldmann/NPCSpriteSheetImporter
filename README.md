@@ -7,7 +7,13 @@ This is a tool I made in order to easily convert the sprite sheets I was making 
 |--|--|
 |<img src="https://raw.githubusercontent.com/josfeldmann/NPCSpriteSheetImporter/refs/heads/master/Assets/NPCSpritesheetImporter/Sheets/Townspeople.png" alt="drawing" width="800px"/>| ![enter image description here](https://raw.githubusercontent.com/josfeldmann/NPCSpriteSheetImporter/refs/heads/master/Tutorial1.png) |
 
-
-
-
 The tool takes in an input spritesheet that is formatted in a specific way. It cuts up the spritesheet into distinct NPCs then allows you to generate in engine sprites, animations, animator controllers, and data holders for each NPC.
+
+## Future Ideas
+
+### Creating your own NPCs
+I will be making a video about the workflow I use to create the actual NPCs using Retro Diffussion.
+
+### RPGMaker Import/Export
+Currently this is not supported but it is the next thing I want to add. Right now the tool is pretty much hard coded to only accept input from the specific spritesheet layout I am using, which is really made based on my personal preferences.
+
