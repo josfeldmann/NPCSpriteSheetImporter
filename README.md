@@ -1,6 +1,6 @@
 # NPC Spritesheet Importer
 
-This is a tool I made in order to easily convert the sprite sheets I was making from [Retro Diffusion](https://retrodiffusion.ai/) into Unity animation files. This repo also includes all the spritesheets and animations I am creating for my free Pokemon Style NPC Collection on Itch.io.
+This is a tool I made in order to easily convert the sprite sheets I was making from [Retro Diffusion](https://retrodiffusion.ai/) into Unity animation files. This repo also includes all the spritesheets and animations I am creating for my free [Pokemon Style NPC Collection](https://itch.io/c/7450018/pokemon-style-npcs) on Itch.io.
 
 ## The Tool
 | Input Spritesheet | Tool  |
