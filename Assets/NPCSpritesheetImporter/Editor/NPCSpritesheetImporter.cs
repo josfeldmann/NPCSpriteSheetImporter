@@ -1,5 +1,6 @@
 
 using JetBrains.Annotations;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -197,7 +198,7 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     public Texture2D MakeTexture(List<Sprite> portraits, List<Sprite> npcs) {
 
-        Texture2D tex = new Texture2D(336, 336);
+        Texture2D tex = new Texture2D(630, 500);
 
 
 
@@ -221,6 +222,26 @@ public class NPCSpritesheetImporter : EditorWindow {
 
         }
 
+        start = new Vector2Int(16 + (int)portraits[0].rect.width, tex.height + 16);
+
+        foreach (Sprite s in npcs) {
+
+
+            for (int x = 0; x < s.rect.width; x++) {
+                for (int y = 0; y < s.rect.height; y++) {
+
+                    Vector2Int v = start + new Vector2Int(x,y);
+                    Color c = s.texture.GetPixel((int)s.rect.position.x + x, (int)s.rect.position.y + y);
+                    if (c.a == 0) c = Color.white;
+
+                    tex.SetPixel(v.x, v.y, c);
+                
+                }
+            }
+            start += new Vector2Int((int)portraits[0].rect.width + 16, 0);
+
+        }
+
 
 
         tex.Apply();
@@ -235,7 +256,7 @@ public class NPCSpritesheetImporter : EditorWindow {
         if (GUILayout.Button(CreateGifThumbnailGuiContent)) {
 
             List<string> createdFiles = new List<string>();
-            string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name +"gifexport/";
+            string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name + "/gifexport";
 
             if (!Directory.Exists(targetFolder)) Directory.CreateDirectory(targetFolder);
 
@@ -249,20 +270,27 @@ public class NPCSpritesheetImporter : EditorWindow {
 
             for (int i = 0; i < 4; i++) {
 
-                Texture2D tex = MakeTexture(new List<Sprite>() {
+
+                for (int directionPicker = 0; directionPicker < 4; directionPicker++) {
+                    for (int it = 0; it < 3; it++) {
+
+                        int frameNumber = (it + 1) % 3;
+                        Texture2D tex = MakeTexture(new List<Sprite>() {
                                                             sprites[i].trainerSprite,
                                                             sprites[i+1].trainerSprite,
                                                             sprites[i+2].trainerSprite,
                                                             sprites[i+3].trainerSprite
                                                             }, new List<Sprite>() {
-                                                            sprites[i].walkingDownSprites[1],
-                                                            sprites[i+1].walkingDownSprites[1],
-                                                            sprites[i+2].walkingDownSprites[1],
-                                                            sprites[i+3].walkingDownSprites[1]
+                                                            sprites[i].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[i+1].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[i+2].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[i+3].GetDirectionalSprite(directionPicker, frameNumber)
                                                             }
 
-                );
-                texs.Add( tex );
+                        );
+                        texs.Add(tex);
+                    }
+                }
             }
 
             int ii = 0;
@@ -270,7 +298,7 @@ public class NPCSpritesheetImporter : EditorWindow {
             List<string> paths = new List<string>();
 
             foreach (Texture2D tex in texs) {
-                string s = targetFolder + ii.ToString() + ".png";
+                string s = targetFolder  + "/" + ii.ToString() + ".png";
                 paths.Add(s);
 
                 File.WriteAllBytes(s, tex.EncodeToPNG());
@@ -954,9 +982,18 @@ public class NPCFrameDataHolder {
         spritesCreated = true;
     }
 
+    internal Sprite GetDirectionalSprite(int directionPicker, int frameNumber) {
+        List<Sprite> sList = walkingDownSprites;
+        if (directionPicker == 1) {
+            sList = walkingRightSprites;
+        } else if (directionPicker == 2) {
+            sList = walkingUpSprites;        
+        } else if (directionPicker == 3) {
+            sList = walkingLeftSprites;
+        }
 
-
-
+        return sList[frameNumber];
+    }
 }
 
 
