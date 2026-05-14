@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>AnimatedGif</id>
+    <version>1.0.5</version>
+    <authors>mrousavy</authors>
+    <owners>mrousavy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/mrousavy/AnimatedGif/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mrousavy/AnimatedGif</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/mrousavy/AnimatedGif/master/AnimatedGif/Icon.ico</iconUrl>
+    <description>A high performance .NET library for reading and creating (animated) GIFs</description>
+    <releaseNotes>Migrate to .NET Standard</releaseNotes>
+    <copyright>Copyright ©  2017</copyright>
+    <tags>Animated GIF Create Load Encoder Encoding Decoder Decoding</tags>
+    <repository type="GitHub Open Source" url="https://github.com/mrousavy/AnimatedGif" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Drawing.Common" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

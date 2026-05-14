@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>SixLabors.ImageSharp</id>
+    <version>4.0.0</version>
+    <authors>Six Labors and contributors</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>sixlabors.imagesharp.128.png</icon>
+    <projectUrl>https://github.com/SixLabors/ImageSharp</projectUrl>
+    <description>A new, fully featured, fully managed, cross-platform, 2D graphics API for .NET</description>
+    <copyright>Copyright © Six Labors</copyright>
+    <tags>Image Resize Crop Gif Jpg Jpeg Bitmap Pbm Png Tga Tiff WebP NetCore</tags>
+    <repository type="git" url="https://github.com/SixLabors/ImageSharp" commit="ff36e83c740e8049574eb468798151e96a176f12" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.IO.Hashing" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

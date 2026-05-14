@@ -1,9 +1,11 @@
 
+using JetBrains.Annotations;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
-using JetBrains.Annotations;
 using Unity.SharpZipLib.Zip;
 using UnityEditor;
 using UnityEditor.Animations;
@@ -84,10 +86,11 @@ public class NPCSpritesheetImporter : EditorWindow {
         CreateSpritesButton();
         CreateAnimationsButton();
         
+        
 
         GUILayout.Label("Create Export Package");
         CreateExportPackageButton();
-
+        CreateGifThumbnailButton();
         
 
 
@@ -150,6 +153,12 @@ public class NPCSpritesheetImporter : EditorWindow {
     );
 
 
+
+    GUIContent CreateGifThumbnailGuiContent = new GUIContent(
+        "Create Gif Thumbnail",
+        "Creates gif thumbnail for asset page"
+    );
+
     public void CreateExportPackageButton() {
         EditorGUI.BeginDisabledGroup(!SpritesShowing());
         if (GUILayout.Button(CreateExportPackage)) {
@@ -186,20 +195,138 @@ public class NPCSpritesheetImporter : EditorWindow {
     }
 
 
+    public Texture2D MakeTexture(List<Sprite> portraits, List<Sprite> npcs) {
+
+        Texture2D tex = new Texture2D(336, 336);
+
+
+
+        Vector2Int start = new Vector2Int(16, tex.height + 16);
+
+        foreach (Sprite s in portraits) {
+
+            for (int x = 0; x < s.rect.width; x++) {
+                for (int y = 0; y < s.rect.width; y++) {
+                    Vector2Int v = start + new Vector2Int(x, y);
+
+                    Color c = s.texture.GetPixel((int)s.rect.position.x + x, (int)s.rect.position.y + y);
+                    if (c.a == 0) c = Color.white;
+
+                    tex.SetPixel(v.x, v.y, c);
+
+
+                }
+            }
+            start += new Vector2Int((int)s.rect.width + 16, 0);
+
+        }
+
+
+
+        tex.Apply();
+
+        return tex;
+
+
+    }
+
+    public void CreateGifThumbnailButton() {
+        EditorGUI.BeginDisabledGroup(!SpritesShowing());
+        if (GUILayout.Button(CreateGifThumbnailGuiContent)) {
+
+            List<string> createdFiles = new List<string>();
+            string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name +"gifexport/";
+
+            if (!Directory.Exists(targetFolder)) Directory.CreateDirectory(targetFolder);
+
+            string editorPath = targetFolder + "/" + selectedTexture.name + ".gif";
+
+            //List<Texture2D> texs = new List<Texture2D>() { selectedTexture };
+
+            //AnimatedGifUtility.CreateGif(texs, editorPath);
+
+            List<Texture2D> texs = new List<Texture2D>();
+
+            for (int i = 0; i < 4; i++) {
+
+                Texture2D tex = MakeTexture(new List<Sprite>() {
+                                                            sprites[i].trainerSprite,
+                                                            sprites[i+1].trainerSprite,
+                                                            sprites[i+2].trainerSprite,
+                                                            sprites[i+3].trainerSprite
+                                                            }, new List<Sprite>() {
+                                                            sprites[i].walkingDownSprites[1],
+                                                            sprites[i+1].walkingDownSprites[1],
+                                                            sprites[i+2].walkingDownSprites[1],
+                                                            sprites[i+3].walkingDownSprites[1]
+                                                            }
+
+                );
+                texs.Add( tex );
+            }
+
+            int ii = 0;
+
+            List<string> paths = new List<string>();
+
+            foreach (Texture2D tex in texs) {
+                string s = targetFolder + ii.ToString() + ".png";
+                paths.Add(s);
+
+                File.WriteAllBytes(s, tex.EncodeToPNG());
+                ii++;
+            }
+
+
+            CreateGif("C:\\Program Files\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
+
+            //Command Line here
+
+            //File.WriteAllBytes(editorPath, tex.EncodeToPNG());
+            //AnimatedGifUtility.CreateGif( texs, edi
+        }
+        EditorGUI.EndDisabledGroup();
+    }
+
+
+
+
+
+    public static void CreateGif(
+    string asepriteExe,
+    string[] pngFiles,
+    string outputGif) {
+        string inputs = string.Join(" ",
+            pngFiles.Select(f => $"\"{f}\""));
+
+        var process = new Process();
+
+        process.StartInfo.FileName = asepriteExe;
+        process.StartInfo.Arguments =
+            $"-b {inputs} --save-as \"{outputGif}\"";
+
+        process.StartInfo.UseShellExecute = false;
+        process.StartInfo.CreateNoWindow = true;
+
+        process.Start();
+        process.WaitForExit();
+    }
+
+
 
 
     public void MakeSpriteDataButton() {
         EditorGUI.BeginDisabledGroup(selectedTexture == null);
         if (GUILayout.Button(MakeSpriteDataButtonContent)) {
             if (selectedTexture == null) {
-                Debug.LogError("Null Texture");
+                UnityEngine.Debug.LogError("Null Texture");
                 return;
             } else {
 
 
 
                 if (selectedTexture.width != TEXTUREWIDTH || selectedTexture.height != TEXTUREHEIGHT) {
-                    Debug.LogError("Texture Wrong Size");
+                    UnityEngine.Debug.LogError("Texture Wrong Size");
                 }
 
                 sprites = new NPCFrameDataHolder[16];
@@ -294,7 +421,7 @@ public class NPCSpritesheetImporter : EditorWindow {
                 visual.trainerSprite = h.trainerSprite;
 
                 string folderForAsset = editorPath + "/" + h.key;
-                Debug.Log(Application.dataPath + "/" + folderForAsset);
+                UnityEngine.Debug.Log(Application.dataPath + "/" + folderForAsset);
                 if (!Directory.Exists(Application.dataPath + "/" + folderForAsset)) Directory.CreateDirectory(Application.dataPath + "/" + folderForAsset);
 
                 string fullPath = "Assets/" + folderForAsset + "/" + visual.name + ".asset";
@@ -329,14 +456,14 @@ public class NPCSpritesheetImporter : EditorWindow {
     public static Sprite[] SliceTexture(Texture2D texture, NPCFrameDataHolder[] rects) {
         string path = AssetDatabase.GetAssetPath(texture);
         if (string.IsNullOrEmpty(path)) {
-            Debug.LogError("Texture must be a saved project asset.");
+            UnityEngine.Debug.LogError("Texture must be a saved project asset.");
             return null;
         }
 
         // Make sure this texture imports as a multi-sprite texture
         TextureImporter importer = AssetImporter.GetAtPath(path) as TextureImporter;
         if (importer == null) {
-            Debug.LogError("Could not get TextureImporter.");
+            UnityEngine.Debug.LogError("Could not get TextureImporter.");
             return null;
         }
 
@@ -504,17 +631,17 @@ public static class SpriteSheetImporterUtilityFunctions {
 
     public static AnimationClip CreateSpriteAnimationClip(List<Sprite> sprites, float interval, string assetPath) {
         if (sprites == null || sprites.Count == 0) {
-            Debug.LogError("CreateSpriteAnimationClip: sprites list is null or empty.");
+            UnityEngine.Debug.LogError("CreateSpriteAnimationClip: sprites list is null or empty.");
             return null;
         }
 
         if (interval <= 0f) {
-            Debug.LogError("CreateSpriteAnimationClip: interval must be greater than 0.");
+            UnityEngine.Debug.LogError("CreateSpriteAnimationClip: interval must be greater than 0.");
             return null;
         }
 
         if (string.IsNullOrWhiteSpace(assetPath)) {
-            Debug.LogError("CreateSpriteAnimationClip: assetPath is null or empty.");
+            UnityEngine.Debug.LogError("CreateSpriteAnimationClip: assetPath is null or empty.");
             return null;
         }
 
@@ -559,12 +686,12 @@ public static class SpriteSheetImporterUtilityFunctions {
 
     public static AnimatorOverrideController CreateOverrideControllerAsset(RuntimeAnimatorController baseController, string assetPath, Dictionary<string, AnimationClip> clips) {
         if (baseController == null) {
-            Debug.LogError("CreateOverrideControllerAsset: baseController is null.");
+            UnityEngine.Debug.LogError("CreateOverrideControllerAsset: baseController is null.");
             return null;
         }
 
         if (string.IsNullOrWhiteSpace(assetPath)) {
-            Debug.LogError("CreateOverrideControllerAsset: assetPath is null or empty.");
+            UnityEngine.Debug.LogError("CreateOverrideControllerAsset: assetPath is null or empty.");
             return null;
         }
 
@@ -592,12 +719,12 @@ public static class SpriteSheetImporterUtilityFunctions {
             Dictionary<string, AnimationClip> replacementByOriginalClipName
         ) {
         if (overrideController == null) {
-            Debug.LogError("SetOverridesByName: overrideController is null.");
+            UnityEngine.Debug.LogError("SetOverridesByName: overrideController is null.");
             return;
         }
 
         if (replacementByOriginalClipName == null) {
-            Debug.LogError("SetOverridesByName: replacementByOriginalClipName is null.");
+            UnityEngine.Debug.LogError("SetOverridesByName: replacementByOriginalClipName is null.");
             return;
         }
 
@@ -812,7 +939,7 @@ public class NPCFrameDataHolder {
 
         if (key.Equals("Townies_0")) {
             for (int x = 0; x < 13; x++) {
-                Debug.Log(ss[x].name);
+                UnityEngine.Debug.Log(ss[x].name);
             }
         }
 
