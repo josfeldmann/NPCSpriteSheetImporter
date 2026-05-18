@@ -8,6 +8,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
 using Unity.SharpZipLib.Zip;
+using Unity.VisualScripting;
 using UnityEditor;
 using UnityEditor.Animations;
 using UnityEditor.U2D.Aseprite;
@@ -18,6 +19,17 @@ using UnityEngine;
 
 // This tool expects a texture of a specific size and layout.
 // Make sure the spritesheet you are using has the same layout as the provided examples or this just wont work.
+
+public static class MyExtensions {
+
+
+
+    public static Color GetPixel(this Sprite sprite, int x, int y) {
+        return sprite.texture.GetPixel((int)sprite.rect.position.x + x, (int)sprite.rect.position.y + y);
+    }
+
+}
+
 
 
 public class NPCSpritesheetImporter : EditorWindow {
@@ -195,17 +207,60 @@ public class NPCSpritesheetImporter : EditorWindow {
         EditorGUI.EndDisabledGroup();
     }
 
+    
+
+    public void DrawScaledSprite(Texture2D text, Sprite s, Vector2 startPositionOnTexture, int scalefactor, bool ignoreAlpha, bool saveTextureAfter) {
+
+        for (int x = 0; x < s.rect.width; x++) {
+            for (int y = 0; y < s.rect.height; y++) {
+
+                Color c = s.GetPixel(x, y);
+                Vector2 startPosition = startPositionOnTexture + new Vector2(x * scalefactor, y * scalefactor);
+
+                for (int xx = 0; xx < scalefactor; xx++) {
+                    for (int yy = 0; yy < scalefactor; yy++) {
+
+                        if (ignoreAlpha && c.a == 0) {
+                           //ignore alpha
+                        }  else {
+                            text.SetPixel((int)startPosition.x + xx, (int)startPosition.y + yy, c);
+                        }
+
+
+                    }
+                }
+
+            }
+        }
+        if (saveTextureAfter)
+        text.Apply();
+
+
+     }
+
 
     public Texture2D MakeTexture(List<Sprite> portraits, List<Sprite> npcs) {
 
         Texture2D tex = new Texture2D(630, 500);
 
+        for (int i = 0; i < tex.width; i++) {
+            for (int j = 0; j < tex.height; j++) {
+                tex.SetPixel(i, j, Color.white);
+            }
+        }
 
+        int scaleFactor = 2;
 
-        Vector2Int start = new Vector2Int(16, tex.height + 16);
+        int offset = 16;
+
+        Vector2Int start = new Vector2Int(offset, tex.height + 16);
 
         foreach (Sprite s in portraits) {
 
+
+            DrawScaledSprite(tex, s, start, scaleFactor, true, false);
+
+            /*
             for (int x = 0; x < s.rect.width; x++) {
                 for (int y = 0; y < s.rect.width; y++) {
                     Vector2Int v = start + new Vector2Int(x, y);
@@ -217,28 +272,31 @@ public class NPCSpritesheetImporter : EditorWindow {
 
 
                 }
-            }
-            start += new Vector2Int((int)s.rect.width + 16, 0);
+            } */
+            start += new Vector2Int((int)(s.rect.width * scaleFactor) + offset, 0);
 
         }
 
-        start = new Vector2Int(16 + (int)portraits[0].rect.width, tex.height + 16);
+        start = new Vector2Int(offset + (16 * scaleFactor), (tex.height + (int)(portraits[0].rect.width * scaleFactor) + 16));
 
         foreach (Sprite s in npcs) {
 
 
+            DrawScaledSprite(tex, s, start, scaleFactor + 2, true, false);
+
+            /*
             for (int x = 0; x < s.rect.width; x++) {
                 for (int y = 0; y < s.rect.height; y++) {
 
                     Vector2Int v = start + new Vector2Int(x,y);
                     Color c = s.texture.GetPixel((int)s.rect.position.x + x, (int)s.rect.position.y + y);
-                    if (c.a == 0) c = Color.white;
+                    
 
                     tex.SetPixel(v.x, v.y, c);
                 
                 }
-            }
-            start += new Vector2Int((int)portraits[0].rect.width + 16, 0);
+            } */
+            start += new Vector2Int((int)(portraits[0].rect.width * scaleFactor) + offset, 0);
 
         }
 
@@ -258,6 +316,12 @@ public class NPCSpritesheetImporter : EditorWindow {
             List<string> createdFiles = new List<string>();
             string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name + "/gifexport";
 
+            string savePNGFolder = "C:/TempSprites";
+
+            if (!Directory.Exists(savePNGFolder)) {
+                Directory.CreateDirectory(savePNGFolder);
+            }
+
             if (!Directory.Exists(targetFolder)) Directory.CreateDirectory(targetFolder);
 
             string editorPath = targetFolder + "/" + selectedTexture.name + ".gif";
@@ -270,21 +334,22 @@ public class NPCSpritesheetImporter : EditorWindow {
 
             for (int i = 0; i < 4; i++) {
 
+                int baseNumber = i * 4;
 
                 for (int directionPicker = 0; directionPicker < 4; directionPicker++) {
                     for (int it = 0; it < 3; it++) {
 
                         int frameNumber = (it + 1) % 3;
                         Texture2D tex = MakeTexture(new List<Sprite>() {
-                                                            sprites[i].trainerSprite,
-                                                            sprites[i+1].trainerSprite,
-                                                            sprites[i+2].trainerSprite,
-                                                            sprites[i+3].trainerSprite
+                                                            sprites[baseNumber].trainerSprite,
+                                                            sprites[baseNumber+1].trainerSprite,
+                                                            sprites[baseNumber+2].trainerSprite,
+                                                            sprites[baseNumber+3].trainerSprite
                                                             }, new List<Sprite>() {
-                                                            sprites[i].GetDirectionalSprite(directionPicker, frameNumber),
-                                                            sprites[i+1].GetDirectionalSprite(directionPicker, frameNumber),
-                                                            sprites[i+2].GetDirectionalSprite(directionPicker, frameNumber),
-                                                            sprites[i+3].GetDirectionalSprite(directionPicker, frameNumber)
+                                                            sprites[baseNumber].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[baseNumber+1].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[baseNumber+2].GetDirectionalSprite(directionPicker, frameNumber),
+                                                            sprites[baseNumber+3].GetDirectionalSprite(directionPicker, frameNumber)
                                                             }
 
                         );
@@ -298,7 +363,7 @@ public class NPCSpritesheetImporter : EditorWindow {
             List<string> paths = new List<string>();
 
             foreach (Texture2D tex in texs) {
-                string s = targetFolder  + "/" + ii.ToString() + ".png";
+                string s = savePNGFolder  + "/" + ii.ToString() + ".png";
                 paths.Add(s);
 
                 File.WriteAllBytes(s, tex.EncodeToPNG());
