@@ -238,6 +238,19 @@ public class NPCSpritesheetImporter : EditorWindow {
 
      }
 
+    public int DetermineCenteredX(float width, int spriteWidth) {
+
+        float defaultCenter = width / 2f;
+
+        int amt = (int)(defaultCenter - (spriteWidth / 2f));
+
+        UnityEngine.Debug.Log("Center " + defaultCenter.ToString() + " spriteWidth " + (spriteWidth / 2) + " amt " + amt.ToString());
+
+        return amt;
+
+
+    }
+
 
     public Texture2D MakeTexture(List<Sprite> portraits, List<Sprite> npcs) {
 
@@ -245,7 +258,8 @@ public class NPCSpritesheetImporter : EditorWindow {
 
         for (int i = 0; i < tex.width; i++) {
             for (int j = 0; j < tex.height; j++) {
-                tex.SetPixel(i, j, Color.white);
+                //tex.SetPixel(i, j, Color.white);
+                tex.SetPixel(i, j, background.GetPixel(i, j));
             }
         }
 
@@ -254,6 +268,14 @@ public class NPCSpritesheetImporter : EditorWindow {
         int offset = 16;
 
         Vector2Int start = new Vector2Int(offset, tex.height + 16);
+
+
+        DrawScaledSprite(tex, word, new Vector2(DetermineCenteredX(630, (int)word.rect.width * wordScaleFactor ), 400), wordScaleFactor, true, false);
+
+
+
+
+
 
         foreach (Sprite s in portraits) {
 
@@ -309,14 +331,35 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     }
 
+    public Texture2D background;
+
+    public SpriteAlphabet alphabet;
+
+    public Sprite word;
+
+    private int wordScaleFactor = 10;
+
+    string title = "Pokemon Style";
+
     public void CreateGifThumbnailButton() {
         EditorGUI.BeginDisabledGroup(!SpritesShowing());
         if (GUILayout.Button(CreateGifThumbnailGuiContent)) {
+
+            if (alphabet == null) {
+                alphabet = AssetDatabase.LoadAssetAtPath<SpriteAlphabet>("Assets\\NPCSpritesheetImporter\\Alpha.asset");
+            }
 
             List<string> createdFiles = new List<string>();
             string targetFolder = Application.dataPath + "/" + exportPath + "/" + selectedTexture.name + "/gifexport";
 
             string savePNGFolder = "C:/TempSprites";
+
+
+            File.ReadAllBytes("D:\\PoketradeTracker\\NPCSpriteSheetImporter\\Assets\\NPCSpritesheetImporter\\Sheets\\Background.png");
+
+            background = new Texture2D(630, 500);
+            background.LoadImage(File.ReadAllBytes("D:\\PoketradeTracker\\NPCSpriteSheetImporter\\Assets\\NPCSpritesheetImporter\\Sheets\\Background.png"), false);
+
 
             if (!Directory.Exists(savePNGFolder)) {
                 Directory.CreateDirectory(savePNGFolder);
@@ -329,6 +372,12 @@ public class NPCSpritesheetImporter : EditorWindow {
             //List<Texture2D> texs = new List<Texture2D>() { selectedTexture };
 
             //AnimatedGifUtility.CreateGif(texs, editorPath);
+
+
+            
+
+            
+            word = alphabet.MakeWordSprite(title);
 
             List<Texture2D> texs = new List<Texture2D>();
 
@@ -365,7 +414,7 @@ public class NPCSpritesheetImporter : EditorWindow {
             foreach (Texture2D tex in texs) {
                 string s = savePNGFolder  + "/" + ii.ToString() + ".png";
                 paths.Add(s);
-
+                
                 File.WriteAllBytes(s, tex.EncodeToPNG());
                 ii++;
             }
