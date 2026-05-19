@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 641859eb8fabab74c89c7be9550b424d, type: 3}
   m_Name: Alpha
   m_EditorClassIdentifier: MonsterCatching::SpriteAlphabet
+  spaceWidth: 3
   sprites:
   - {fileID: -5350155273093759468, guid: c93cc541191ab8f40bf1f98821e28d8f, type: 3}
   - {fileID: -2870832687472400456, guid: c93cc541191ab8f40bf1f98821e28d8f, type: 3}

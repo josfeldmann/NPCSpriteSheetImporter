@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64298f9c0a602c848a85b3f17575fe9c, type: 3}
+  m_Name: Scientist_F_NPC
+  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainerVisual
+  key: Scientist_F
+  npc_name: Scientist_F
+  trainerSprite: {fileID: -614794196, guid: 9857628ff6786704bb517d113ff1b492, type: 3}
+  overworldTrainerSprite: {fileID: -1747100001, guid: 9857628ff6786704bb517d113ff1b492, type: 3}
+  animator: {fileID: 22100000, guid: 1f0148d138e85d14998b82527f4d3acb, type: 2}
+  usesDialogueColor: 1
+  dialogueFrameColor: {r: 0.90588236, g: 0.93333334, b: 0.972549, a: 1}

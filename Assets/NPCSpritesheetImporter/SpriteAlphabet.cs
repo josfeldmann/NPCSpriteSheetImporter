@@ -126,6 +126,11 @@ public class SpriteAlphabet : ScriptableObject
 
 
     public Sprite MakeWordSprite(string str) {
+        return MakeWordSprite(str, Color.white);
+    }
+
+
+    public Sprite MakeWordSprite(string str, Color gifTitleColor) {
         if (dict == null || dict.Count == 0) {
             BuildDictionary();
         }
@@ -158,7 +163,12 @@ public class SpriteAlphabet : ScriptableObject
                         int translatedx = startxPoint + x;
                         int translatedy = startyPoint + y;
 
-                        tex.SetPixel(translatedx, translatedy, GetSpritePixel(s, x, y));
+
+                        Color cc = GetSpritePixel(s, x, y);
+                        if (cc.a > 0) cc = gifTitleColor;
+
+
+                        tex.SetPixel(translatedx, translatedy, cc );
 
 
                     }

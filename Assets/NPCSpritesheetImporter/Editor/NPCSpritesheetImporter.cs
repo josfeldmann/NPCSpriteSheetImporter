@@ -1,5 +1,4 @@
 
-using JetBrains.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -7,6 +6,8 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
+using Codice.CM.Client.Differences;
+using JetBrains.Annotations;
 using Unity.SharpZipLib.Zip;
 using Unity.VisualScripting;
 using UnityEditor;
@@ -49,6 +50,15 @@ public class NPCSpritesheetImporter : EditorWindow {
     NPCFrameDataHolder[] sprites;
 
     Vector2 scroll;
+
+    public string gifExport = "GIF TITLE";
+
+    public int gifWordScaleFactor = 7;
+
+    public int gifOffset = 275;
+
+    public Color gifTitleColor = Color.white;
+
 
     public static string exportPath = "NPCSpritesheetImporter/NPCExports";
 
@@ -104,7 +114,11 @@ public class NPCSpritesheetImporter : EditorWindow {
         GUILayout.Label("Create Export Package");
         CreateExportPackageButton();
         CreateGifThumbnailButton();
-        
+        gifExport = EditorGUILayout.TextField("Gif Title", gifExport);
+        gifWordScaleFactor = EditorGUILayout.IntField("Title Scale", gifWordScaleFactor);
+        gifOffset = EditorGUILayout.IntField("Gif Offset", gifOffset);
+        gifTitleColor = EditorGUILayout.ColorField("Gif Title Color", gifTitleColor);
+
 
 
         if (sprites != null) {
@@ -143,6 +157,12 @@ public class NPCSpritesheetImporter : EditorWindow {
     public bool SpritesShowing() {
         return sprites != null;
     }
+
+
+    public GUIContent GifContent = new GUIContent(
+       "Gif Title",
+       "TitleShownInGif"
+   );
 
     public GUIContent MakeSpriteDataButtonContent = new GUIContent(
         "1. Make Sprite Data From Sheet",
@@ -270,9 +290,7 @@ public class NPCSpritesheetImporter : EditorWindow {
         Vector2Int start = new Vector2Int(offset, tex.height + 16);
 
 
-        DrawScaledSprite(tex, word, new Vector2(DetermineCenteredX(630, (int)word.rect.width * wordScaleFactor ), 400), wordScaleFactor, true, false);
-
-
+      
 
 
 
@@ -335,18 +353,21 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     public SpriteAlphabet alphabet;
 
-    public Sprite word;
+    public Sprite word1, word2, gifWord;
 
-    private int wordScaleFactor = 10;
+    private const int wordScaleFactor = 5;
+    
 
-    string title = "Pokemon Style";
+    string firstTitle = "Pokemon Style";
+    string secondTitle = "Characters";
+    
 
     public void CreateGifThumbnailButton() {
         EditorGUI.BeginDisabledGroup(!SpritesShowing());
         if (GUILayout.Button(CreateGifThumbnailGuiContent)) {
 
             if (alphabet == null) {
-                alphabet = AssetDatabase.LoadAssetAtPath<SpriteAlphabet>("Assets\\NPCSpritesheetImporter\\Alpha.asset");
+                alphabet = AssetDatabase.LoadAssetAtPath<SpriteAlphabet>("\\NPCSpritesheetImporter\\Alpha.asset");
             }
 
             List<string> createdFiles = new List<string>();
@@ -355,10 +376,10 @@ public class NPCSpritesheetImporter : EditorWindow {
             string savePNGFolder = "C:/TempSprites";
 
 
-            File.ReadAllBytes("D:\\PoketradeTracker\\NPCSpriteSheetImporter\\Assets\\NPCSpritesheetImporter\\Sheets\\Background.png");
+            
 
             background = new Texture2D(630, 500);
-            background.LoadImage(File.ReadAllBytes("D:\\PoketradeTracker\\NPCSpriteSheetImporter\\Assets\\NPCSpritesheetImporter\\Sheets\\Background.png"), false);
+            background.LoadImage(File.ReadAllBytes(Application.dataPath + "\\NPCSpritesheetImporter\\Sheets\\Background.png"), false);
 
 
             if (!Directory.Exists(savePNGFolder)) {
@@ -373,11 +394,21 @@ public class NPCSpritesheetImporter : EditorWindow {
 
             //AnimatedGifUtility.CreateGif(texs, editorPath);
 
+            word1 = alphabet.MakeWordSprite(firstTitle);
+            word2 = alphabet.MakeWordSprite(secondTitle);
+            gifWord = alphabet.MakeWordSprite(gifExport, gifTitleColor);
 
-            
 
-            
-            word = alphabet.MakeWordSprite(title);
+
+
+            DrawScaledSprite(background, word1, new Vector2(DetermineCenteredX(630, (int)word1.rect.width * wordScaleFactor), 430), wordScaleFactor, true, false);
+            DrawScaledSprite(background, word2, new Vector2(DetermineCenteredX(630, (int)word2.rect.width * wordScaleFactor), 380), wordScaleFactor, true, false);
+            DrawScaledSprite(background, gifWord, new Vector2(DetermineCenteredX(630, (int)gifWord.rect.width * gifWordScaleFactor), gifOffset), gifWordScaleFactor, true, false);
+
+            background.Apply();
+
+
+
 
             List<Texture2D> texs = new List<Texture2D>();
 
@@ -420,7 +451,7 @@ public class NPCSpritesheetImporter : EditorWindow {
             }
 
 
-            CreateGif("C:\\Program Files\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
+            CreateGif("C:\\Program Files (x86)\\Steam\\steamapps\\common\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
 
             //Command Line here
 

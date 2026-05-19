@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Townspeople_0_0
+      name: ForestNpcs_0_0
       rect:
         serializedVersion: 2
         x: 0
@@ -125,14 +125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c42a964ec6199c94d8340d250a0e24f9
-      internalID: -1632794512
+      spriteID: 9b7da9d532d3bae4dabf5b0b6ae49e6a
+      internalID: -2051312415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_1
+      name: ForestNpcs_0_1
       rect:
         serializedVersion: 2
         x: 18
@@ -147,14 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f4e49c48b4ffc34092c1ce65f20ddfd
-      internalID: -1546337114
+      spriteID: 0faa4698aaa781b438827b3fdb07a0dd
+      internalID: -904083473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_2
+      name: ForestNpcs_0_2
       rect:
         serializedVersion: 2
         x: 36
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7891da0acde980429bbc6c102bf48e0
-      internalID: 1203620595
+      spriteID: 020e1046f12b80248a345ec4a7eb89fd
+      internalID: 979439496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_3
+      name: ForestNpcs_0_3
       rect:
         serializedVersion: 2
         x: 0
@@ -191,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26fa4136b621d145bb92af12c004d84
-      internalID: -1916717250
+      spriteID: 420f5ce561f0d554a8c1f0fb8aadc727
+      internalID: -78390208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_4
+      name: ForestNpcs_0_4
       rect:
         serializedVersion: 2
         x: 18
@@ -213,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9cfa9e655d070c438a1f39526830157
-      internalID: -107575448
+      spriteID: 779d3edaacf356d4ebda6b2fb2122206
+      internalID: 1764168932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_5
+      name: ForestNpcs_0_5
       rect:
         serializedVersion: 2
         x: 36
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30c8650c3da317d45b458ac69a78d670
-      internalID: -1140911914
+      spriteID: 920adf104bbae6b498a99228b73a77f2
+      internalID: -87858727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_6
+      name: ForestNpcs_0_6
       rect:
         serializedVersion: 2
         x: 0
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6b112521f16cfc4eb9da835c94d9577
-      internalID: -907296561
+      spriteID: 9d936648c8dd32345bd3615dd36db5c5
+      internalID: 197052720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_7
+      name: ForestNpcs_0_7
       rect:
         serializedVersion: 2
         x: 18
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d383b6a1ea874f47baf769efd33e484
-      internalID: 1150108895
+      spriteID: dfca2fd3bc42f7949883561ff0c15edb
+      internalID: 1767488334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_8
+      name: ForestNpcs_0_8
       rect:
         serializedVersion: 2
         x: 36
@@ -301,14 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07a4b8bc6a6654c4e9cbdbedd672ce25
-      internalID: 753523746
+      spriteID: ca462aeade4b7a7419b73a603c0af7cc
+      internalID: 1873447321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_9
+      name: ForestNpcs_0_9
       rect:
         serializedVersion: 2
         x: 0
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 439efe5259ad6264ca9e779ebe26d100
-      internalID: 2056104090
+      spriteID: eef6557ec312d6c46885aceceb58f99e
+      internalID: -347831239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_10
+      name: ForestNpcs_0_10
       rect:
         serializedVersion: 2
         x: 18
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afeab13fed66e614a95c285d1f4265e3
-      internalID: 1307870676
+      spriteID: 29508a9f0e4a65e4192264c8c49bb99f
+      internalID: -700571782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_11
+      name: ForestNpcs_0_11
       rect:
         serializedVersion: 2
         x: 36
@@ -367,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3d4852ba81d28e4a9d7f0eef6420d59
-      internalID: 1580943409
+      spriteID: 5c2a5454a8aea624b9e065776af14bf2
+      internalID: 1095120823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_0_12
+      name: ForestNpcs_0_12
       rect:
         serializedVersion: 2
         x: 62
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48023d727ebc54144973c9fff410b289
-      internalID: -1540179218
+      spriteID: af3ac71c7ec1a0c418c5a80846e66c6f
+      internalID: -1546949435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_0
+      name: ForestNpcs_1_0
       rect:
         serializedVersion: 2
         x: 126
@@ -411,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 468e6e629447a9c46ab492d75cb839a2
-      internalID: -1469824081
+      spriteID: 40d7d027b6bc3774a86cc2a28ddfb695
+      internalID: -839625191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_1
+      name: ForestNpcs_1_1
       rect:
         serializedVersion: 2
         x: 144
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfe92636a9a475d4cb7f15e347346dc0
-      internalID: 1023732196
+      spriteID: 06b0de04d0b3fd74688917b35c2e22f6
+      internalID: -600477550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_2
+      name: ForestNpcs_1_2
       rect:
         serializedVersion: 2
         x: 162
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9da92a9dcba63ad409cd57c59701ee8f
-      internalID: -1448703124
+      spriteID: 0f998bf3d882cbe4f9cc08a361ef6a22
+      internalID: -1133082640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_3
+      name: ForestNpcs_1_3
       rect:
         serializedVersion: 2
         x: 126
@@ -477,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16ca50d48744511468af76a9dbc3f0f4
-      internalID: 128756209
+      spriteID: 161f18ee71b029d41aa1f64672fe10bc
+      internalID: -1249047572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_4
+      name: ForestNpcs_1_4
       rect:
         serializedVersion: 2
         x: 144
@@ -499,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 913d714d714163a4e874bd07837c6dc4
-      internalID: -2099470848
+      spriteID: b1ffa3313b04c8a41a431a2868456fc3
+      internalID: -7755925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_5
+      name: ForestNpcs_1_5
       rect:
         serializedVersion: 2
         x: 162
@@ -521,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1692ae7032f2f9e4cb35e5890d98ad0f
-      internalID: -1419100066
+      spriteID: f5e250b256e9cb544a00c3003f85658e
+      internalID: 254867801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_6
+      name: ForestNpcs_1_6
       rect:
         serializedVersion: 2
         x: 126
@@ -543,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31da5b09ec010d54d867833cfe4d52ab
-      internalID: -1666752396
+      spriteID: 0f8fe0388fa96a94483b4baaca99d1a5
+      internalID: 768339507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_7
+      name: ForestNpcs_1_7
       rect:
         serializedVersion: 2
         x: 144
@@ -565,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce8d4abb7faa984da7efd36661c75e7
-      internalID: -1931091110
+      spriteID: 1122d6f4a94bff549a87fef2d6e924ac
+      internalID: -39590335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_8
+      name: ForestNpcs_1_8
       rect:
         serializedVersion: 2
         x: 162
@@ -587,14 +587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acb3d6ed1d7bc51488c3080bdcb5823f
-      internalID: -544516467
+      spriteID: b22a3ab6e79eb8647b597d2cf5db434b
+      internalID: 845813636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_9
+      name: ForestNpcs_1_9
       rect:
         serializedVersion: 2
         x: 126
@@ -609,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57b4696e085ae7548a5b26c5e9ae25e0
-      internalID: 896467605
+      spriteID: fe81bb6922382134cbb4f3e9d093d014
+      internalID: 777129353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_10
+      name: ForestNpcs_1_10
       rect:
         serializedVersion: 2
         x: 144
@@ -631,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 197e7395981c3ee489ce5a8f0f94ef71
-      internalID: 717448858
+      spriteID: 184cf11fd14f05f419b6232da1fac9a7
+      internalID: 431929533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_11
+      name: ForestNpcs_1_11
       rect:
         serializedVersion: 2
         x: 162
@@ -653,14 +653,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf8cef831f819854fbc5ccc1757f26f2
-      internalID: -1897461669
+      spriteID: a3983871a11dc114aa83731a6e52d55e
+      internalID: 187651809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_1_12
+      name: ForestNpcs_1_12
       rect:
         serializedVersion: 2
         x: 188
@@ -675,14 +675,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6faa155129d368f4fb8270cc5bde80dd
-      internalID: 721867763
+      spriteID: e7a7ee40f7b334242b73232567585a38
+      internalID: -1373692306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_0
+      name: ForestNpcs_2_0
       rect:
         serializedVersion: 2
         x: 252
@@ -697,14 +697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4123cb587e6df8046aa017acda1fc8ba
-      internalID: 112030256
+      spriteID: d5e26995d37de85468d247551f9c8c48
+      internalID: -235209148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_1
+      name: ForestNpcs_2_1
       rect:
         serializedVersion: 2
         x: 270
@@ -719,14 +719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1f31c418f4f5e40a5ac915cc1d8f58
-      internalID: 474391265
+      spriteID: fc675c3e64e92c441bd96bde1d633db5
+      internalID: -1334041491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_2
+      name: ForestNpcs_2_2
       rect:
         serializedVersion: 2
         x: 288
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58ec3090f9da1ee40a52c5fa7534b6a0
-      internalID: -1951853600
+      spriteID: ce8ce870b3bfbae40828c2e2ec47369c
+      internalID: -1758002933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_3
+      name: ForestNpcs_2_3
       rect:
         serializedVersion: 2
         x: 252
@@ -763,14 +763,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5bf92f32eb432c45900156a38e1f424
-      internalID: -2135472344
+      spriteID: bdee7d58d52a06a4791ead3341bfe254
+      internalID: -62675905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_4
+      name: ForestNpcs_2_4
       rect:
         serializedVersion: 2
         x: 270
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0faf3e06c20c9eb41aef6b5245cd96ac
-      internalID: -1204387045
+      spriteID: ee57e7014a505f341a303b2d78cabb64
+      internalID: 1150524309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_5
+      name: ForestNpcs_2_5
       rect:
         serializedVersion: 2
         x: 288
@@ -807,14 +807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15662c0eb21134f4e85ab7669a06d8df
-      internalID: -658877257
+      spriteID: 8384c4ae99c7e65488c3cab169c6c810
+      internalID: 1382332521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_6
+      name: ForestNpcs_2_6
       rect:
         serializedVersion: 2
         x: 252
@@ -829,14 +829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcd3068b7830e4241a2434dbec10ab24
-      internalID: 245687074
+      spriteID: 2219756ec16689b419b6564d9e07c584
+      internalID: -1789827198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_7
+      name: ForestNpcs_2_7
       rect:
         serializedVersion: 2
         x: 270
@@ -851,14 +851,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9158d1b6a1e84864d8ce2756e540f8e7
-      internalID: -1755305086
+      spriteID: f681e6bc56a56774fa4049b903c8970b
+      internalID: -504921090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_8
+      name: ForestNpcs_2_8
       rect:
         serializedVersion: 2
         x: 288
@@ -873,14 +873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a89fc270978dde94088ff0977d0dcbbf
-      internalID: 1636084374
+      spriteID: d2410710f180ad945a7191d31e04f0ae
+      internalID: -1382952805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_9
+      name: ForestNpcs_2_9
       rect:
         serializedVersion: 2
         x: 252
@@ -895,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af30986dd6c7287409b5f030d7865a43
-      internalID: -370390010
+      spriteID: 125ac6817b4be1b47a9900aa61452b2f
+      internalID: -1701142121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_10
+      name: ForestNpcs_2_10
       rect:
         serializedVersion: 2
         x: 270
@@ -917,14 +917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84bf2d05f449c8244bf9d207ec620f16
-      internalID: 1779894878
+      spriteID: b91cfb6502426ab4bb5518021492c1a6
+      internalID: 443971348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_11
+      name: ForestNpcs_2_11
       rect:
         serializedVersion: 2
         x: 288
@@ -939,14 +939,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6c46cad0e9643c4ab886f1a6c675791
-      internalID: -879000797
+      spriteID: 59310c179f2eb7149b75e0bb73addd84
+      internalID: 1912697543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_2_12
+      name: ForestNpcs_2_12
       rect:
         serializedVersion: 2
         x: 314
@@ -961,14 +961,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9edbb26ee8cda7545aeb6df6f322b3ae
-      internalID: 1359140369
+      spriteID: 90d0c60d77c8f994db56185d198d767f
+      internalID: -2067581014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_0
+      name: ForestNpcs_3_0
       rect:
         serializedVersion: 2
         x: 378
@@ -983,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f1a1b1cc97bef24c8a820c7048a5387
-      internalID: -1954259417
+      spriteID: 58f24534bac7c934caf08fd6e32c0428
+      internalID: -1667745947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_1
+      name: ForestNpcs_3_1
       rect:
         serializedVersion: 2
         x: 396
@@ -1005,14 +1005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d395c5d744d1de747b948f7bb36c2522
-      internalID: -2047934918
+      spriteID: 11f17c97127ed28449cda26277c28aea
+      internalID: 469046238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_2
+      name: ForestNpcs_3_2
       rect:
         serializedVersion: 2
         x: 414
@@ -1027,14 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 631c7edbc6919854f9df7838ec6640f0
-      internalID: -1983318814
+      spriteID: 7d626b18e54f446459c2f88cbdcf71d9
+      internalID: -1707573577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_3
+      name: ForestNpcs_3_3
       rect:
         serializedVersion: 2
         x: 378
@@ -1049,14 +1049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e313b97aa32fe0c4dbf80edf6f52e25b
-      internalID: -1377044575
+      spriteID: 0977e07c6d2675a4986470277c732570
+      internalID: -1356517406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_4
+      name: ForestNpcs_3_4
       rect:
         serializedVersion: 2
         x: 396
@@ -1071,14 +1071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58022986c5c216c41bc96f3517e171ac
-      internalID: -1272967477
+      spriteID: 38f615f079c164b44b1453d010d27e93
+      internalID: -1034017128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_5
+      name: ForestNpcs_3_5
       rect:
         serializedVersion: 2
         x: 414
@@ -1093,14 +1093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9226113805929a147b273fadd6b66111
-      internalID: -1955693387
+      spriteID: 1411d9c4efca4cc46a64f18c546bebe7
+      internalID: -2047656549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_6
+      name: ForestNpcs_3_6
       rect:
         serializedVersion: 2
         x: 378
@@ -1115,14 +1115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d459f0cd5894f9d49997aa46fce6ace6
-      internalID: 1327709347
+      spriteID: e18d17ab54c48284981b5e7f7f0d07a5
+      internalID: 1864337361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_7
+      name: ForestNpcs_3_7
       rect:
         serializedVersion: 2
         x: 396
@@ -1137,14 +1137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b98d953dbc477af4e8fee2f991baf79a
-      internalID: -141536698
+      spriteID: dd9f6e2e1aa91804aa6f68190ac3e215
+      internalID: -560833403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_8
+      name: ForestNpcs_3_8
       rect:
         serializedVersion: 2
         x: 414
@@ -1159,14 +1159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab567e1b7be74fe4c8def9a7b424ba5f
-      internalID: 801206643
+      spriteID: 5d7dc3734b8d4da499d999445140c537
+      internalID: 61412882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_9
+      name: ForestNpcs_3_9
       rect:
         serializedVersion: 2
         x: 378
@@ -1181,14 +1181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59037ae76290e7247843b2bb624dc698
-      internalID: -761690069
+      spriteID: b39266b01d445454e99f27cf28a2a817
+      internalID: 745676027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_10
+      name: ForestNpcs_3_10
       rect:
         serializedVersion: 2
         x: 396
@@ -1203,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f381d3e949b3ff4fa3a70180dd58c86
-      internalID: 1735472734
+      spriteID: 2beb50c2bcc4d314ea25d59cc2036c63
+      internalID: -535238815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_11
+      name: ForestNpcs_3_11
       rect:
         serializedVersion: 2
         x: 414
@@ -1225,14 +1225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 260a179de93f0034285ae43fd63e7889
-      internalID: -1980624680
+      spriteID: c61072f5b9eaa754289ffde98479e2bd
+      internalID: -1346795707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_3_12
+      name: ForestNpcs_3_12
       rect:
         serializedVersion: 2
         x: 440
@@ -1247,14 +1247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d92963639a3f46429d7f35d7457b2fd
-      internalID: -437132804
+      spriteID: 260e81e309745324989b08850d8602c6
+      internalID: 1812733559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_0
+      name: ForestNpcs_4_0
       rect:
         serializedVersion: 2
         x: 0
@@ -1269,14 +1269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fbd617bbbfaecc4bade92f14a039bc9
-      internalID: 698948635
+      spriteID: 93af9d8d3a7df0d428102e984b60bc8e
+      internalID: -353639218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_1
+      name: ForestNpcs_4_1
       rect:
         serializedVersion: 2
         x: 18
@@ -1291,14 +1291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcbd3bdc3e7feea4e81a0aec592a5a9d
-      internalID: 1624994784
+      spriteID: 09eb977484a07c64fb3c7bf2abfd06a7
+      internalID: -653853974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_2
+      name: ForestNpcs_4_2
       rect:
         serializedVersion: 2
         x: 36
@@ -1313,14 +1313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f047423ce7659b24ab0179942e40e6c9
-      internalID: -1296236905
+      spriteID: 7a02d86991f8d7549ac29bd6b07d4fda
+      internalID: -1576881592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_3
+      name: ForestNpcs_4_3
       rect:
         serializedVersion: 2
         x: 0
@@ -1335,14 +1335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dab620fe4eec4694682ebba00f965c69
-      internalID: -1301099096
+      spriteID: 8b196a2ccb0a7f140ac6010148a3f62e
+      internalID: 1287850051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_4
+      name: ForestNpcs_4_4
       rect:
         serializedVersion: 2
         x: 18
@@ -1357,14 +1357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a3e8a27b15d30f46b5c7cfe2a62a5fd
-      internalID: -1037926354
+      spriteID: 5191739cb7f558f44937a76747fc4a1d
+      internalID: -1388603527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_5
+      name: ForestNpcs_4_5
       rect:
         serializedVersion: 2
         x: 36
@@ -1379,14 +1379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8853be3e80f3ca34cbcc593419f05f75
-      internalID: 352743086
+      spriteID: a34a91f228447f34996fe5c62f9e3b55
+      internalID: 2133649558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_6
+      name: ForestNpcs_4_6
       rect:
         serializedVersion: 2
         x: 0
@@ -1401,14 +1401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4edb13b5e0ce58408f515a687ae29b8
-      internalID: 1722894942
+      spriteID: 2331cbf25af31d944b7f5e222022c8e9
+      internalID: -303592891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_7
+      name: ForestNpcs_4_7
       rect:
         serializedVersion: 2
         x: 18
@@ -1423,14 +1423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2baf4116563efd499a1cd249090afd9
-      internalID: 1040407690
+      spriteID: 7abd3d852d0464d44b5fd6f5662eec70
+      internalID: -1485632882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_8
+      name: ForestNpcs_4_8
       rect:
         serializedVersion: 2
         x: 36
@@ -1445,14 +1445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 228109ffb100655448edc78e9611d93c
-      internalID: 1647011044
+      spriteID: e281f4311871cdc4594cc507925be4e7
+      internalID: -54622578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_9
+      name: ForestNpcs_4_9
       rect:
         serializedVersion: 2
         x: 0
@@ -1467,14 +1467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f7153099690bda459714664d3aa2939
-      internalID: 667465068
+      spriteID: 12837242cee29ea479ec45efe3e11417
+      internalID: -1905112188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_10
+      name: ForestNpcs_4_10
       rect:
         serializedVersion: 2
         x: 18
@@ -1489,14 +1489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90e67ed49a1380a4bb988002883eeea5
-      internalID: -53527876
+      spriteID: 55baedee50be2374397421296b200235
+      internalID: -1895517811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_11
+      name: ForestNpcs_4_11
       rect:
         serializedVersion: 2
         x: 36
@@ -1511,14 +1511,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7d06d49447b5d048bdf67335dc1463d
-      internalID: -1098317219
+      spriteID: 8a664d6727d2d2245ac4a03f4349d8b2
+      internalID: 1560368975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_4_12
+      name: ForestNpcs_4_12
       rect:
         serializedVersion: 2
         x: 62
@@ -1533,14 +1533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a251c4dae403b4b49b3a17e19e24899b
-      internalID: 1823607111
+      spriteID: ccff815fe9960314192609f40f56e8f6
+      internalID: -297780634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_0
+      name: ForestNpcs_5_0
       rect:
         serializedVersion: 2
         x: 126
@@ -1555,14 +1555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861713de2e6fd404ea03f31e06363eb1
-      internalID: -1753923071
+      spriteID: 3443081da35f4e348b5bf6144896f60b
+      internalID: -1356078337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_1
+      name: ForestNpcs_5_1
       rect:
         serializedVersion: 2
         x: 144
@@ -1577,14 +1577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5f494b26afc1ba489b5fd0f4c038f7d
-      internalID: 122127175
+      spriteID: f07df6c23500bc145ba4101ba0ef7bee
+      internalID: -1981704100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_2
+      name: ForestNpcs_5_2
       rect:
         serializedVersion: 2
         x: 162
@@ -1599,14 +1599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2a76a599ac75f443a98df9c0ea30e49
-      internalID: 87881809
+      spriteID: 8280a36cedb5fe2408c888ce55b1423b
+      internalID: 1875294714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_3
+      name: ForestNpcs_5_3
       rect:
         serializedVersion: 2
         x: 126
@@ -1621,14 +1621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b265110a6bba79a4ba5a4eb41bdc46e1
-      internalID: -819804474
+      spriteID: c97f46d917e5f434ebd0c76e131d99bc
+      internalID: 1823827410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_4
+      name: ForestNpcs_5_4
       rect:
         serializedVersion: 2
         x: 144
@@ -1643,14 +1643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15e43dbf4b4521c498901712cd1bbd4b
-      internalID: -429021255
+      spriteID: 1e3c542470776674683c6b41ff9e8066
+      internalID: -1946273002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_5
+      name: ForestNpcs_5_5
       rect:
         serializedVersion: 2
         x: 162
@@ -1665,14 +1665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee1edef897659a449827bb93da2db79e
-      internalID: 1816109733
+      spriteID: afacacc666d60554591ee1a40b8ad099
+      internalID: -1639707074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_6
+      name: ForestNpcs_5_6
       rect:
         serializedVersion: 2
         x: 126
@@ -1687,14 +1687,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b883f94718c154c8b8689b634725cc
-      internalID: -1681864193
+      spriteID: da07e4c3c351d534a8f3a1a5c877e0f8
+      internalID: -572389646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_7
+      name: ForestNpcs_5_7
       rect:
         serializedVersion: 2
         x: 144
@@ -1709,14 +1709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57b0c845ba022ff4b8dba883cfb9e4fb
-      internalID: -440348181
+      spriteID: ccb0e680c801e184f9aa6ed4d373334c
+      internalID: -2054394097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_8
+      name: ForestNpcs_5_8
       rect:
         serializedVersion: 2
         x: 162
@@ -1731,14 +1731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4545a07fd6eca043814be350fb2c50f
-      internalID: -2004634438
+      spriteID: 2fd9ea503c9b03d46b6cf69bea75a2b6
+      internalID: -1861636774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_9
+      name: ForestNpcs_5_9
       rect:
         serializedVersion: 2
         x: 126
@@ -1753,14 +1753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 164f0ad691257d349b119a3237998672
-      internalID: -847512921
+      spriteID: 08623a6133099b044adae1fe5626682d
+      internalID: -105282204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_10
+      name: ForestNpcs_5_10
       rect:
         serializedVersion: 2
         x: 144
@@ -1775,14 +1775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2821095d2b853da4ca01e61bef84bd1c
-      internalID: -798329409
+      spriteID: 309480288bb5b4f47ae64e25fe2fdacd
+      internalID: -1967185270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_11
+      name: ForestNpcs_5_11
       rect:
         serializedVersion: 2
         x: 162
@@ -1797,14 +1797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54a88b2e50b371d49b151e914ccce763
-      internalID: -1056861873
+      spriteID: 1a96ef148c89794428dec9789556376b
+      internalID: 509772659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_5_12
+      name: ForestNpcs_5_12
       rect:
         serializedVersion: 2
         x: 188
@@ -1819,14 +1819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afe29134bcfd7ab4cb4040fb0448f123
-      internalID: -689081863
+      spriteID: 625b16de57b9fa54a9edd11b0c2f192e
+      internalID: 1882258424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_0
+      name: ForestNpcs_6_0
       rect:
         serializedVersion: 2
         x: 252
@@ -1841,14 +1841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 431890934d9c73e4385248a62f95de2e
-      internalID: -1783771693
+      spriteID: 0d9ad9d0ca272764685f183235451546
+      internalID: 417493901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_1
+      name: ForestNpcs_6_1
       rect:
         serializedVersion: 2
         x: 270
@@ -1863,14 +1863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5adbfe4d6bc2356429b56172b27e4cf2
-      internalID: 1452339829
+      spriteID: cdab69c3c67582a4dac6e4e0c57e8c8e
+      internalID: 513812742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_2
+      name: ForestNpcs_6_2
       rect:
         serializedVersion: 2
         x: 288
@@ -1885,14 +1885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8746861a8a10610428afb9a3906ee7b4
-      internalID: -249198348
+      spriteID: 0e75793bd92fa264a937109bcfd8a422
+      internalID: -1647631972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_3
+      name: ForestNpcs_6_3
       rect:
         serializedVersion: 2
         x: 252
@@ -1907,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0580bed5747dee43a7ec97505042b2a
-      internalID: 1751547840
+      spriteID: 9760287822219b04788cc2d92ec3ce11
+      internalID: -1187792067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_4
+      name: ForestNpcs_6_4
       rect:
         serializedVersion: 2
         x: 270
@@ -1929,14 +1929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66a50c740ea19654cb4fe9096bb0f232
-      internalID: -97681587
+      spriteID: e5704021f40db9645ba166eb9ba3a30c
+      internalID: 840461432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_5
+      name: ForestNpcs_6_5
       rect:
         serializedVersion: 2
         x: 288
@@ -1951,14 +1951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25ab2d34e76e19c4d9246a912bb11797
-      internalID: -1961701243
+      spriteID: 98a0bfeafdcb71a40a0927441f8a27a5
+      internalID: -360742037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_6
+      name: ForestNpcs_6_6
       rect:
         serializedVersion: 2
         x: 252
@@ -1973,14 +1973,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09f1de322edba194c80cf35406a0edb4
-      internalID: -1046891196
+      spriteID: 663f91f74236f314b9d63b3f83a9d2a3
+      internalID: 1841829967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_7
+      name: ForestNpcs_6_7
       rect:
         serializedVersion: 2
         x: 270
@@ -1995,14 +1995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 288f7d5770580454484f38d22381f58d
-      internalID: -1092149053
+      spriteID: d298474b9f1208c41922ea8f560bf8be
+      internalID: -1409656150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_8
+      name: ForestNpcs_6_8
       rect:
         serializedVersion: 2
         x: 288
@@ -2017,14 +2017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 171b2f7b2e05ee244ad15a6eadf363d6
-      internalID: 1297139251
+      spriteID: 1354cad88f382aa40ab24530e9d932b1
+      internalID: -1147326570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_9
+      name: ForestNpcs_6_9
       rect:
         serializedVersion: 2
         x: 252
@@ -2039,14 +2039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f96fcb59027f984ab144f31ff71c7ab
-      internalID: -16742781
+      spriteID: aac8b1f850d922c45a05b2d28bb42fa3
+      internalID: -2096594017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_10
+      name: ForestNpcs_6_10
       rect:
         serializedVersion: 2
         x: 270
@@ -2061,14 +2061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e128b163294229548a73645a0a027c7b
-      internalID: 770542204
+      spriteID: f3719a8d56f05db4180f88f84affb1b9
+      internalID: 553120065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_11
+      name: ForestNpcs_6_11
       rect:
         serializedVersion: 2
         x: 288
@@ -2083,14 +2083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e6eca96d6f7e4841abeca5a97701661
-      internalID: -1729387267
+      spriteID: 72b711de579b3014c83bc567799630c2
+      internalID: 1236832729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_6_12
+      name: ForestNpcs_6_12
       rect:
         serializedVersion: 2
         x: 314
@@ -2105,14 +2105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b96398090219f9741aba545c1b0137b0
-      internalID: -385165640
+      spriteID: ecbefe234909ca146b19cb13f92c2133
+      internalID: -563557588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_0
+      name: ForestNpcs_7_0
       rect:
         serializedVersion: 2
         x: 378
@@ -2127,14 +2127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99f84a29da2a47241a862df862718cfb
-      internalID: 1075854237
+      spriteID: 407017b9e665cdf42b2b6ee389a69d38
+      internalID: -1594326771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_1
+      name: ForestNpcs_7_1
       rect:
         serializedVersion: 2
         x: 396
@@ -2149,14 +2149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ecc4e4ca0498f14e8e0cc5af7475dca
-      internalID: 1359840045
+      spriteID: 1d689bc1a310b2547baa948453e31904
+      internalID: -1615991009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_2
+      name: ForestNpcs_7_2
       rect:
         serializedVersion: 2
         x: 414
@@ -2171,14 +2171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d68dbde7f7a7494da78208eb342d6b8
-      internalID: -2094741891
+      spriteID: e7cc1895b159aee44ac1e47509dc3eb8
+      internalID: 814463868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_3
+      name: ForestNpcs_7_3
       rect:
         serializedVersion: 2
         x: 378
@@ -2193,14 +2193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86560c74221d7564ab1dc7ae61e3daba
-      internalID: 1829657427
+      spriteID: caaf443b215c9194c9d1a59ce6ffc5f0
+      internalID: 1872464084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_4
+      name: ForestNpcs_7_4
       rect:
         serializedVersion: 2
         x: 396
@@ -2215,14 +2215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67dc78e2b8ed2744db01795b0e51735d
-      internalID: -1368384674
+      spriteID: 5132de1f91b4857419d4518650253491
+      internalID: -57691382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_5
+      name: ForestNpcs_7_5
       rect:
         serializedVersion: 2
         x: 414
@@ -2237,14 +2237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46a2bf85fb0c21c4a9bf6affb551cac4
-      internalID: -333035042
+      spriteID: 06730338c537819408cc2b53ee1fc997
+      internalID: -1018667960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_6
+      name: ForestNpcs_7_6
       rect:
         serializedVersion: 2
         x: 378
@@ -2259,14 +2259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2f1e5c9680972b48836520ae4bb50ac
-      internalID: 2078560446
+      spriteID: aefe154b01b1ce24483221ddbf07aeb0
+      internalID: 818647704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_7
+      name: ForestNpcs_7_7
       rect:
         serializedVersion: 2
         x: 396
@@ -2281,14 +2281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00c3fce8ac9b41b4bb08f4daf108aad3
-      internalID: 719078878
+      spriteID: cc19825e05022bc4b9e51081cb7641b2
+      internalID: -630990117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_8
+      name: ForestNpcs_7_8
       rect:
         serializedVersion: 2
         x: 414
@@ -2303,14 +2303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 977afdbce19707f4385098c0b6cd0e5d
-      internalID: 1640442731
+      spriteID: 0e6502fe44fd22443a038a91ce6970cd
+      internalID: 501581188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_9
+      name: ForestNpcs_7_9
       rect:
         serializedVersion: 2
         x: 378
@@ -2325,14 +2325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c05ff6fd1e3142343a13efd9fffad92b
-      internalID: 1782402105
+      spriteID: 63ed6e8eb2dc0a24982d88701a74007d
+      internalID: 27204725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_10
+      name: ForestNpcs_7_10
       rect:
         serializedVersion: 2
         x: 396
@@ -2347,14 +2347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc7985e878a508f43b29114c3a23104d
-      internalID: -264138470
+      spriteID: e1e3016526ee78e41ac182d234aed2dd
+      internalID: 1191587006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_11
+      name: ForestNpcs_7_11
       rect:
         serializedVersion: 2
         x: 414
@@ -2369,14 +2369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de7e85f9d3dccae4f84ed87d9770aaba
-      internalID: 2063399396
+      spriteID: 72a9b104dbfcc3a4aac9db1440f32868
+      internalID: 1739739883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_7_12
+      name: ForestNpcs_7_12
       rect:
         serializedVersion: 2
         x: 440
@@ -2391,14 +2391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 351d04f6eecb54249963eb91320b3995
-      internalID: -344141305
+      spriteID: be4f516396cb4bc479e07198dee16766
+      internalID: 1103014555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_0
+      name: ForestNpcs_8_0
       rect:
         serializedVersion: 2
         x: 0
@@ -2413,14 +2413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73ae5eab448a31d4ca680df0a6426687
-      internalID: -2097618153
+      spriteID: 31641a317628d5b4da8240278e4dda4a
+      internalID: -1305659052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_1
+      name: ForestNpcs_8_1
       rect:
         serializedVersion: 2
         x: 18
@@ -2435,14 +2435,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e32e17c3d37c72342a2d6c4b428131e2
-      internalID: -929841692
+      spriteID: 9efa65b02be339b4d813c1d5dce543ff
+      internalID: -1747100001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_2
+      name: ForestNpcs_8_2
       rect:
         serializedVersion: 2
         x: 36
@@ -2457,14 +2457,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4865ae29ddbfb3448443c785877eb3a
-      internalID: -332276051
+      spriteID: b36c417c993e11d4491a5e6b2634d401
+      internalID: -1870617048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_3
+      name: ForestNpcs_8_3
       rect:
         serializedVersion: 2
         x: 0
@@ -2479,14 +2479,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 809fd6a0cc699d344937a022a4d2b8f2
-      internalID: 608710386
+      spriteID: 111b02f75d26ec14e80dbeb16dd56a52
+      internalID: 207119062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_4
+      name: ForestNpcs_8_4
       rect:
         serializedVersion: 2
         x: 18
@@ -2501,14 +2501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4f046976610f6441a7190fad0e90865
-      internalID: 1540034464
+      spriteID: a4a1a7e26de780d48af8d2958e8d6b0d
+      internalID: 705180039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_5
+      name: ForestNpcs_8_5
       rect:
         serializedVersion: 2
         x: 36
@@ -2523,14 +2523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c81b14ecede72ef4b99c3de4945a5f19
-      internalID: -1864906328
+      spriteID: 2ddfc18a2af998a48a9e07c14b996a1f
+      internalID: 1072668732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_6
+      name: ForestNpcs_8_6
       rect:
         serializedVersion: 2
         x: 0
@@ -2545,14 +2545,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43aeaf8125090ed48afef89d21eff97e
-      internalID: -1195989354
+      spriteID: 64c3ad7322f2a5c43aaf4bccfda75611
+      internalID: -1211123193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_7
+      name: ForestNpcs_8_7
       rect:
         serializedVersion: 2
         x: 18
@@ -2567,14 +2567,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db3d16ee09e976f40a2dbf95d1b62fcc
-      internalID: 1751635480
+      spriteID: e90606f80a8d3f24c838e8ce4b058429
+      internalID: -1081087122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_8
+      name: ForestNpcs_8_8
       rect:
         serializedVersion: 2
         x: 36
@@ -2589,14 +2589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95baafb90cb1ba145a6131197b8fd025
-      internalID: -1147500529
+      spriteID: 5d69113dd84082c428d2ad3a475f74f5
+      internalID: 1033236814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_9
+      name: ForestNpcs_8_9
       rect:
         serializedVersion: 2
         x: 0
@@ -2611,14 +2611,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3be9d700ce6339448a716192ca04ecde
-      internalID: -1334060540
+      spriteID: 9933c4403ce0a354782699a0327718cd
+      internalID: -644016800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_10
+      name: ForestNpcs_8_10
       rect:
         serializedVersion: 2
         x: 18
@@ -2633,14 +2633,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa76a45ba9e243b4f8519776a6821d71
-      internalID: 1043783026
+      spriteID: 1f826297debeb23489c301b70f0fd469
+      internalID: 1502775886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_11
+      name: ForestNpcs_8_11
       rect:
         serializedVersion: 2
         x: 36
@@ -2655,14 +2655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cdaed344235044499dcd22375e65f5d
-      internalID: -2014455001
+      spriteID: 233afe908d87e3644afbb7c5cf43b1b7
+      internalID: 1362968538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_8_12
+      name: ForestNpcs_8_12
       rect:
         serializedVersion: 2
         x: 62
@@ -2677,14 +2677,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2998a909766cd04f8af0203a66af811
-      internalID: -1265150835
+      spriteID: 1049823fa443a45458d907e98772ece0
+      internalID: -614794196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_0
+      name: ForestNpcs_9_0
       rect:
         serializedVersion: 2
         x: 126
@@ -2699,14 +2699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c962e54e35aa104e9b665b1a347a225
-      internalID: 1421430641
+      spriteID: 365adbb40030af541949fdaccbcaba14
+      internalID: 916151259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_1
+      name: ForestNpcs_9_1
       rect:
         serializedVersion: 2
         x: 144
@@ -2721,14 +2721,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4879e56e0ba60544bb6f78a0c0973dc
-      internalID: -1298902711
+      spriteID: 7a77ce027cb865443b2d80b3827a0a2f
+      internalID: 570290775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_2
+      name: ForestNpcs_9_2
       rect:
         serializedVersion: 2
         x: 162
@@ -2743,14 +2743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfcf34e884ee3674cb06276f804a47e5
-      internalID: -1667013500
+      spriteID: a225182714132d04a8e00fd516570343
+      internalID: 388831512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_3
+      name: ForestNpcs_9_3
       rect:
         serializedVersion: 2
         x: 126
@@ -2765,14 +2765,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7a2a1eab38e61146b12875ab88d6869
-      internalID: 469091950
+      spriteID: 22e83eb91a0657f46b2b5218510f3fe4
+      internalID: 1794236901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_4
+      name: ForestNpcs_9_4
       rect:
         serializedVersion: 2
         x: 144
@@ -2787,14 +2787,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2610dd726be7683489808683e1a8de39
-      internalID: 2124889403
+      spriteID: 937dae9369bd5e342aa69c944c2b566e
+      internalID: -656497119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_5
+      name: ForestNpcs_9_5
       rect:
         serializedVersion: 2
         x: 162
@@ -2809,14 +2809,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fc897b15fcb91344a26a1d2fa7db0a8
-      internalID: 196186061
+      spriteID: 6fe16b202d9e8c74f95e823e148ccd20
+      internalID: -825822014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_6
+      name: ForestNpcs_9_6
       rect:
         serializedVersion: 2
         x: 126
@@ -2831,14 +2831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99322c614cd9cbe47a28c38429a7db36
-      internalID: -472682324
+      spriteID: 6c122751981134243aefa3ca2cc134c2
+      internalID: 164826619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_7
+      name: ForestNpcs_9_7
       rect:
         serializedVersion: 2
         x: 144
@@ -2853,14 +2853,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cd1004efda2e8e48a127c69826b4f1f
-      internalID: -1028081681
+      spriteID: 3e57fe9f676eb6949bd4d7627996c653
+      internalID: 792982755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_8
+      name: ForestNpcs_9_8
       rect:
         serializedVersion: 2
         x: 162
@@ -2875,14 +2875,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c66da1e238e8f540aaf9050e7ae1400
-      internalID: -98519242
+      spriteID: 7da3ada8eccd9c442a70e653f1b5ba7c
+      internalID: 197448521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_9
+      name: ForestNpcs_9_9
       rect:
         serializedVersion: 2
         x: 126
@@ -2897,14 +2897,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0352473cd5f5d0440a7189b914f552ad
-      internalID: -292028054
+      spriteID: 6990b1cf19dc2494ea540c2601c08cf0
+      internalID: 396176064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_10
+      name: ForestNpcs_9_10
       rect:
         serializedVersion: 2
         x: 144
@@ -2919,14 +2919,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ddcd7d2828c1ef438a533027d228688
-      internalID: -315941869
+      spriteID: b4c078ad3702859448c205e5a80021d0
+      internalID: 767659285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_11
+      name: ForestNpcs_9_11
       rect:
         serializedVersion: 2
         x: 162
@@ -2941,14 +2941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e176ab05eb6d5749b75a672bbc08994
-      internalID: 1008565845
+      spriteID: 25a6d426cba3df443974a29bf6899dda
+      internalID: -689453395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_9_12
+      name: ForestNpcs_9_12
       rect:
         serializedVersion: 2
         x: 188
@@ -2963,14 +2963,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 079007ffe8043634bb3a0f2554538927
-      internalID: 585621807
+      spriteID: b7beeccb771e813478fcd9e9aa0ac200
+      internalID: 2131239202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_0
+      name: ForestNpcs_10_0
       rect:
         serializedVersion: 2
         x: 252
@@ -2985,14 +2985,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a72dbccb6e31fe64cbdd307716e5a4f5
-      internalID: 483953942
+      spriteID: 51ce7c4eb747ac143996b654c40e88f3
+      internalID: 1469877125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_1
+      name: ForestNpcs_10_1
       rect:
         serializedVersion: 2
         x: 270
@@ -3007,14 +3007,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf61194e74ce9d34b8201c451875c758
-      internalID: 1776010472
+      spriteID: 70a44156e06152b43aef6aced596ae9a
+      internalID: -1084032192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_2
+      name: ForestNpcs_10_2
       rect:
         serializedVersion: 2
         x: 288
@@ -3029,14 +3029,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a02d57f4a141bf4694c033c71e5261c
-      internalID: -1680233022
+      spriteID: 9fb3c7f4fd2d74840b79024630671965
+      internalID: -308830352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_3
+      name: ForestNpcs_10_3
       rect:
         serializedVersion: 2
         x: 252
@@ -3051,14 +3051,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c91d4e6fa02a704b863e8ffaafc3f7b
-      internalID: 386733981
+      spriteID: a4e9da0b31fde65448a63fe57b715203
+      internalID: 703048264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_4
+      name: ForestNpcs_10_4
       rect:
         serializedVersion: 2
         x: 270
@@ -3073,14 +3073,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a8cfeec7e45b834fbd0501bbe43cdd4
-      internalID: 1396886941
+      spriteID: 9aaaee682e1c74649b8252c768eb67a6
+      internalID: 1001673875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_5
+      name: ForestNpcs_10_5
       rect:
         serializedVersion: 2
         x: 288
@@ -3095,14 +3095,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b41a49db6495de48946361808f988fb
-      internalID: 964090193
+      spriteID: 5ae7d07d0743fc845a49b9be664696f3
+      internalID: -629744621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_6
+      name: ForestNpcs_10_6
       rect:
         serializedVersion: 2
         x: 252
@@ -3117,14 +3117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef0f24e606bb262418bbfb37d0c86483
-      internalID: 2129392862
+      spriteID: f8e327756371b0c46be612d91fd4a983
+      internalID: 1144973357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_7
+      name: ForestNpcs_10_7
       rect:
         serializedVersion: 2
         x: 270
@@ -3139,14 +3139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f2e733a20763d45956505ea76986ab
-      internalID: -662708638
+      spriteID: 76fd92404c0c6da42b0aba5218088558
+      internalID: -586524566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_8
+      name: ForestNpcs_10_8
       rect:
         serializedVersion: 2
         x: 288
@@ -3161,14 +3161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f614a0d64d2f3f48803480dc7d02c6f
-      internalID: -154462674
+      spriteID: 032fae24709437842ab3a7bae271f14e
+      internalID: -1289549612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_9
+      name: ForestNpcs_10_9
       rect:
         serializedVersion: 2
         x: 252
@@ -3183,14 +3183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e5fd43511997c447a419b740bcaf1a8
-      internalID: -1820403667
+      spriteID: 4813987609903a24f9d5adacc919737a
+      internalID: 982122793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_10
+      name: ForestNpcs_10_10
       rect:
         serializedVersion: 2
         x: 270
@@ -3205,14 +3205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e11177a93139bf14c82cdfd1a8d034c2
-      internalID: 1856412493
+      spriteID: c80921f60ba8f1b4e97d868688ad16ff
+      internalID: 2028162847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_11
+      name: ForestNpcs_10_11
       rect:
         serializedVersion: 2
         x: 288
@@ -3227,14 +3227,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8565de668aaa2149b23e43468959fc2
-      internalID: 713013349
+      spriteID: d5ab130dcce252448bc71abb56acbf82
+      internalID: -1365607105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_10_12
+      name: ForestNpcs_10_12
       rect:
         serializedVersion: 2
         x: 314
@@ -3249,14 +3249,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0bd1ef6dc23c834ca0c140b4dee58be
-      internalID: -1277385728
+      spriteID: c68a38f1165e1ed43942731d9b529a83
+      internalID: 2054162314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_0
+      name: ForestNpcs_11_0
       rect:
         serializedVersion: 2
         x: 378
@@ -3271,14 +3271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 272206e17d1623e4e98595a461cc1a30
-      internalID: -1399388767
+      spriteID: 399e8c2766580eb41bea598a682dac44
+      internalID: 1033226348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_1
+      name: ForestNpcs_11_1
       rect:
         serializedVersion: 2
         x: 396
@@ -3293,14 +3293,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06fe52f925145e447adfcfb58c6bad7c
-      internalID: 279186670
+      spriteID: d0dfa71346288e34a9605a9a5e03bf07
+      internalID: 1877466009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_2
+      name: ForestNpcs_11_2
       rect:
         serializedVersion: 2
         x: 414
@@ -3315,14 +3315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10b88da0dec26bc45814b436ee2e3566
-      internalID: -875867603
+      spriteID: 5fadc9b357a9b3548906ea8cd14ea216
+      internalID: -1634305761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_3
+      name: ForestNpcs_11_3
       rect:
         serializedVersion: 2
         x: 378
@@ -3337,14 +3337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b07f0dfec48f87438fc93aeae77a553
-      internalID: -1051821494
+      spriteID: 257cb8f76a2617d44a28f385fadeafd5
+      internalID: -1131085649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_4
+      name: ForestNpcs_11_4
       rect:
         serializedVersion: 2
         x: 396
@@ -3359,14 +3359,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b35abfd169001b340a2de4975fd31482
-      internalID: -445578880
+      spriteID: 8dfab08c008b2204b88bfde38dfcb07d
+      internalID: 1454081577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_5
+      name: ForestNpcs_11_5
       rect:
         serializedVersion: 2
         x: 414
@@ -3381,14 +3381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d3eb61639bd26f4a9b276e402adb7b0
-      internalID: 96586611
+      spriteID: 6eb209eb4ddaa7343a41a2165237162c
+      internalID: -423687100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_6
+      name: ForestNpcs_11_6
       rect:
         serializedVersion: 2
         x: 378
@@ -3403,14 +3403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 184d33e3febfc954097f991b6f43a4be
-      internalID: -434419554
+      spriteID: 3ce636d50dd10ab49bc2bfaa508d8250
+      internalID: -1698337141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_7
+      name: ForestNpcs_11_7
       rect:
         serializedVersion: 2
         x: 396
@@ -3425,14 +3425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d4f0b4a600ac445a15ab6aacd34863
-      internalID: 546235755
+      spriteID: b7322bbd1b32cc0459d02ca06fe26311
+      internalID: -1032980324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_8
+      name: ForestNpcs_11_8
       rect:
         serializedVersion: 2
         x: 414
@@ -3447,14 +3447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47ca8a13ba69f6540ad3db426427879f
-      internalID: -1059150416
+      spriteID: f08db29a0548683469a7f99e49a0d15a
+      internalID: -158751412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_9
+      name: ForestNpcs_11_9
       rect:
         serializedVersion: 2
         x: 378
@@ -3469,14 +3469,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fb5842ade166114280f8270a1ea2cd9
-      internalID: 672600222
+      spriteID: fe025310cf2b5cc4b9a47422406abd2b
+      internalID: 658875743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_10
+      name: ForestNpcs_11_10
       rect:
         serializedVersion: 2
         x: 396
@@ -3491,14 +3491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd2e1c2a682d46d419c6125020c9508f
-      internalID: 2118823479
+      spriteID: 88f59ccecadf57541bbb94dddbaebba9
+      internalID: -2018975106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_11
+      name: ForestNpcs_11_11
       rect:
         serializedVersion: 2
         x: 414
@@ -3513,14 +3513,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f741d1c9589e7746b63496353369ded
-      internalID: -653881438
+      spriteID: 1e1ebc427714fde43bfd15e660af6dd6
+      internalID: 394608542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_11_12
+      name: ForestNpcs_11_12
       rect:
         serializedVersion: 2
         x: 440
@@ -3535,14 +3535,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 592a41c18a085ef44a4ccf6a01c48e4a
-      internalID: 995200970
+      spriteID: f06922001ec225044946a309453c713c
+      internalID: 3810629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_0
+      name: ForestNpcs_12_0
       rect:
         serializedVersion: 2
         x: 0
@@ -3557,14 +3557,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f74a0411ee2a063408f8e158f5202662
-      internalID: -1961131364
+      spriteID: 7f5867345c8121a4197a93fddc9138ab
+      internalID: 737972706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_1
+      name: ForestNpcs_12_1
       rect:
         serializedVersion: 2
         x: 18
@@ -3579,14 +3579,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3ffbe651f6afde4fa5777fadd7bf5c5
-      internalID: -2107789118
+      spriteID: 65a82ba290a7c594c89214501983c35a
+      internalID: -1711139772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_2
+      name: ForestNpcs_12_2
       rect:
         serializedVersion: 2
         x: 36
@@ -3601,14 +3601,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887a9e3685be5f343a40b32b69a08572
-      internalID: 375435990
+      spriteID: fc5de610cd25b38499ab7a14b5e7050b
+      internalID: 1272347308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_3
+      name: ForestNpcs_12_3
       rect:
         serializedVersion: 2
         x: 0
@@ -3623,14 +3623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9babeca7c2b644549bc2b52e3d55224a
-      internalID: 1552784428
+      spriteID: 5afdbc4f305610644aad4be6daa597c9
+      internalID: -1846305767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_4
+      name: ForestNpcs_12_4
       rect:
         serializedVersion: 2
         x: 18
@@ -3645,14 +3645,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56374e4f3564b57468e985f0442f13d4
-      internalID: 1109329963
+      spriteID: 998c8324f4af9434d8f2031e4c7138cc
+      internalID: -903804333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_5
+      name: ForestNpcs_12_5
       rect:
         serializedVersion: 2
         x: 36
@@ -3667,14 +3667,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 054b0a63fa793cf44b537e6dbee758c2
-      internalID: -56060497
+      spriteID: 761bd5ef7488858429fccaa499653096
+      internalID: 1934817281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_6
+      name: ForestNpcs_12_6
       rect:
         serializedVersion: 2
         x: 0
@@ -3689,14 +3689,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20164d9ef70da724285cfc6240eca23c
-      internalID: -1246212608
+      spriteID: 724924a5239cfd4458d1fc5bdaeb55c1
+      internalID: -737596083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_7
+      name: ForestNpcs_12_7
       rect:
         serializedVersion: 2
         x: 18
@@ -3711,14 +3711,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f9cf7c4d5b4bc741829acc38a85613c
-      internalID: -958845261
+      spriteID: 1125c6c4016c6a64a890c63398237dde
+      internalID: 1384772077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_8
+      name: ForestNpcs_12_8
       rect:
         serializedVersion: 2
         x: 36
@@ -3733,14 +3733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 261fa680d6cb0244c92eb1cb70c40199
-      internalID: -1675288239
+      spriteID: 6f88c23d04971c740bdb5a6c119f633e
+      internalID: -4096734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_9
+      name: ForestNpcs_12_9
       rect:
         serializedVersion: 2
         x: 0
@@ -3755,14 +3755,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7261d85da442cdc4b9d959845c063211
-      internalID: -2079059280
+      spriteID: 2be018cfb070c6044b532398100082d6
+      internalID: -1708376598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_10
+      name: ForestNpcs_12_10
       rect:
         serializedVersion: 2
         x: 18
@@ -3777,14 +3777,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd67822c1848b0641a4017223af9887c
-      internalID: -1037699775
+      spriteID: 6f6d721235b011349a84d7ec98c66461
+      internalID: 2075492040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_11
+      name: ForestNpcs_12_11
       rect:
         serializedVersion: 2
         x: 36
@@ -3799,14 +3799,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 593f5334118a3e444be5fa5d547a76c5
-      internalID: -859431489
+      spriteID: 1d4182559c529074f94ed3ebdf1a1044
+      internalID: -23590147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_12_12
+      name: ForestNpcs_12_12
       rect:
         serializedVersion: 2
         x: 62
@@ -3821,14 +3821,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cffe7cba378311e4e9911194e2ecbddb
-      internalID: 1249046551
+      spriteID: 5f3c921412528744ea7dca6b74ea0c80
+      internalID: 70810471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_0
+      name: ForestNpcs_13_0
       rect:
         serializedVersion: 2
         x: 126
@@ -3843,14 +3843,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e2e60a01d439ab4eb8f5f8652c82860
-      internalID: -1490103288
+      spriteID: efb7aaf115e7a464cb66b8637b30f13a
+      internalID: 240683649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_1
+      name: ForestNpcs_13_1
       rect:
         serializedVersion: 2
         x: 144
@@ -3865,14 +3865,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a48b4db586a179b4788d3c0a79cca193
-      internalID: -1585976142
+      spriteID: 0cde068de493ab14e819ef2c148a5bf6
+      internalID: 1128560321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_2
+      name: ForestNpcs_13_2
       rect:
         serializedVersion: 2
         x: 162
@@ -3887,14 +3887,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cedcfb7fc75c56428c01b39d71cd26f
-      internalID: 1396551764
+      spriteID: 5eaac5324e1beca4d99fba9f70331d1b
+      internalID: -949960196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_3
+      name: ForestNpcs_13_3
       rect:
         serializedVersion: 2
         x: 126
@@ -3909,14 +3909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2bca478e5debca40a86892b71bf022b
-      internalID: -617356104
+      spriteID: 63f0b6959b1762e4892386d6944befaf
+      internalID: 1805973279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_4
+      name: ForestNpcs_13_4
       rect:
         serializedVersion: 2
         x: 144
@@ -3931,14 +3931,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13900eea48f82c3488d4fa998ff4f9da
-      internalID: -1219398225
+      spriteID: 92ed2c29e355ee344b783240b7add00c
+      internalID: 1778874609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_5
+      name: ForestNpcs_13_5
       rect:
         serializedVersion: 2
         x: 162
@@ -3953,14 +3953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d50c04990105aa49afe7980ec5eddf7
-      internalID: -1793816444
+      spriteID: 94e0298112ff87a49bc3b3e890fbfd79
+      internalID: -1218008900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_6
+      name: ForestNpcs_13_6
       rect:
         serializedVersion: 2
         x: 126
@@ -3975,14 +3975,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec45827ffcce6740ad5b01c919d1ec7
-      internalID: 2124139584
+      spriteID: e8876ad120a167e41a2a889199584671
+      internalID: 1148363246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_7
+      name: ForestNpcs_13_7
       rect:
         serializedVersion: 2
         x: 144
@@ -3997,14 +3997,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 611ddd460a119ba4f9a09a4df86280f4
-      internalID: -780051281
+      spriteID: a3724d98c34db124ea8c214a117bfa43
+      internalID: 2059024376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_8
+      name: ForestNpcs_13_8
       rect:
         serializedVersion: 2
         x: 162
@@ -4019,14 +4019,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac87bb5bff3b0084b85d6ddd73bbd4e9
-      internalID: -252020206
+      spriteID: 3e07e5c60a4d78e4aa6c61d52a4da370
+      internalID: 1733382276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_9
+      name: ForestNpcs_13_9
       rect:
         serializedVersion: 2
         x: 126
@@ -4041,14 +4041,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1556bddbbafbf954489804d58afac688
-      internalID: 1393099244
+      spriteID: e9c38408122110642a4f35d30f29ec01
+      internalID: -1925827887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_10
+      name: ForestNpcs_13_10
       rect:
         serializedVersion: 2
         x: 144
@@ -4063,14 +4063,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531b6bc67ecf8fc40994aed92ada23dd
-      internalID: 1658172828
+      spriteID: 952dfb46adaacfa43bc8a8b34e3ba9bc
+      internalID: 1334114420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_11
+      name: ForestNpcs_13_11
       rect:
         serializedVersion: 2
         x: 162
@@ -4085,14 +4085,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3582d51cb36c674492246b236af4fb4
-      internalID: 1034213195
+      spriteID: 62c89ad7897df974c834b506a45d6b97
+      internalID: -1228274351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_13_12
+      name: ForestNpcs_13_12
       rect:
         serializedVersion: 2
         x: 188
@@ -4107,14 +4107,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d139b8ae3663b1243ac364e634c24a70
-      internalID: -533999007
+      spriteID: fff254e0cb8ca824dbbe246d2964efe0
+      internalID: -1563422946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_0
+      name: ForestNpcs_14_0
       rect:
         serializedVersion: 2
         x: 252
@@ -4129,14 +4129,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7227e1085783eb640afa695b9f646d4a
-      internalID: -1113984388
+      spriteID: b8f6f9a48b65a49469bbcc8b63d4f23a
+      internalID: 2116698700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_1
+      name: ForestNpcs_14_1
       rect:
         serializedVersion: 2
         x: 270
@@ -4151,14 +4151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10463f6a5c4340e4194ead3fd970f56a
-      internalID: 1960825320
+      spriteID: 2a93dd3d89711654a885550f389588bf
+      internalID: 190926712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_2
+      name: ForestNpcs_14_2
       rect:
         serializedVersion: 2
         x: 288
@@ -4173,14 +4173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 516fe7502ab2d764da77e165095a4373
-      internalID: 1476189088
+      spriteID: 47fc351f4c2a9114690cf7439bbb8af7
+      internalID: -701379500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_3
+      name: ForestNpcs_14_3
       rect:
         serializedVersion: 2
         x: 252
@@ -4195,14 +4195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 543132b4414eec74abd082417d308cf6
-      internalID: -1363667751
+      spriteID: 8deb84c354aa14c42b5e87d92c3272d8
+      internalID: -540591772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_4
+      name: ForestNpcs_14_4
       rect:
         serializedVersion: 2
         x: 270
@@ -4217,14 +4217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbb70909899d5754a88bb4bfaab8d175
-      internalID: 140329488
+      spriteID: d7b0e9101e296be439abce8541af999f
+      internalID: 1375635743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_5
+      name: ForestNpcs_14_5
       rect:
         serializedVersion: 2
         x: 288
@@ -4239,14 +4239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0afe065f5bcfa784d9aef826a5935b61
-      internalID: 409198134
+      spriteID: 56bf91915252e3b4381d446088982a16
+      internalID: 2143188356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_6
+      name: ForestNpcs_14_6
       rect:
         serializedVersion: 2
         x: 252
@@ -4261,14 +4261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8003e83322112074fb78161bcd62b78f
-      internalID: 1984099145
+      spriteID: ba73d57258005474f98423bbe38eea54
+      internalID: 793184188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_7
+      name: ForestNpcs_14_7
       rect:
         serializedVersion: 2
         x: 270
@@ -4283,14 +4283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9f183f660a1624f80dcc7adea3878b
-      internalID: 387795905
+      spriteID: d895c1d3b41327b4cb724ec1c5aa6e3c
+      internalID: -1680879520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_8
+      name: ForestNpcs_14_8
       rect:
         serializedVersion: 2
         x: 288
@@ -4305,14 +4305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15df280f6591289409dd9ecbfe51d1ce
-      internalID: -1936392320
+      spriteID: 6ba50a7a877f7a543a9a0514fc1fc212
+      internalID: 1792431806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_9
+      name: ForestNpcs_14_9
       rect:
         serializedVersion: 2
         x: 252
@@ -4327,14 +4327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 152b3d1705313b74ba625efccc9c30d2
-      internalID: -27075859
+      spriteID: 92303a306a7f2514685fa77a2da0f77a
+      internalID: 605234839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_10
+      name: ForestNpcs_14_10
       rect:
         serializedVersion: 2
         x: 270
@@ -4349,14 +4349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e58f01e8922fb4444a9465454cc28638
-      internalID: 1464942803
+      spriteID: 836d5727021856c449e0c680cb0cfae2
+      internalID: 524477749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_11
+      name: ForestNpcs_14_11
       rect:
         serializedVersion: 2
         x: 288
@@ -4371,14 +4371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95d706fd413fa0640af007a3c534ecf4
-      internalID: -1359678116
+      spriteID: 9f6dae39e1e9a8c49bb65c13b2ec5adb
+      internalID: -390307832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_14_12
+      name: ForestNpcs_14_12
       rect:
         serializedVersion: 2
         x: 314
@@ -4393,14 +4393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7e05426feac1f74fa4303e0b2dc52f4
-      internalID: 33360545
+      spriteID: d6fa47db1c50f1645b25a4f8c6df87f7
+      internalID: 2092623317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_0
+      name: ForestNpcs_15_0
       rect:
         serializedVersion: 2
         x: 378
@@ -4415,14 +4415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2550d8fb95220a4cb5df87236a3389b
-      internalID: 1574874808
+      spriteID: 26ef61965cb02984880b3a60ddd6ea80
+      internalID: -966410030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_1
+      name: ForestNpcs_15_1
       rect:
         serializedVersion: 2
         x: 396
@@ -4437,14 +4437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9302ef07c00fa6b4db41981caef4b241
-      internalID: -513413614
+      spriteID: e44f0000aa8ba644998d07858308536a
+      internalID: -459012010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_2
+      name: ForestNpcs_15_2
       rect:
         serializedVersion: 2
         x: 414
@@ -4459,14 +4459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adf22dbc6707fbd45bd0c1a5da5dd792
-      internalID: -924768426
+      spriteID: af605eaa4f8f2094789d2ed3a22bbefa
+      internalID: -755121867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_3
+      name: ForestNpcs_15_3
       rect:
         serializedVersion: 2
         x: 378
@@ -4481,14 +4481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3638882a31a5dd549b232cb81ba440b0
-      internalID: 1063270934
+      spriteID: 78789f4713a4adf43bb5e829a29a6c2d
+      internalID: -1985291713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_4
+      name: ForestNpcs_15_4
       rect:
         serializedVersion: 2
         x: 396
@@ -4503,14 +4503,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76f35cdb3361fca4590c3c42db44980d
-      internalID: -43254404
+      spriteID: c789cd8f31a69194c813aae2b4c96b1a
+      internalID: -1642483372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_5
+      name: ForestNpcs_15_5
       rect:
         serializedVersion: 2
         x: 414
@@ -4525,14 +4525,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbde55d96719b52408942129b6ba6044
-      internalID: -469879282
+      spriteID: a15e3ddd11f392c46b9cd8a9952184ed
+      internalID: -913327684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_6
+      name: ForestNpcs_15_6
       rect:
         serializedVersion: 2
         x: 378
@@ -4547,14 +4547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0fdc691520665647b588a1ed6dcd628
-      internalID: -1606269401
+      spriteID: 2b0ea428e6d67064bac1b03363a6932c
+      internalID: -334493289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_7
+      name: ForestNpcs_15_7
       rect:
         serializedVersion: 2
         x: 396
@@ -4569,14 +4569,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72d7a72f1bb58df42b34a7453491e5a1
-      internalID: -1606332675
+      spriteID: 0718d39d355dda8409751cde9d1dfbd3
+      internalID: -1104719527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_8
+      name: ForestNpcs_15_8
       rect:
         serializedVersion: 2
         x: 414
@@ -4591,14 +4591,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79fed66be24ea0f42afe861fb8f09429
-      internalID: -109756216
+      spriteID: 9a437c4f7e5796f4e944c542c913caaf
+      internalID: 2131928846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_9
+      name: ForestNpcs_15_9
       rect:
         serializedVersion: 2
         x: 378
@@ -4613,14 +4613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc751ced5f4f60a4cac9da16335d80e3
-      internalID: -197129729
+      spriteID: 9df108915d93caf40bec891c804f599d
+      internalID: -1371975370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_10
+      name: ForestNpcs_15_10
       rect:
         serializedVersion: 2
         x: 396
@@ -4635,14 +4635,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 074d5f7df5cb3b74c98b499c2223671d
-      internalID: -1151631933
+      spriteID: fec60f635f631c44f84066f669275952
+      internalID: -1763570324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_11
+      name: ForestNpcs_15_11
       rect:
         serializedVersion: 2
         x: 414
@@ -4657,14 +4657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a116aeb36482f94498e1f374aa2210e
-      internalID: -314381859
+      spriteID: f6cc8f0fea2b15b4fad16a413a5f470f
+      internalID: -998941685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Townspeople_15_12
+      name: ForestNpcs_15_12
       rect:
         serializedVersion: 2
         x: 440
@@ -4679,8 +4679,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd371833808d5304fbebc4a42cbacf37
-      internalID: 1898076655
+      spriteID: 37fb439aba2c91144bf66587bf17c185
+      internalID: -2084599562
       vertices: []
       indices: 
       edges: []
@@ -4971,6 +4971,214 @@ TextureImporter:
       Example_NPC_9_7: -5238176241037802850
       Example_NPC_9_8: -1529074501513657967
       Example_NPC_9_9: 2147972425549718670
+      ForestNpcs_0_0: -2051312415
+      ForestNpcs_0_1: -904083473
+      ForestNpcs_0_10: -700571782
+      ForestNpcs_0_11: 1095120823
+      ForestNpcs_0_12: -1546949435
+      ForestNpcs_0_2: 979439496
+      ForestNpcs_0_3: -78390208
+      ForestNpcs_0_4: 1764168932
+      ForestNpcs_0_5: -87858727
+      ForestNpcs_0_6: 197052720
+      ForestNpcs_0_7: 1767488334
+      ForestNpcs_0_8: 1873447321
+      ForestNpcs_0_9: -347831239
+      ForestNpcs_10_0: 1469877125
+      ForestNpcs_10_1: -1084032192
+      ForestNpcs_10_10: 2028162847
+      ForestNpcs_10_11: -1365607105
+      ForestNpcs_10_12: 2054162314
+      ForestNpcs_10_2: -308830352
+      ForestNpcs_10_3: 703048264
+      ForestNpcs_10_4: 1001673875
+      ForestNpcs_10_5: -629744621
+      ForestNpcs_10_6: 1144973357
+      ForestNpcs_10_7: -586524566
+      ForestNpcs_10_8: -1289549612
+      ForestNpcs_10_9: 982122793
+      ForestNpcs_11_0: 1033226348
+      ForestNpcs_11_1: 1877466009
+      ForestNpcs_11_10: -2018975106
+      ForestNpcs_11_11: 394608542
+      ForestNpcs_11_12: 3810629
+      ForestNpcs_11_2: -1634305761
+      ForestNpcs_11_3: -1131085649
+      ForestNpcs_11_4: 1454081577
+      ForestNpcs_11_5: -423687100
+      ForestNpcs_11_6: -1698337141
+      ForestNpcs_11_7: -1032980324
+      ForestNpcs_11_8: -158751412
+      ForestNpcs_11_9: 658875743
+      ForestNpcs_12_0: 737972706
+      ForestNpcs_12_1: -1711139772
+      ForestNpcs_12_10: 2075492040
+      ForestNpcs_12_11: -23590147
+      ForestNpcs_12_12: 70810471
+      ForestNpcs_12_2: 1272347308
+      ForestNpcs_12_3: -1846305767
+      ForestNpcs_12_4: -903804333
+      ForestNpcs_12_5: 1934817281
+      ForestNpcs_12_6: -737596083
+      ForestNpcs_12_7: 1384772077
+      ForestNpcs_12_8: -4096734
+      ForestNpcs_12_9: -1708376598
+      ForestNpcs_13_0: 240683649
+      ForestNpcs_13_1: 1128560321
+      ForestNpcs_13_10: 1334114420
+      ForestNpcs_13_11: -1228274351
+      ForestNpcs_13_12: -1563422946
+      ForestNpcs_13_2: -949960196
+      ForestNpcs_13_3: 1805973279
+      ForestNpcs_13_4: 1778874609
+      ForestNpcs_13_5: -1218008900
+      ForestNpcs_13_6: 1148363246
+      ForestNpcs_13_7: 2059024376
+      ForestNpcs_13_8: 1733382276
+      ForestNpcs_13_9: -1925827887
+      ForestNpcs_14_0: 2116698700
+      ForestNpcs_14_1: 190926712
+      ForestNpcs_14_10: 524477749
+      ForestNpcs_14_11: -390307832
+      ForestNpcs_14_12: 2092623317
+      ForestNpcs_14_2: -701379500
+      ForestNpcs_14_3: -540591772
+      ForestNpcs_14_4: 1375635743
+      ForestNpcs_14_5: 2143188356
+      ForestNpcs_14_6: 793184188
+      ForestNpcs_14_7: -1680879520
+      ForestNpcs_14_8: 1792431806
+      ForestNpcs_14_9: 605234839
+      ForestNpcs_15_0: -966410030
+      ForestNpcs_15_1: -459012010
+      ForestNpcs_15_10: -1763570324
+      ForestNpcs_15_11: -998941685
+      ForestNpcs_15_12: -2084599562
+      ForestNpcs_15_2: -755121867
+      ForestNpcs_15_3: -1985291713
+      ForestNpcs_15_4: -1642483372
+      ForestNpcs_15_5: -913327684
+      ForestNpcs_15_6: -334493289
+      ForestNpcs_15_7: -1104719527
+      ForestNpcs_15_8: 2131928846
+      ForestNpcs_15_9: -1371975370
+      ForestNpcs_1_0: -839625191
+      ForestNpcs_1_1: -600477550
+      ForestNpcs_1_10: 431929533
+      ForestNpcs_1_11: 187651809
+      ForestNpcs_1_12: -1373692306
+      ForestNpcs_1_2: -1133082640
+      ForestNpcs_1_3: -1249047572
+      ForestNpcs_1_4: -7755925
+      ForestNpcs_1_5: 254867801
+      ForestNpcs_1_6: 768339507
+      ForestNpcs_1_7: -39590335
+      ForestNpcs_1_8: 845813636
+      ForestNpcs_1_9: 777129353
+      ForestNpcs_2_0: -235209148
+      ForestNpcs_2_1: -1334041491
+      ForestNpcs_2_10: 443971348
+      ForestNpcs_2_11: 1912697543
+      ForestNpcs_2_12: -2067581014
+      ForestNpcs_2_2: -1758002933
+      ForestNpcs_2_3: -62675905
+      ForestNpcs_2_4: 1150524309
+      ForestNpcs_2_5: 1382332521
+      ForestNpcs_2_6: -1789827198
+      ForestNpcs_2_7: -504921090
+      ForestNpcs_2_8: -1382952805
+      ForestNpcs_2_9: -1701142121
+      ForestNpcs_3_0: -1667745947
+      ForestNpcs_3_1: 469046238
+      ForestNpcs_3_10: -535238815
+      ForestNpcs_3_11: -1346795707
+      ForestNpcs_3_12: 1812733559
+      ForestNpcs_3_2: -1707573577
+      ForestNpcs_3_3: -1356517406
+      ForestNpcs_3_4: -1034017128
+      ForestNpcs_3_5: -2047656549
+      ForestNpcs_3_6: 1864337361
+      ForestNpcs_3_7: -560833403
+      ForestNpcs_3_8: 61412882
+      ForestNpcs_3_9: 745676027
+      ForestNpcs_4_0: -353639218
+      ForestNpcs_4_1: -653853974
+      ForestNpcs_4_10: -1895517811
+      ForestNpcs_4_11: 1560368975
+      ForestNpcs_4_12: -297780634
+      ForestNpcs_4_2: -1576881592
+      ForestNpcs_4_3: 1287850051
+      ForestNpcs_4_4: -1388603527
+      ForestNpcs_4_5: 2133649558
+      ForestNpcs_4_6: -303592891
+      ForestNpcs_4_7: -1485632882
+      ForestNpcs_4_8: -54622578
+      ForestNpcs_4_9: -1905112188
+      ForestNpcs_5_0: -1356078337
+      ForestNpcs_5_1: -1981704100
+      ForestNpcs_5_10: -1967185270
+      ForestNpcs_5_11: 509772659
+      ForestNpcs_5_12: 1882258424
+      ForestNpcs_5_2: 1875294714
+      ForestNpcs_5_3: 1823827410
+      ForestNpcs_5_4: -1946273002
+      ForestNpcs_5_5: -1639707074
+      ForestNpcs_5_6: -572389646
+      ForestNpcs_5_7: -2054394097
+      ForestNpcs_5_8: -1861636774
+      ForestNpcs_5_9: -105282204
+      ForestNpcs_6_0: 417493901
+      ForestNpcs_6_1: 513812742
+      ForestNpcs_6_10: 553120065
+      ForestNpcs_6_11: 1236832729
+      ForestNpcs_6_12: -563557588
+      ForestNpcs_6_2: -1647631972
+      ForestNpcs_6_3: -1187792067
+      ForestNpcs_6_4: 840461432
+      ForestNpcs_6_5: -360742037
+      ForestNpcs_6_6: 1841829967
+      ForestNpcs_6_7: -1409656150
+      ForestNpcs_6_8: -1147326570
+      ForestNpcs_6_9: -2096594017
+      ForestNpcs_7_0: -1594326771
+      ForestNpcs_7_1: -1615991009
+      ForestNpcs_7_10: 1191587006
+      ForestNpcs_7_11: 1739739883
+      ForestNpcs_7_12: 1103014555
+      ForestNpcs_7_2: 814463868
+      ForestNpcs_7_3: 1872464084
+      ForestNpcs_7_4: -57691382
+      ForestNpcs_7_5: -1018667960
+      ForestNpcs_7_6: 818647704
+      ForestNpcs_7_7: -630990117
+      ForestNpcs_7_8: 501581188
+      ForestNpcs_7_9: 27204725
+      ForestNpcs_8_0: -1305659052
+      ForestNpcs_8_1: -1747100001
+      ForestNpcs_8_10: 1502775886
+      ForestNpcs_8_11: 1362968538
+      ForestNpcs_8_12: -614794196
+      ForestNpcs_8_2: -1870617048
+      ForestNpcs_8_3: 207119062
+      ForestNpcs_8_4: 705180039
+      ForestNpcs_8_5: 1072668732
+      ForestNpcs_8_6: -1211123193
+      ForestNpcs_8_7: -1081087122
+      ForestNpcs_8_8: 1033236814
+      ForestNpcs_8_9: -644016800
+      ForestNpcs_9_0: 916151259
+      ForestNpcs_9_1: 570290775
+      ForestNpcs_9_10: 767659285
+      ForestNpcs_9_11: -689453395
+      ForestNpcs_9_12: 2131239202
+      ForestNpcs_9_2: 388831512
+      ForestNpcs_9_3: 1794236901
+      ForestNpcs_9_4: -656497119
+      ForestNpcs_9_5: -825822014
+      ForestNpcs_9_6: 164826619
+      ForestNpcs_9_7: 792982755
+      ForestNpcs_9_8: 197448521
+      ForestNpcs_9_9: 396176064
       Townspeople_0_0: -1632794512
       Townspeople_0_1: -1546337114
       Townspeople_0_10: 1307870676
