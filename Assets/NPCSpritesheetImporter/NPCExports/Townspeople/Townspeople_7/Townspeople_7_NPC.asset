@@ -16,6 +16,6 @@ MonoBehaviour:
   npc_name: Townspeople_7
   trainerSprite: {fileID: -344141305, guid: c357230de1fdcb44c9914733d475cfbd, type: 3}
   overworldTrainerSprite: {fileID: 1359840045, guid: c357230de1fdcb44c9914733d475cfbd, type: 3}
-  animator: {fileID: 22100000, guid: f83d36af5bc7f8849bcde8f3cd90701f, type: 2}
+  animator: {fileID: 22100000, guid: a0af78726054f7a409f71b6ad2ed099d, type: 2}
   usesDialogueColor: 1
   dialogueFrameColor: {r: 0.9647059, g: 0.88235295, b: 0.43529412, a: 1}
