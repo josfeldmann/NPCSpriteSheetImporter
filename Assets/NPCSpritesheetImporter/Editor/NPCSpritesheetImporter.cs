@@ -33,6 +33,28 @@ public static class MyExtensions {
 
 
 
+[System.Serializable]
+
+public class NPCImportSpriteSheetMetaData {
+
+    public string gifTitle;
+    public Color gifColor;
+    public int gifWordScaleFactor;
+
+    public List<NPCImportMetaData> npcs = new List<NPCImportMetaData>();
+
+
+
+}
+
+public class  NPCImportMetaData {
+    public string key;
+    public string displayName;
+    public Color color;
+}
+
+
+
 public class NPCSpritesheetImporter : EditorWindow {
 
 
