@@ -4,15 +4,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Runtime.CompilerServices;
-using Codice.CM.Client.Differences;
-using JetBrains.Annotations;
+using TMPro.EditorUtilities;
 using Unity.SharpZipLib.Zip;
-using Unity.VisualScripting;
 using UnityEditor;
 using UnityEditor.Animations;
-using UnityEditor.U2D.Aseprite;
 using UnityEditor.U2D.Sprites;
 using UnityEngine;
 
@@ -29,6 +24,30 @@ public static class MyExtensions {
         return sprite.texture.GetPixel((int)sprite.rect.position.x + x, (int)sprite.rect.position.y + y);
     }
 
+}
+
+
+
+[System.Serializable]
+
+public class NPCImportSpriteSheetMetaData {
+
+    public string gifTitle;
+    public Color gifColor;
+    public int gifWordScaleFactor;
+    public int gifOffset;
+
+    public List<NPCImportMetaData> npcs = new List<NPCImportMetaData>();
+
+
+
+}
+
+[System.Serializable]
+public class  NPCImportMetaData {
+    public string key;
+    public string displayName;
+    public Color color;
 }
 
 
@@ -83,11 +102,15 @@ public class NPCSpritesheetImporter : EditorWindow {
 
     [MenuItem("Tools/NPCImporter")]
     public static void ShowWindow() {
-        EditorWindow.GetWindow<NPCSpritesheetImporter>(false, "Chars Importer");
+        EditorWindow.GetWindow<NPCSpritesheetImporter>(false, "NPC Spritesheet Importer");
         LoadBaseAnimator();
        
          
     }
+
+    
+
+    
 
     void OnGUI() {
         selectedTexture = (Texture2D)EditorGUILayout.ObjectField(
@@ -98,9 +121,13 @@ public class NPCSpritesheetImporter : EditorWindow {
         GUILayout.ExpandWidth(true)
     );
 
+
+
         if (selectedTexture == null) {
             sprites = null;
         }
+
+
 
 
         GUILayout.Label("Make Animations");
@@ -451,8 +478,10 @@ public class NPCSpritesheetImporter : EditorWindow {
             }
 
 
-            CreateGif("C:\\Program Files (x86)\\Steam\\steamapps\\common\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
+            CreateGif("C:\\Program Files\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
 
+
+            SaveTextureData();
             //Command Line here
 
             //File.WriteAllBytes(editorPath, tex.EncodeToPNG());
@@ -523,9 +552,66 @@ public class NPCSpritesheetImporter : EditorWindow {
                 }
 
 
+
+                //Load previous info if possible
+                string path = GetSettingDataForTexture();
+
+                if (File.Exists(path)) {
+
+                    NPCImportSpriteSheetMetaData data = JsonUtility.FromJson<NPCImportSpriteSheetMetaData>(File.ReadAllText(path));
+
+                    gifExport = data.gifTitle;
+                    gifWordScaleFactor = data.gifWordScaleFactor;
+                    gifOffset = data.gifOffset;
+                    gifTitleColor = data.gifColor;
+
+
+                    for (int i = 0; i < sprites.Length; i++) {
+                        NPCFrameDataHolder d = sprites[i];
+
+                        d.LoadData(data.npcs[i]);
+                    }
+
+
+                }
             }
         }
         EditorGUI.EndDisabledGroup();
+    }
+
+    public void SaveTextureData() {
+
+        NPCImportSpriteSheetMetaData data = new NPCImportSpriteSheetMetaData();
+
+        data.gifTitle = gifExport;
+        data.gifWordScaleFactor = gifWordScaleFactor;
+        data.gifColor = gifTitleColor;
+        data.gifOffset = gifOffset;
+
+        for  (int i = 0; i < sprites.Length; i++) {
+            NPCFrameDataHolder d = sprites[i];
+
+            data.npcs.Add(d.MakeMetadata());
+        }
+
+        string path = GetSettingDataForTexture();
+
+        File.WriteAllText(path, JsonUtility.ToJson(data));
+
+
+    }
+
+
+
+    public string GetSettingDataForTexture() {
+
+        string path = AssetDatabase.GetAssetPath(selectedTexture);
+
+        string fullPath = Path.GetFullPath(path);
+
+        string folderPath = Path.GetDirectoryName(fullPath);
+
+        return folderPath + "/" + selectedTexture.name + ".json";
     }
 
     //
@@ -1007,6 +1093,26 @@ public static class SpriteSheetImporterUtilityFunctions {
 //Data class that represents each NPC. Stores the references to the original sprite images that are used to make the final animations.
 [System.Serializable]
 public class NPCFrameDataHolder {
+
+
+    public void LoadData(NPCImportMetaData d) {
+
+        key = d.key;
+        color = d.color;
+
+    }
+
+    public NPCImportMetaData MakeMetadata() {
+
+        NPCImportMetaData data = new NPCImportMetaData();
+
+        data.key = key;
+        data.displayName = key;
+        data.color = color;
+
+
+        return data;
+    }
 
     public string key;
     public Color color;
