@@ -16,6 +16,6 @@ MonoBehaviour:
   npc_name: WaterNPCs_1
   trainerSprite: {fileID: -779496726, guid: f584c6a17f912db4b847195fe1ef3083, type: 3}
   overworldTrainerSprite: {fileID: -355232485, guid: f584c6a17f912db4b847195fe1ef3083, type: 3}
-  animator: {fileID: 22100000, guid: 791580021ad66824a856e61f02f9f10e, type: 2}
+  animator: {fileID: 22100000, guid: 9169a2f3e21c84948a40bdfa5bd7d2a1, type: 2}
   usesDialogueColor: 1
   dialogueFrameColor: {r: 0.25490198, g: 0.4509804, b: 0.7019608, a: 1}

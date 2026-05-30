@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 4322
+  controlID: 3831
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -47,8 +47,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 424
-    y: 24
+    x: 423
+    y: 79
     width: 1881
     height: 843
   m_SerializedDataModeController:
@@ -94,10 +94,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 4352
+  controlID: 3832
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 4312
+  controlID: 3728
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -305,10 +305,10 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 8}
   - {fileID: 9}
-  - {fileID: 10}
   - {fileID: 2}
-  m_Selected: 3
-  m_LastSelected: 2
+  - {fileID: 10}
+  m_Selected: 2
+  m_LastSelected: 3
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -332,8 +332,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 423
     y: 79
-    width: 950
-    height: 841
+    width: 1881
+    height: 843
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -385,14 +385,14 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 0.89244986
+    - e00: 1.0263174
       e01: 0
       e02: 0
-      e03: 356.43243
+      e03: 300.6973
       e10: 0
-      e11: 0.89244986
+      e11: 1.0263174
       e12: 0
-      e13: 377.08423
+      e13: 388.94687
       e20: 0
       e21: 0
       e22: 1
@@ -420,64 +420,6 @@ MonoBehaviour:
   m_LayerEditor:
     m_SelectedLayerIndex: 0
 --- !u!114 &9
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f3333ea9f2f418469199ec3b1713463, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp-Editor::NPCSpritesheetImporter
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Chars Importer
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Chars Importer\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 423
-    y: 79
-    width: 1881
-    height: 843
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_DynamicPanelContainerData: []
-    m_OverlaysVisible: 1
-    m_DynamicPanelBehavior: 0
-  gifExport: FOREST NPCS
-  gifWordScaleFactor: 8
-  gifOffset: 270
-  gifTitleColor: {r: 0.2784314, g: 0.48235297, b: 0.227451, a: 1}
-  GifContent:
-    m_Text: Gif Title
-    m_Image: {fileID: 0}
-    m_Tooltip: TitleShownInGif
-    m_TextWithWhitespace: "Gif Title\u200B"
-  MakeSpriteDataButtonContent:
-    m_Text: 1. Make Sprite Data From Sheet
-    m_Image: {fileID: 0}
-    m_Tooltip: Looks at sprite sheet and determines what NPCs are placed on it. DOES
-      NOT create sprite or animation assets.
-    m_TextWithWhitespace: "1. Make Sprite Data From Sheet\u200B"
-  background: {fileID: 0}
-  alphabet: {fileID: 11400000, guid: 2d1421f493926144696eaa060b4b97b4, type: 2}
-  word1: {fileID: 0}
-  word2: {fileID: 0}
-  gifWord: {fileID: 0}
---- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1212,9 +1154,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.89322513, y: 0.20951661, z: -10.017115}
+    m_Target: {x: 5.9405174, y: -2.077156, z: -10.043322}
     speed: 2
-    m_Value: {x: -0.89322513, y: 0.20951661, z: -10.017115}
+    m_Value: {x: 5.9405174, y: -2.077156, z: -10.043322}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1265,9 +1207,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.835903
+    m_Target: 16.456638
     speed: 2
-    m_Value: 13.835903
+    m_Value: 16.456638
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1288,7 +1230,7 @@ MonoBehaviour:
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
-    m_SceneView: {fileID: 10}
+    m_SceneView: {fileID: 9}
     m_CameraOverscanSettings:
       m_Opacity: 50
       m_Scale: 1
@@ -1301,6 +1243,64 @@ MonoBehaviour:
     name: Contributors / Receivers
     section: Lighting
   m_ViewIsLockedToObject: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f3333ea9f2f418469199ec3b1713463, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::NPCSpritesheetImporter
+  m_MinSize: {x: 50, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Chars Importer
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+    m_TextWithWhitespace: "Chars Importer\u200B"
+  m_Pos:
+    serializedVersion: 2
+    x: 423
+    y: 79
+    width: 1881
+    height: 843
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_ContainerData: []
+    m_DynamicPanelContainerData: []
+    m_OverlaysVisible: 1
+    m_DynamicPanelBehavior: 0
+  gifExport: Water NPCs
+  gifWordScaleFactor: 7
+  gifOffset: 270
+  gifTitleColor: {r: 0.26666668, g: 0.47058827, b: 0.7568628, a: 1}
+  GifContent:
+    m_Text: Gif Title
+    m_Image: {fileID: 0}
+    m_Tooltip: TitleShownInGif
+    m_TextWithWhitespace: "Gif Title\u200B"
+  MakeSpriteDataButtonContent:
+    m_Text: 1. Make Sprite Data From Sheet
+    m_Image: {fileID: 0}
+    m_Tooltip: Looks at sprite sheet and determines what NPCs are placed on it. DOES
+      NOT create sprite or animation assets.
+    m_TextWithWhitespace: "1. Make Sprite Data From Sheet\u200B"
+  background: {fileID: 0}
+  alphabet: {fileID: 11400000, guid: 2d1421f493926144696eaa060b4b97b4, type: 2}
+  word1: {fileID: 0}
+  word2: {fileID: 0}
+  gifWord: {fileID: 0}
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1320,8 +1320,8 @@ MonoBehaviour:
     y: 869
     width: 2306
     height: 424
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -1368,8 +1368,9 @@ MonoBehaviour:
     m_OverlaysVisible: 1
     m_DynamicPanelBehavior: 0
   m_SearchFilter:
-    m_NameFilter: forest
-    m_ClassNames: []
+    m_NameFilter: 
+    m_ClassNames:
+    - npctrainervisual
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_ReferencingEntityIds: []
@@ -1378,34 +1379,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NPCSpritesheetImporter/NPCExports/ForestNpcs/ForestNpcs_0
+    - Assets/NPCSpritesheetImporter/NPCExports/WaterNPCs/gifexport
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
-    m_OriginalText: forest
+    m_OriginalText: t:npctrainervisual
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/NPCSpritesheetImporter/NPCExports/ForestNpcs/ForestNpcs_0
+  - Assets/NPCSpritesheetImporter/NPCExports/WaterNPCs/gifexport
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\NPCSpriteSheetImporter
   m_LockTracker:
     m_IsLocked: 1
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 10}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 52560
+    - m_Data: 53404
     m_LastClickedID:
-      m_Data: 52560
+      m_Data: 53404
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 52366
-    - m_Data: 52488
-    - m_Data: 52562
-    - m_Data: 52564
+    - m_Data: 53004
+    - m_Data: 53314
+    - m_Data: 53386
+    - m_Data: 53388
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1441,7 +1442,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 52366
+    - m_Data: 53004
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1472,10 +1473,25 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 51608
+    - m_Data: -24118
+    - m_Data: -24258
+    - m_Data: -24398
+    - m_Data: -24538
+    - m_Data: -24678
+    - m_Data: -24818
+    - m_Data: -24958
+    - m_Data: -25098
+    - m_Data: -25238
+    - m_Data: -25378
+    - m_Data: -25518
+    - m_Data: -25658
+    - m_Data: -25798
+    - m_Data: -25938
+    - m_Data: -26078
+    - m_Data: -26218
     m_LastClickedEntityId:
-      m_Data: 51608
-    m_HadKeyboardFocusLastEvent: 0
+      m_Data: -26218
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 76062
     - m_Data: 61852
@@ -1497,6 +1513,7 @@ MonoBehaviour:
     - m_Data: 86960
     - m_Data: 55632
     - m_Data: 74964
+    - m_Data: 55476
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1626,8 +1643,8 @@ MonoBehaviour:
     y: 0
     width: 1134
     height: 1293
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -1671,17 +1688,20 @@ MonoBehaviour:
     m_DynamicPanelContainerData: []
     m_OverlaysVisible: 1
     m_DynamicPanelBehavior: 0
-  m_ObjectsLockedBeforeSerialization: []
-  m_EntityIdsLockedBeforeSerialization: []
+  m_ObjectsLockedBeforeSerialization:
+  - {fileID: 0}
+  - {fileID: 0}
+  m_EntityIdsLockedBeforeSerialization:
+  - m_Data: -1356
   m_PreviewResizer:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectEntityId:
-    m_Data: 51608
+    m_Data: 0
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
-    m_IsLocked: 0
+    m_IsLocked: 1
   m_PreviewWindow: {fileID: 0}

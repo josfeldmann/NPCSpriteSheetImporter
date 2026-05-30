@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterNPCs_11_NPC_Animator 1
+  m_Controller: {fileID: 9100000, guid: 29000de6965488148b44eec2ffa31e2f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f892d36f0b5cca64ba2c0e2e585f69b2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3d535418c5f3133498c2cd5f8828fd42, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb3e3e17e28586042a345e8a8e6981c4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ae0c58993f30dd4ca2aaf3e2636f728, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 88470ee3bf567d145872af02a4ae6364, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 150d34679caefeb44ab577ae24cc6d86, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9f3cc6c9f3165ab4b9e96ec5fbf222b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e82fd8d8daa65c5468a95346a65e8563, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 027ec25f93583a742b0a1d5a3baac78f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f727ff81852e3734189f22321bd8fcb3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d7cc8c058ebe733499b7f3e6220073f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f9140cdd742038f459e68fa5a8f5edc7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b17084293e311aa4ea61e3a0e3f8e6aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83c49c0fdfe2e664da1a4f7a5f41211c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3abd703d3272a1644a643e2bf90da45c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62203501c1e50eb4eb98441b1d4a7a0a, type: 2}
