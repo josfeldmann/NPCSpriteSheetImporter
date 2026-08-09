@@ -477,8 +477,8 @@ public class NPCSpritesheetImporter : EditorWindow {
                 ii++;
             }
 
-
-            CreateGif("C:\\Program Files\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
+            CreateGif("C:\\Program Files (x86)\\Steam\\steamapps\\common\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
+            //CreateGif("C:\\Program Files\\Aseprite\\Aseprite.exe", paths.ToArray(), editorPath);
 
 
             SaveTextureData();

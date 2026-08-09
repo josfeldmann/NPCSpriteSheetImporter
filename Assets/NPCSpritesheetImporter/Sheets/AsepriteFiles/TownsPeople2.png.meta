@@ -1,0 +1,5394 @@
+fileFormatVersion: 2
+guid: 6796433d549da0042a1385be1c37d5e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TownsPeople2_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a207aee1ce576348ad43c60532ffdb2
+      internalID: 1929382419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bddd59baa8e0b8468997267c9072ee3
+      internalID: -1385034808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89d0d4bc323fb4792692e0ed336cbb
+      internalID: -1538157585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4ed433711cef498db1c956c1858f1
+      internalID: 1515830457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a31025adee33743a1f9fb5fff94e3d
+      internalID: -1700618164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94739a9e213c43d40a367c4211d1cf13
+      internalID: -1174945959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e077a20fc16db64d9eae061b316e517
+      internalID: -176035202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc09690d245560439d6af3509a50f24
+      internalID: -1763726037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940b44738d2ebd4489791fdb7b2c811
+      internalID: 2028728071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2a20b30ee1f948be9d29a3e5ff7b5
+      internalID: 1853828491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b1272d3bf033478266eb592201960
+      internalID: 1783577511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5931bea28409e498c50a70fae6ef06
+      internalID: 869669928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_0_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654165fff438d840ac5fc1da47160da
+      internalID: 1705830058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2eec4d9380dd04193658900c2f20a0
+      internalID: -2118918512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9456e399a52b40a3e6d7683ea2da2
+      internalID: -1878489576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3371b937428c9574dad75e9ad37f75be
+      internalID: 731273973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1ed101201cce54ab393c3f7ba31363
+      internalID: -961228523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419ce789205e744e9af51eaefd6742a
+      internalID: -1417797686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e026b339170746beca2ac6bc9e37a
+      internalID: -783333315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfec15bf0d911a144bbe23582875bba9
+      internalID: -1387563568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d5bc68a98fb147aba05b1e5e8dcd7
+      internalID: 1819870779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751c5e3cc9490f4e893bda5c02ef4ee
+      internalID: 145453122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357c2327ef9c564789b7ee6bba0e71d
+      internalID: 1463230760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4638ec9ef63f4ba7ea41c05b48456
+      internalID: 1162828868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df831e6b5a47640827ed24e35aeef9
+      internalID: -1981004186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_1_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a65b920f8eb74b87fed2d916a4866
+      internalID: -30719887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c52cf396b4bdf4999e95ea627eaeb9
+      internalID: -791104248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22406d8573f66f4d8665a32074d2a14
+      internalID: -578948195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c4eb6d5d2065419214800a091b537
+      internalID: 1425014904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa90e364808f8439d57d8e4fa74356
+      internalID: 1285273321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1232d26ba4aa4db038ada08d3a2ed
+      internalID: 1706758745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36679d3d44a13294fb36793638077eef
+      internalID: 2146838822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc38555923106c4883c82a7535c67c5
+      internalID: 598236218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b3585fbc8cd549b8e4f527b054c4a
+      internalID: -1079224835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc400d4c45a3df14fb05005561f76936
+      internalID: 1564151675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b003b32e1242c2244b66c98872f4401e
+      internalID: 763413738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017637cf440501945b344a8026df9804
+      internalID: -387224097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f7048ddecff840a0c6fbe56be8ead
+      internalID: -1603150560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_2_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed3cf92b184684ebebc605d493479b
+      internalID: -1723873377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5732143d1ae547a5bc65d939502ce
+      internalID: -664611082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bdfa04d7d9e2428e22b61f0bf0111
+      internalID: 693539446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 390
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3cda68099b25488e81eb210169198
+      internalID: 193835438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0a5637e8d29ac4d8dce213232030e1
+      internalID: -1924426736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b3dac8aa0be349af9da9bd9ef405a
+      internalID: -585926055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 338
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b3bdb6774ec841a18824842bcd5b0
+      internalID: 342372690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f59e99c168e7148ae892ec6ce08d62
+      internalID: -72250279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cf8619992a75428c204b3ca538fb3
+      internalID: 1485321714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 364
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2d326422e4514797a3f1e79b27404
+      internalID: -648777981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7356c5b446e2f43b113c66f082645a
+      internalID: -982944339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fd05ec2643b04abe84d4c1aee698f
+      internalID: -2093447074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 312
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70661d568088c8c43bf8009266f56281
+      internalID: 853113668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_3_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 352
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf1225f6c0b384cb1350b72ec460c2
+      internalID: -569710436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9adc52bc10cc474e94187e212b499a8
+      internalID: -314872293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7243d19ed15e949b9ab744ab2ead70
+      internalID: -1163032968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3723b56fd3a09b4cab6f9233ea52b34
+      internalID: -613976328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2228cda5ccfa42b4b3b9ddc518a8e
+      internalID: 2045977382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5265eebf5d01d41869d00e333c50ec
+      internalID: 1038545531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896e4158e9d1bf43bf1c041c4a033bd
+      internalID: 394106441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d19b13ff519e3459ceab120b751dfe
+      internalID: -1423653576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcc7505a2ade84c8766ba6ecc11771
+      internalID: 293050462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a315da3e0f0ec498d897d38b69a7ea
+      internalID: 462837792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1896377167c21c49a4679f2592326aa
+      internalID: -1032459895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389aebb115b875449a090de6333d1ca
+      internalID: -1073021330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb274f8163a0ac741bbc95f38bd97daa
+      internalID: 342540578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_4_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761a43f6c56ed64eb8847bc80ebbc95
+      internalID: 1525286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7e72b220353940b7d53c817416947
+      internalID: 1382626890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a1030d74d0894499f8ef81f21b41a
+      internalID: -1748879493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e1280e1691134d9673eb54d8c644e
+      internalID: 1640329893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ee1aa4060c5c4890f9f930ee253c6
+      internalID: -1555315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b84793ee0beff4d94b8846ee1050dd
+      internalID: 1992956926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce361dd934e83e40acfaf4ada77f712
+      internalID: -1874370911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b3435388863e4296a5297e7ed91f2
+      internalID: -1940658291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d3d296a6b3e0b46b5548e4dde6ee78
+      internalID: 1047814125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d55fa0a1e698d438680c47849a066e
+      internalID: -1940436067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d481ea6eb4ea74593c3769e8e66c86
+      internalID: 703329355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d747168ed55b9bf41b7642d69721553c
+      internalID: -654060512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729131ba3f44e5b419c54a7294b88e37
+      internalID: -1103850636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_5_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916c118d762b554b9aa90b02e3bbe27
+      internalID: -1609210058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d8ce3c3f9f824fa0e6460be0cb1ab
+      internalID: -476872379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b648584655e75847bb59d1ca2a57806
+      internalID: 1984602121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d092886778dc544c89dd162781bf820
+      internalID: 223410360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb489f21817964ebc65672a55faf84
+      internalID: 2096683086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce062ed254288941a43eca6ee7a8c73
+      internalID: 958237693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2601f2f96babb64d9fab5691a2d2710
+      internalID: 434577470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319566e1f0ea8824dbbcfc43e702c676
+      internalID: -1252710182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee9298bfe831e4e88904d9a096c21a
+      internalID: -1118251737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79b75af9c15bb428375f937daa9eeb
+      internalID: 318851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35908a0604cd79f48bd6d00df851e840
+      internalID: -1427397486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0785d84b48d804f8df1a8a22f136fb
+      internalID: -1345086105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59451210f51a0344bafd9ddbf1b9a19
+      internalID: 24963752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_6_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee903e095ad4d4e84213f6f06098f8
+      internalID: 287860166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98962643a697872429219a3d1ca3e691
+      internalID: 1856084713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bf275ddfdd644591d305020494dcf
+      internalID: -509508177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 286
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31a29f3057d4342a1a4fe5f0bb9156
+      internalID: 789284967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b784ced7240dd949901b6e3d7fc6231
+      internalID: -1138817510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62159344033bd247b64ec5f7ef81880
+      internalID: -1408658585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 234
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb274347590fbf478d8b420b15d1574
+      internalID: -1281704651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624208bb4d72ea4798a4a0714743fac
+      internalID: 981959211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e4125bf1808241a0c5ee2e744f1c7
+      internalID: -1042809022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 260
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81431ee77925c164aaa81f5c97a49541
+      internalID: 1802833071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d7d58a870cc641a7798b044f2194a
+      internalID: -1249755804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9ff8e1daf7934a830117e74f004dc
+      internalID: 1848909373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 208
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f46f1c7dad4c944b5df2e4ded18cf1
+      internalID: -1845670791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_7_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708121040411937499fa3e7e14c66114
+      internalID: -13098170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984756accbd1374abff9ed25faefa9b
+      internalID: -646769003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd68f94719086544931af1f37286859
+      internalID: 1679604221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376fe258e0beae4587e4084dc2d273b
+      internalID: 427398361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d849d0e966f7f4396646f1486ce377
+      internalID: 1440153921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b633f2c19cb841b296692211950cb
+      internalID: 141559239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f254362e84eaaa429b5f02e05eca559
+      internalID: 539797468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ab2585bba99f4a9e815c1319a913a
+      internalID: 1345869792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509e3773eb7696459c72124521595f7
+      internalID: -1304399392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484cdf10126c01429eb13a74b6aa917
+      internalID: -715811712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6439d773f5a145984980ec52ec17b
+      internalID: -2010888093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67dec6e26c341b428916d1138318bcc
+      internalID: 67242363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febfa6970b4bb1140aa00ecc5d159a27
+      internalID: 592394862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_8_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd4189160403546bc83bb7eaf4b752
+      internalID: -1697881076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a92c636163264a82a91136c0a09d0
+      internalID: -224793655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d305bab58fc84686516d1d82558df
+      internalID: 1966051770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5673d177bbef5489537b1a2df153ed
+      internalID: -234472745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bb02b69528de4097c77aa1e59a70c
+      internalID: -787743064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2d107c643c0f4096c3976b9734403
+      internalID: 278000462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f120a231a51946b285b636404dcdb
+      internalID: 44785190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eafac40c5966a428c572a92dba2182
+      internalID: 592761315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e759d646641af4b9cdf131e5d51d25
+      internalID: -1089234077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a70d4c36ffec5e4f96495ced80504c4
+      internalID: 1107497712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f13be9b60255458249617397eb001
+      internalID: 1919417078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368db9061fa83a41b53a7258b2a68df
+      internalID: 1873271600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7913322e24725448f742bfc4a2039f
+      internalID: 131325510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_9_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d603fd28881b6f4a9434f34fd94af32
+      internalID: 1611002710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a14ec5e24f2d4f8a41154b45e2297
+      internalID: -1999465729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0766c086609c714a8a85ad3079d90c5
+      internalID: 909238304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84c7e50cccbea4998d01f54fc1d129
+      internalID: 1034648660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2622dd0f7247a40a96dad0b4af8a9b
+      internalID: -597689955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e57060452a4042b25c990fb9c4b0b
+      internalID: -1937721139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f035533733ddc4786de2c08315209d
+      internalID: 1560189453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f169d5399c2545a41863bd330dede
+      internalID: 1336901199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c850bd004c7da40808dc753f3793e1
+      internalID: 156501852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e70820f6538a145bc3f6dbcc0b8af3
+      internalID: 1234151801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0bedd909f3504aa149fe24a70a5e3
+      internalID: -465172626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee84252e2b80941906b8ef7027e38c
+      internalID: 824320712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2823967415a8064c9a3eed34bdee8df
+      internalID: -1505139284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_10_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874944d5049f2354aadb1c03b8acbdff
+      internalID: 2147173069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4fbd9a1b967184c9ae50456b28d18d
+      internalID: -1315293558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2d85323c1a4e4d86230b0acfe5c0c
+      internalID: 1570410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 182
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08f9865c85ad849882c1b4778e7117
+      internalID: 635460201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33cb95fa7f5a9543bfe54791480daac
+      internalID: 1363075455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24daeae4455ae3c449f77179f59f0391
+      internalID: 184084417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 130
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d1c510ac4dae47b99f9534993323a
+      internalID: 1910945235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13b928e1ba25145b4c1e886f46c25e
+      internalID: 64509454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01219d36715ef84d8b8bec432a6dd82
+      internalID: 1192135805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 156
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616bb6db56b1334abe5ed6aa182f10c
+      internalID: -2097097423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732d13a3e336d14cbcd663fb2dc2fe5
+      internalID: -365777264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8afbc15c2c484f99a6922ee44c4b4
+      internalID: -1632146558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 104
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0b64da124f3c4b98466d360b0d645
+      internalID: -1194630344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_11_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa7b506ed6b5e48aa36681a7e7baa5
+      internalID: 812900894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d50e50738747d340b3a00b6f50c9286
+      internalID: -554470824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a211225247834e95a1178257f0395
+      internalID: 1778935288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065606eccb806ad4fa2366c3d8b1e418
+      internalID: 1706014897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05ac01879333f438e507b4763c7dd0
+      internalID: -283569556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316b703cbc60d24f9e6270f9c586eff
+      internalID: -1140057952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c220fcae5986c344ad901460b47a8b0
+      internalID: -42897780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f0076f70836a45b4791879f3bf2ed
+      internalID: -773223415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c7cf3ef8077940b26122ced10de70
+      internalID: -2036947906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5a8566b3da4b4aa463f6acd7ef1cb
+      internalID: 1333864519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d292329f0d404499dad3a1d2e1bee1
+      internalID: 1738085484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13ca93f01a015419c48d07ead5652c
+      internalID: -173730015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912de2f8757877f4faa9092bbc718cd4
+      internalID: -1602918978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_12_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500323cb3d370c43b71cbac01905f70
+      internalID: 816075096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887710883c8b95d4ca7fb635e4c0ca71
+      internalID: 1913351285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70e298758a98e4baf6e12b6b6c7ae2
+      internalID: 897157785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf681dff1ff2734e87db449061a1d04
+      internalID: -1740416149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c7ca820efd3f42a2fdd261b6fdd9d
+      internalID: 1164100893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359748f16662e474fa36306edece7029
+      internalID: 1061429284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527ff3f8cfa1354fa6db33335384e95
+      internalID: -1695654077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e351083b2f08b44484daa7fddbfbbe3
+      internalID: -1452126636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954af233d03e014390d486888ddacb2
+      internalID: 1760020253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9336bd0ffe2a5344bf4cb3f604852e6
+      internalID: -1312081232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9192f90671e6a4eb64f794de38b6b1
+      internalID: -1452810189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2409fd137fd57a47afbd333838bb0ee
+      internalID: 642678010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ffe2ce89a6a94fa1f4cb016d3cbdf
+      internalID: 1730371394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_13_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7365e98a7ead5408bf5da7b93777ae
+      internalID: -659486348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8869ccfba8870419e3f140f841f294
+      internalID: -159759545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210d86388570034bb02a8c48215ffc4
+      internalID: -240832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2176a50f6ca42499aabbb44d33e5ff
+      internalID: -2118539768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870bef578eca3444f8d0ae542cb8d823
+      internalID: 1143327114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbe2d2adb9d3b42abed9f1dba589f3
+      internalID: -890407520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87baae987b8a95f439a6ef61f2d676ce
+      internalID: 1933998998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7213209c019f64c9a9f3f3c4316c90
+      internalID: -185389158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5627641b0fa21844c852a1243bf758d3
+      internalID: -125305787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546a62943ceb9642b769e3b8a7fba2a
+      internalID: -1060816514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff31d65219f854643a04850a6d479c29
+      internalID: 1361196326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e21359e0b6674dabfc3e0a1593056
+      internalID: -758612263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5c70c7d7f8794ca5579fb76fc9477
+      internalID: -994284762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_14_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99e504a9090b6449b525be6682f7be
+      internalID: 1227465045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf455c785aa7d46a22362e0c1823d4
+      internalID: -1102686776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b9d1284c9c1a44b62c524d4d98b63
+      internalID: 416012703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 78
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040726613164db7479c67a68d8bdd86e
+      internalID: -923011934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ba4ab82026fc4b91088f975e6dcde
+      internalID: -1847788048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9159bd27ed5914ab698b546e86a326
+      internalID: 1014464695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 26
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fffabdcfc0e7f49b500125a790477d
+      internalID: 154844528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1e2a0a0797144cab0cc8e882b547d
+      internalID: 1410444163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ccfb7093c511048bf0ddf3511172fe
+      internalID: -166315759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 52
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bbc475e823ba41ab6d9cf5e50a2f6
+      internalID: 1499733752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2cba1d52081db4a9d8688a38dbee0e
+      internalID: 86509349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d94d15232756c479a2ed0efcec7be2
+      internalID: -2146584511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29158d2b753c44e84bdf53d4bf3ae7
+      internalID: -329596245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsPeople2_15_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc9e6e59907494d99dd5f773836b82
+      internalID: -243786382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4580fba643c2d764ab422996ed9ef566
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Example_NPC_0_0: 2286331526024065500
+      Example_NPC_0_1: -3135615896457554676
+      Example_NPC_0_10: -6489867727592471270
+      Example_NPC_0_11: 2444567442875127936
+      Example_NPC_0_12: -472098054817115938
+      Example_NPC_0_13: 1965699899
+      Example_NPC_0_14: 1767311258
+      Example_NPC_0_15: 1614123039
+      Example_NPC_0_16: -1469251975
+      Example_NPC_0_2: -2328956286918083280
+      Example_NPC_0_3: -5527134759211012608
+      Example_NPC_0_4: -5408077006699221872
+      Example_NPC_0_5: 2918312368669450727
+      Example_NPC_0_6: 422729277383384882
+      Example_NPC_0_7: -2395922968699533754
+      Example_NPC_0_8: -1255407715853005937
+      Example_NPC_0_9: 7841801410931637819
+      Example_NPC_10_0: 1056328200727449780
+      Example_NPC_10_1: 4259475104863495602
+      Example_NPC_10_10: 5859925312398136062
+      Example_NPC_10_11: -7453638616141784153
+      Example_NPC_10_12: -3360368427941803741
+      Example_NPC_10_13: -1517559629
+      Example_NPC_10_14: -2117700925
+      Example_NPC_10_15: 2093294807
+      Example_NPC_10_16: 323336972
+      Example_NPC_10_2: 472793841563743553
+      Example_NPC_10_3: -7774271897925376693
+      Example_NPC_10_4: -8996012131184675331
+      Example_NPC_10_5: -779899127672152391
+      Example_NPC_10_6: 8777166236104849982
+      Example_NPC_10_7: 8583736636892239256
+      Example_NPC_10_8: -4052599901290361935
+      Example_NPC_10_9: -4091181498769687009
+      Example_NPC_11_0: -8381175248650958644
+      Example_NPC_11_1: 1385185814836828328
+      Example_NPC_11_10: -2301298607787240546
+      Example_NPC_11_11: 7701707862004260766
+      Example_NPC_11_12: 5862345493246795315
+      Example_NPC_11_13: 865634868
+      Example_NPC_11_14: 1187099547
+      Example_NPC_11_15: -1918854126
+      Example_NPC_11_16: -1663512987
+      Example_NPC_11_2: -7573796205970745919
+      Example_NPC_11_3: -8058951907690494051
+      Example_NPC_11_4: 2814640009137492331
+      Example_NPC_11_5: 504165993210942591
+      Example_NPC_11_6: 8984924317009504291
+      Example_NPC_11_7: 3422490497674362257
+      Example_NPC_11_8: -3578222215780896379
+      Example_NPC_11_9: 5425445212093648838
+      Example_NPC_12_0: -3417814613485469871
+      Example_NPC_12_1: -8418455561069443396
+      Example_NPC_12_10: -6064127086984902386
+      Example_NPC_12_11: -2476861326815613023
+      Example_NPC_12_12: -5791711181797586539
+      Example_NPC_12_13: -1775375296
+      Example_NPC_12_14: -1998838671
+      Example_NPC_12_15: 775518813
+      Example_NPC_12_16: 193854227
+      Example_NPC_12_2: 1878595699144534595
+      Example_NPC_12_3: -3575168442402216676
+      Example_NPC_12_4: -4435219317285857388
+      Example_NPC_12_5: 6064296759506769953
+      Example_NPC_12_6: -3069266328496108588
+      Example_NPC_12_7: 7072537107068706460
+      Example_NPC_12_8: -4136334259941737398
+      Example_NPC_12_9: 8768606820598407561
+      Example_NPC_13_0: 6460914666724172379
+      Example_NPC_13_1: -2894904373474393020
+      Example_NPC_13_10: 6606844909119954224
+      Example_NPC_13_11: -3673098984159958829
+      Example_NPC_13_12: 7936221262985756561
+      Example_NPC_13_13: -1189466225
+      Example_NPC_13_14: -384506977
+      Example_NPC_13_15: 915324099
+      Example_NPC_13_16: 2117163109
+      Example_NPC_13_2: -6101884767827250272
+      Example_NPC_13_3: 7525577845596616385
+      Example_NPC_13_4: -7620401860318940631
+      Example_NPC_13_5: 9154923367763514251
+      Example_NPC_13_6: -3292493563613098862
+      Example_NPC_13_7: 7136546118927611534
+      Example_NPC_13_8: -6587039836069897605
+      Example_NPC_13_9: 4154384939518407501
+      Example_NPC_14_0: -6864945474711445435
+      Example_NPC_14_1: -1125931962365770331
+      Example_NPC_14_10: 2426193038660496587
+      Example_NPC_14_11: 5179806454607814085
+      Example_NPC_14_12: 3272108164045674152
+      Example_NPC_14_13: 56358459
+      Example_NPC_14_14: 810207901
+      Example_NPC_14_15: -1802999560
+      Example_NPC_14_16: -285265330
+      Example_NPC_14_2: 778361582551264075
+      Example_NPC_14_3: -3324212839547198256
+      Example_NPC_14_4: 9079388260545159994
+      Example_NPC_14_5: 229453512374789854
+      Example_NPC_14_6: -5311725605621276252
+      Example_NPC_14_7: -8177992688956913697
+      Example_NPC_14_8: 8093399216896307594
+      Example_NPC_14_9: -1937763175343805426
+      Example_NPC_15_0: 6443595828721350030
+      Example_NPC_15_1: 1342946298528129035
+      Example_NPC_15_10: -1793722777891307152
+      Example_NPC_15_11: -3077985593060922861
+      Example_NPC_15_12: 7674469992857934332
+      Example_NPC_15_13: 1440447623
+      Example_NPC_15_14: -1801358789
+      Example_NPC_15_15: 27524781
+      Example_NPC_15_16: 311159696
+      Example_NPC_15_2: 2140176596445674269
+      Example_NPC_15_3: -408948770501697716
+      Example_NPC_15_4: 5527456098026031700
+      Example_NPC_15_5: 8927436157494190632
+      Example_NPC_15_6: -4469708804777371906
+      Example_NPC_15_7: -6428505733732837650
+      Example_NPC_15_8: 8905762372419809100
+      Example_NPC_15_9: 34237344274874601
+      Example_NPC_1_0: 8632395620621908690
+      Example_NPC_1_1: 1116320737022610481
+      Example_NPC_1_10: 7146971097332472858
+      Example_NPC_1_11: 8514255962098317019
+      Example_NPC_1_12: -8819462670737498293
+      Example_NPC_1_13: 1328368740
+      Example_NPC_1_14: -925632286
+      Example_NPC_1_15: 552869482
+      Example_NPC_1_16: -1667803475
+      Example_NPC_1_2: 7323048885004206903
+      Example_NPC_1_3: 5634655426512199983
+      Example_NPC_1_4: -7195835962643604231
+      Example_NPC_1_5: 3690273178959563988
+      Example_NPC_1_6: -2076105708892877724
+      Example_NPC_1_7: 3227518680299230507
+      Example_NPC_1_8: 1471560874236443187
+      Example_NPC_1_9: -5116843931544143888
+      Example_NPC_2_0: 4647221076728817279
+      Example_NPC_2_1: -7372230112414266560
+      Example_NPC_2_10: -2658602485960626815
+      Example_NPC_2_11: 9037971157089319643
+      Example_NPC_2_12: -6603553264913555941
+      Example_NPC_2_13: -1112910303
+      Example_NPC_2_14: -1932390216
+      Example_NPC_2_15: 999132395
+      Example_NPC_2_16: 2119958609
+      Example_NPC_2_2: 854513775640928558
+      Example_NPC_2_3: 4433346733844455210
+      Example_NPC_2_4: 3208210904697040474
+      Example_NPC_2_5: 5188666366027271437
+      Example_NPC_2_6: -5745117845716069314
+      Example_NPC_2_7: -3470758245197592677
+      Example_NPC_2_8: 1351554230043187864
+      Example_NPC_2_9: -5690230790664739780
+      Example_NPC_3_0: 3840966322792451908
+      Example_NPC_3_1: -7263134134015075848
+      Example_NPC_3_10: 4718978433564721572
+      Example_NPC_3_11: 6272258173434253037
+      Example_NPC_3_12: -1440766243141701440
+      Example_NPC_3_13: 1463692159
+      Example_NPC_3_14: -506316766
+      Example_NPC_3_15: -1211469562
+      Example_NPC_3_16: -1566047057
+      Example_NPC_3_2: -8184680396148312526
+      Example_NPC_3_3: -1108032881700819163
+      Example_NPC_3_4: -3015701179570523185
+      Example_NPC_3_5: -6781242382900644862
+      Example_NPC_3_6: -7673885713579432653
+      Example_NPC_3_7: -1079682030086170070
+      Example_NPC_3_8: -5871543168568195195
+      Example_NPC_3_9: 2941024993062224112
+      Example_NPC_4_0: 4639510752152361551
+      Example_NPC_4_1: 1188924091975563487
+      Example_NPC_4_10: 3659577482909960247
+      Example_NPC_4_11: -1210617424385200712
+      Example_NPC_4_12: 3233009432351180413
+      Example_NPC_4_13: -234927487
+      Example_NPC_4_14: 650837565
+      Example_NPC_4_15: 1640958627
+      Example_NPC_4_16: -1834999826
+      Example_NPC_4_2: 137425992806558203
+      Example_NPC_4_3: -145593731677611799
+      Example_NPC_4_4: 3876085310136768509
+      Example_NPC_4_5: 3484348551395032474
+      Example_NPC_4_6: 487799787903384300
+      Example_NPC_4_7: 2421232336022138687
+      Example_NPC_4_8: -2749653322548097798
+      Example_NPC_4_9: -2808445049140973383
+      Example_NPC_5_0: -652104597831621577
+      Example_NPC_5_1: -4328251065671863826
+      Example_NPC_5_10: 6951198062638174189
+      Example_NPC_5_11: 1840526309341237431
+      Example_NPC_5_12: 7672984719792795413
+      Example_NPC_5_13: -1884442709
+      Example_NPC_5_14: 916181201
+      Example_NPC_5_15: -1185042195
+      Example_NPC_5_16: -797346311
+      Example_NPC_5_2: -8265581609028495741
+      Example_NPC_5_3: -5627790406328750029
+      Example_NPC_5_4: 9053930181110725407
+      Example_NPC_5_5: 8261904164047407424
+      Example_NPC_5_6: 1439574711933101566
+      Example_NPC_5_7: 5959991640877147206
+      Example_NPC_5_8: -6072016980262741455
+      Example_NPC_5_9: -7964321233663048784
+      Example_NPC_6_0: -3716785866892588397
+      Example_NPC_6_1: -7983338039684178048
+      Example_NPC_6_10: 3310990021345969943
+      Example_NPC_6_11: -9186250145023197671
+      Example_NPC_6_12: 148919244439185809
+      Example_NPC_6_13: -50846564
+      Example_NPC_6_14: 1270564321
+      Example_NPC_6_15: -1672487546
+      Example_NPC_6_16: -1047074612
+      Example_NPC_6_2: -7691107990716632951
+      Example_NPC_6_3: 2109780997362098976
+      Example_NPC_6_4: -2111592274184566829
+      Example_NPC_6_5: -2613878386292977530
+      Example_NPC_6_6: 483515119043608470
+      Example_NPC_6_7: -7582838177184566582
+      Example_NPC_6_8: -2645638305695433844
+      Example_NPC_6_9: -227619537371828594
+      Example_NPC_7_0: -8051452841979193913
+      Example_NPC_7_1: 8960729605406528797
+      Example_NPC_7_10: -4912439916356439761
+      Example_NPC_7_11: -5338635981975509882
+      Example_NPC_7_12: 8735530946219556157
+      Example_NPC_7_13: -2092877087
+      Example_NPC_7_14: 214705221
+      Example_NPC_7_15: 1133184523
+      Example_NPC_7_16: -259915353
+      Example_NPC_7_2: -2816976947411648771
+      Example_NPC_7_3: 379868926649934149
+      Example_NPC_7_4: 230585566402753175
+      Example_NPC_7_5: 7054451683867854334
+      Example_NPC_7_6: 6062474384243381386
+      Example_NPC_7_7: 3157914836561415770
+      Example_NPC_7_8: -479598958395037326
+      Example_NPC_7_9: -249517829386059123
+      Example_NPC_8_0: -6747393251302508739
+      Example_NPC_8_1: 8252266264727142134
+      Example_NPC_8_10: -789378030535618819
+      Example_NPC_8_11: 7450075367685220603
+      Example_NPC_8_12: -7810003238985007145
+      Example_NPC_8_13: -800773392
+      Example_NPC_8_14: 266153636
+      Example_NPC_8_15: 546606622
+      Example_NPC_8_16: -943599976
+      Example_NPC_8_2: -915418460414736789
+      Example_NPC_8_3: -4199442178239935032
+      Example_NPC_8_4: -172763894512939477
+      Example_NPC_8_5: -4839864218886632844
+      Example_NPC_8_6: -4371458275812842417
+      Example_NPC_8_7: -6774342775927864962
+      Example_NPC_8_8: -109480655944449303
+      Example_NPC_8_9: -82484434989976202
+      Example_NPC_9_0: -8318917073023704282
+      Example_NPC_9_1: 1499818848528152721
+      Example_NPC_9_10: 6675790749222908413
+      Example_NPC_9_11: -5196800784995434460
+      Example_NPC_9_12: -8175015684244536508
+      Example_NPC_9_13: 1535624887
+      Example_NPC_9_14: -348495656
+      Example_NPC_9_15: -1010928988
+      Example_NPC_9_16: -2065684045
+      Example_NPC_9_2: 5689869582975165561
+      Example_NPC_9_3: -5247187852689863934
+      Example_NPC_9_4: 6254934441612361375
+      Example_NPC_9_5: 5682689528646796868
+      Example_NPC_9_6: 8684035071357414339
+      Example_NPC_9_7: -5238176241037802850
+      Example_NPC_9_8: -1529074501513657967
+      Example_NPC_9_9: 2147972425549718670
+      TownsPeople2_0_0: 1929382419
+      TownsPeople2_0_1: -1385034808
+      TownsPeople2_0_10: 1783577511
+      TownsPeople2_0_11: 869669928
+      TownsPeople2_0_12: 1705830058
+      TownsPeople2_0_2: -1538157585
+      TownsPeople2_0_3: 1515830457
+      TownsPeople2_0_4: -1700618164
+      TownsPeople2_0_5: -1174945959
+      TownsPeople2_0_6: -176035202
+      TownsPeople2_0_7: -1763726037
+      TownsPeople2_0_8: 2028728071
+      TownsPeople2_0_9: 1853828491
+      TownsPeople2_10_0: -1999465729
+      TownsPeople2_10_1: 909238304
+      TownsPeople2_10_10: 824320712
+      TownsPeople2_10_11: -1505139284
+      TownsPeople2_10_12: 2147173069
+      TownsPeople2_10_2: 1034648660
+      TownsPeople2_10_3: -597689955
+      TownsPeople2_10_4: -1937721139
+      TownsPeople2_10_5: 1560189453
+      TownsPeople2_10_6: 1336901199
+      TownsPeople2_10_7: 156501852
+      TownsPeople2_10_8: 1234151801
+      TownsPeople2_10_9: -465172626
+      TownsPeople2_11_0: -1315293558
+      TownsPeople2_11_1: 1570410454
+      TownsPeople2_11_10: -1632146558
+      TownsPeople2_11_11: -1194630344
+      TownsPeople2_11_12: 812900894
+      TownsPeople2_11_2: 635460201
+      TownsPeople2_11_3: 1363075455
+      TownsPeople2_11_4: 184084417
+      TownsPeople2_11_5: 1910945235
+      TownsPeople2_11_6: 64509454
+      TownsPeople2_11_7: 1192135805
+      TownsPeople2_11_8: -2097097423
+      TownsPeople2_11_9: -365777264
+      TownsPeople2_12_0: -554470824
+      TownsPeople2_12_1: 1778935288
+      TownsPeople2_12_10: -173730015
+      TownsPeople2_12_11: -1602918978
+      TownsPeople2_12_12: 816075096
+      TownsPeople2_12_2: 1706014897
+      TownsPeople2_12_3: -283569556
+      TownsPeople2_12_4: -1140057952
+      TownsPeople2_12_5: -42897780
+      TownsPeople2_12_6: -773223415
+      TownsPeople2_12_7: -2036947906
+      TownsPeople2_12_8: 1333864519
+      TownsPeople2_12_9: 1738085484
+      TownsPeople2_13_0: 1913351285
+      TownsPeople2_13_1: 897157785
+      TownsPeople2_13_10: 642678010
+      TownsPeople2_13_11: 1730371394
+      TownsPeople2_13_12: -659486348
+      TownsPeople2_13_2: -1740416149
+      TownsPeople2_13_3: 1164100893
+      TownsPeople2_13_4: 1061429284
+      TownsPeople2_13_5: -1695654077
+      TownsPeople2_13_6: -1452126636
+      TownsPeople2_13_7: 1760020253
+      TownsPeople2_13_8: -1312081232
+      TownsPeople2_13_9: -1452810189
+      TownsPeople2_14_0: -159759545
+      TownsPeople2_14_1: -240832178
+      TownsPeople2_14_10: -758612263
+      TownsPeople2_14_11: -994284762
+      TownsPeople2_14_12: 1227465045
+      TownsPeople2_14_2: -2118539768
+      TownsPeople2_14_3: 1143327114
+      TownsPeople2_14_4: -890407520
+      TownsPeople2_14_5: 1933998998
+      TownsPeople2_14_6: -185389158
+      TownsPeople2_14_7: -125305787
+      TownsPeople2_14_8: -1060816514
+      TownsPeople2_14_9: 1361196326
+      TownsPeople2_15_0: -1102686776
+      TownsPeople2_15_1: 416012703
+      TownsPeople2_15_10: -2146584511
+      TownsPeople2_15_11: -329596245
+      TownsPeople2_15_12: -243786382
+      TownsPeople2_15_2: -923011934
+      TownsPeople2_15_3: -1847788048
+      TownsPeople2_15_4: 1014464695
+      TownsPeople2_15_5: 154844528
+      TownsPeople2_15_6: 1410444163
+      TownsPeople2_15_7: -166315759
+      TownsPeople2_15_8: 1499733752
+      TownsPeople2_15_9: 86509349
+      TownsPeople2_1_0: -2118918512
+      TownsPeople2_1_1: -1878489576
+      TownsPeople2_1_10: 1162828868
+      TownsPeople2_1_11: -1981004186
+      TownsPeople2_1_12: -30719887
+      TownsPeople2_1_2: 731273973
+      TownsPeople2_1_3: -961228523
+      TownsPeople2_1_4: -1417797686
+      TownsPeople2_1_5: -783333315
+      TownsPeople2_1_6: -1387563568
+      TownsPeople2_1_7: 1819870779
+      TownsPeople2_1_8: 145453122
+      TownsPeople2_1_9: 1463230760
+      TownsPeople2_2_0: -791104248
+      TownsPeople2_2_1: -578948195
+      TownsPeople2_2_10: -387224097
+      TownsPeople2_2_11: -1603150560
+      TownsPeople2_2_12: -1723873377
+      TownsPeople2_2_2: 1425014904
+      TownsPeople2_2_3: 1285273321
+      TownsPeople2_2_4: 1706758745
+      TownsPeople2_2_5: 2146838822
+      TownsPeople2_2_6: 598236218
+      TownsPeople2_2_7: -1079224835
+      TownsPeople2_2_8: 1564151675
+      TownsPeople2_2_9: 763413738
+      TownsPeople2_3_0: -664611082
+      TownsPeople2_3_1: 693539446
+      TownsPeople2_3_10: -2093447074
+      TownsPeople2_3_11: 853113668
+      TownsPeople2_3_12: -569710436
+      TownsPeople2_3_2: 193835438
+      TownsPeople2_3_3: -1924426736
+      TownsPeople2_3_4: -585926055
+      TownsPeople2_3_5: 342372690
+      TownsPeople2_3_6: -72250279
+      TownsPeople2_3_7: 1485321714
+      TownsPeople2_3_8: -648777981
+      TownsPeople2_3_9: -982944339
+      TownsPeople2_4_0: -314872293
+      TownsPeople2_4_1: -1163032968
+      TownsPeople2_4_10: -1073021330
+      TownsPeople2_4_11: 342540578
+      TownsPeople2_4_12: 1525286629
+      TownsPeople2_4_2: -613976328
+      TownsPeople2_4_3: 2045977382
+      TownsPeople2_4_4: 1038545531
+      TownsPeople2_4_5: 394106441
+      TownsPeople2_4_6: -1423653576
+      TownsPeople2_4_7: 293050462
+      TownsPeople2_4_8: 462837792
+      TownsPeople2_4_9: -1032459895
+      TownsPeople2_5_0: 1382626890
+      TownsPeople2_5_1: -1748879493
+      TownsPeople2_5_10: -654060512
+      TownsPeople2_5_11: -1103850636
+      TownsPeople2_5_12: -1609210058
+      TownsPeople2_5_2: 1640329893
+      TownsPeople2_5_3: -1555315
+      TownsPeople2_5_4: 1992956926
+      TownsPeople2_5_5: -1874370911
+      TownsPeople2_5_6: -1940658291
+      TownsPeople2_5_7: 1047814125
+      TownsPeople2_5_8: -1940436067
+      TownsPeople2_5_9: 703329355
+      TownsPeople2_6_0: -476872379
+      TownsPeople2_6_1: 1984602121
+      TownsPeople2_6_10: -1345086105
+      TownsPeople2_6_11: 24963752
+      TownsPeople2_6_12: 287860166
+      TownsPeople2_6_2: 223410360
+      TownsPeople2_6_3: 2096683086
+      TownsPeople2_6_4: 958237693
+      TownsPeople2_6_5: 434577470
+      TownsPeople2_6_6: -1252710182
+      TownsPeople2_6_7: -1118251737
+      TownsPeople2_6_8: 318851986
+      TownsPeople2_6_9: -1427397486
+      TownsPeople2_7_0: 1856084713
+      TownsPeople2_7_1: -509508177
+      TownsPeople2_7_10: 1848909373
+      TownsPeople2_7_11: -1845670791
+      TownsPeople2_7_12: -13098170
+      TownsPeople2_7_2: 789284967
+      TownsPeople2_7_3: -1138817510
+      TownsPeople2_7_4: -1408658585
+      TownsPeople2_7_5: -1281704651
+      TownsPeople2_7_6: 981959211
+      TownsPeople2_7_7: -1042809022
+      TownsPeople2_7_8: 1802833071
+      TownsPeople2_7_9: -1249755804
+      TownsPeople2_8_0: -646769003
+      TownsPeople2_8_1: 1679604221
+      TownsPeople2_8_10: 67242363
+      TownsPeople2_8_11: 592394862
+      TownsPeople2_8_12: -1697881076
+      TownsPeople2_8_2: 427398361
+      TownsPeople2_8_3: 1440153921
+      TownsPeople2_8_4: 141559239
+      TownsPeople2_8_5: 539797468
+      TownsPeople2_8_6: 1345869792
+      TownsPeople2_8_7: -1304399392
+      TownsPeople2_8_8: -715811712
+      TownsPeople2_8_9: -2010888093
+      TownsPeople2_9_0: -224793655
+      TownsPeople2_9_1: 1966051770
+      TownsPeople2_9_10: 1873271600
+      TownsPeople2_9_11: 131325510
+      TownsPeople2_9_12: 1611002710
+      TownsPeople2_9_2: -234472745
+      TownsPeople2_9_3: -787743064
+      TownsPeople2_9_4: 278000462
+      TownsPeople2_9_5: 44785190
+      TownsPeople2_9_6: 592761315
+      TownsPeople2_9_7: -1089234077
+      TownsPeople2_9_8: 1107497712
+      TownsPeople2_9_9: 1919417078
+      Townspeople_0_0: -1632794512
+      Townspeople_0_1: -1546337114
+      Townspeople_0_10: 1307870676
+      Townspeople_0_11: 1580943409
+      Townspeople_0_12: -1540179218
+      Townspeople_0_2: 1203620595
+      Townspeople_0_3: -1916717250
+      Townspeople_0_4: -107575448
+      Townspeople_0_5: -1140911914
+      Townspeople_0_6: -907296561
+      Townspeople_0_7: 1150108895
+      Townspeople_0_8: 753523746
+      Townspeople_0_9: 2056104090
+      Townspeople_10_0: 483953942
+      Townspeople_10_1: 1776010472
+      Townspeople_10_10: 1856412493
+      Townspeople_10_11: 713013349
+      Townspeople_10_12: -1277385728
+      Townspeople_10_2: -1680233022
+      Townspeople_10_3: 386733981
+      Townspeople_10_4: 1396886941
+      Townspeople_10_5: 964090193
+      Townspeople_10_6: 2129392862
+      Townspeople_10_7: -662708638
+      Townspeople_10_8: -154462674
+      Townspeople_10_9: -1820403667
+      Townspeople_11_0: -1399388767
+      Townspeople_11_1: 279186670
+      Townspeople_11_10: 2118823479
+      Townspeople_11_11: -653881438
+      Townspeople_11_12: 995200970
+      Townspeople_11_2: -875867603
+      Townspeople_11_3: -1051821494
+      Townspeople_11_4: -445578880
+      Townspeople_11_5: 96586611
+      Townspeople_11_6: -434419554
+      Townspeople_11_7: 546235755
+      Townspeople_11_8: -1059150416
+      Townspeople_11_9: 672600222
+      Townspeople_12_0: -1961131364
+      Townspeople_12_1: -2107789118
+      Townspeople_12_10: -1037699775
+      Townspeople_12_11: -859431489
+      Townspeople_12_12: 1249046551
+      Townspeople_12_2: 375435990
+      Townspeople_12_3: 1552784428
+      Townspeople_12_4: 1109329963
+      Townspeople_12_5: -56060497
+      Townspeople_12_6: -1246212608
+      Townspeople_12_7: -958845261
+      Townspeople_12_8: -1675288239
+      Townspeople_12_9: -2079059280
+      Townspeople_13_0: -1490103288
+      Townspeople_13_1: -1585976142
+      Townspeople_13_10: 1658172828
+      Townspeople_13_11: 1034213195
+      Townspeople_13_12: -533999007
+      Townspeople_13_2: 1396551764
+      Townspeople_13_3: -617356104
+      Townspeople_13_4: -1219398225
+      Townspeople_13_5: -1793816444
+      Townspeople_13_6: 2124139584
+      Townspeople_13_7: -780051281
+      Townspeople_13_8: -252020206
+      Townspeople_13_9: 1393099244
+      Townspeople_14_0: -1113984388
+      Townspeople_14_1: 1960825320
+      Townspeople_14_10: 1464942803
+      Townspeople_14_11: -1359678116
+      Townspeople_14_12: 33360545
+      Townspeople_14_2: 1476189088
+      Townspeople_14_3: -1363667751
+      Townspeople_14_4: 140329488
+      Townspeople_14_5: 409198134
+      Townspeople_14_6: 1984099145
+      Townspeople_14_7: 387795905
+      Townspeople_14_8: -1936392320
+      Townspeople_14_9: -27075859
+      Townspeople_15_0: 1574874808
+      Townspeople_15_1: -513413614
+      Townspeople_15_10: -1151631933
+      Townspeople_15_11: -314381859
+      Townspeople_15_12: 1898076655
+      Townspeople_15_2: -924768426
+      Townspeople_15_3: 1063270934
+      Townspeople_15_4: -43254404
+      Townspeople_15_5: -469879282
+      Townspeople_15_6: -1606269401
+      Townspeople_15_7: -1606332675
+      Townspeople_15_8: -109756216
+      Townspeople_15_9: -197129729
+      Townspeople_1_0: -1469824081
+      Townspeople_1_1: 1023732196
+      Townspeople_1_10: 717448858
+      Townspeople_1_11: -1897461669
+      Townspeople_1_12: 721867763
+      Townspeople_1_2: -1448703124
+      Townspeople_1_3: 128756209
+      Townspeople_1_4: -2099470848
+      Townspeople_1_5: -1419100066
+      Townspeople_1_6: -1666752396
+      Townspeople_1_7: -1931091110
+      Townspeople_1_8: -544516467
+      Townspeople_1_9: 896467605
+      Townspeople_2_0: 112030256
+      Townspeople_2_1: 474391265
+      Townspeople_2_10: 1779894878
+      Townspeople_2_11: -879000797
+      Townspeople_2_12: 1359140369
+      Townspeople_2_2: -1951853600
+      Townspeople_2_3: -2135472344
+      Townspeople_2_4: -1204387045
+      Townspeople_2_5: -658877257
+      Townspeople_2_6: 245687074
+      Townspeople_2_7: -1755305086
+      Townspeople_2_8: 1636084374
+      Townspeople_2_9: -370390010
+      Townspeople_3_0: -1954259417
+      Townspeople_3_1: -2047934918
+      Townspeople_3_10: 1735472734
+      Townspeople_3_11: -1980624680
+      Townspeople_3_12: -437132804
+      Townspeople_3_2: -1983318814
+      Townspeople_3_3: -1377044575
+      Townspeople_3_4: -1272967477
+      Townspeople_3_5: -1955693387
+      Townspeople_3_6: 1327709347
+      Townspeople_3_7: -141536698
+      Townspeople_3_8: 801206643
+      Townspeople_3_9: -761690069
+      Townspeople_4_0: 698948635
+      Townspeople_4_1: 1624994784
+      Townspeople_4_10: -53527876
+      Townspeople_4_11: -1098317219
+      Townspeople_4_12: 1823607111
+      Townspeople_4_2: -1296236905
+      Townspeople_4_3: -1301099096
+      Townspeople_4_4: -1037926354
+      Townspeople_4_5: 352743086
+      Townspeople_4_6: 1722894942
+      Townspeople_4_7: 1040407690
+      Townspeople_4_8: 1647011044
+      Townspeople_4_9: 667465068
+      Townspeople_5_0: -1753923071
+      Townspeople_5_1: 122127175
+      Townspeople_5_10: -798329409
+      Townspeople_5_11: -1056861873
+      Townspeople_5_12: -689081863
+      Townspeople_5_2: 87881809
+      Townspeople_5_3: -819804474
+      Townspeople_5_4: -429021255
+      Townspeople_5_5: 1816109733
+      Townspeople_5_6: -1681864193
+      Townspeople_5_7: -440348181
+      Townspeople_5_8: -2004634438
+      Townspeople_5_9: -847512921
+      Townspeople_6_0: -1783771693
+      Townspeople_6_1: 1452339829
+      Townspeople_6_10: 770542204
+      Townspeople_6_11: -1729387267
+      Townspeople_6_12: -385165640
+      Townspeople_6_2: -249198348
+      Townspeople_6_3: 1751547840
+      Townspeople_6_4: -97681587
+      Townspeople_6_5: -1961701243
+      Townspeople_6_6: -1046891196
+      Townspeople_6_7: -1092149053
+      Townspeople_6_8: 1297139251
+      Townspeople_6_9: -16742781
+      Townspeople_7_0: 1075854237
+      Townspeople_7_1: 1359840045
+      Townspeople_7_10: -264138470
+      Townspeople_7_11: 2063399396
+      Townspeople_7_12: -344141305
+      Townspeople_7_2: -2094741891
+      Townspeople_7_3: 1829657427
+      Townspeople_7_4: -1368384674
+      Townspeople_7_5: -333035042
+      Townspeople_7_6: 2078560446
+      Townspeople_7_7: 719078878
+      Townspeople_7_8: 1640442731
+      Townspeople_7_9: 1782402105
+      Townspeople_8_0: -2097618153
+      Townspeople_8_1: -929841692
+      Townspeople_8_10: 1043783026
+      Townspeople_8_11: -2014455001
+      Townspeople_8_12: -1265150835
+      Townspeople_8_2: -332276051
+      Townspeople_8_3: 608710386
+      Townspeople_8_4: 1540034464
+      Townspeople_8_5: -1864906328
+      Townspeople_8_6: -1195989354
+      Townspeople_8_7: 1751635480
+      Townspeople_8_8: -1147500529
+      Townspeople_8_9: -1334060540
+      Townspeople_9_0: 1421430641
+      Townspeople_9_1: -1298902711
+      Townspeople_9_10: -315941869
+      Townspeople_9_11: 1008565845
+      Townspeople_9_12: 585621807
+      Townspeople_9_2: -1667013500
+      Townspeople_9_3: 469091950
+      Townspeople_9_4: 2124889403
+      Townspeople_9_5: 196186061
+      Townspeople_9_6: -472682324
+      Townspeople_9_7: -1028081681
+      Townspeople_9_8: -98519242
+      Townspeople_9_9: -292028054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

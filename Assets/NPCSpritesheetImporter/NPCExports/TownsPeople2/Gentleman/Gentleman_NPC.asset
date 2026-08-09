@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64298f9c0a602c848a85b3f17575fe9c, type: 3}
+  m_Name: Gentleman_NPC
+  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainerVisual
+  key: Gentleman
+  npc_name: Gentleman
+  trainerSprite: {fileID: 1227465045, guid: 6796433d549da0042a1385be1c37d5e2, type: 3}
+  overworldTrainerSprite: {fileID: -240832178, guid: 6796433d549da0042a1385be1c37d5e2, type: 3}
+  animator: {fileID: 22100000, guid: 832f72b5c2ae79e4092f149da9545872, type: 2}
+  usesDialogueColor: 1
+  dialogueFrameColor: {r: 0.54901963, g: 0.40784317, b: 0.28627452, a: 1}
